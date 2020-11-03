@@ -10,16 +10,16 @@ My biggest **Traktor** reason is using my OS folders as "playlists", its effects
 I'm a DJ since year 2000. Some free contributions for you to enjoy:
 
 a) A quite broad knowledge base that covers Traktor, Mappings, Laptop optimization, Controllers, etc...\
-https://github.com/pestrela/music/blob/master/traktor/README.md#table-of-contents 
+<https://github.com/pestrela/dj_kb#table-of-contents>
 
 b) The most popular traktor mapping for the DDJ-1000. This also works for other 4 deck controllers (SX2, SRT, SZ, XZ, etc)\
-https://maps.djtechtools.com/mappings/9279 
+<https://maps.djtechtools.com/mappings/9279>
 
 c) CMDR, the free  TSI mapping editor for Traktor\
-https://github.com/cmdr-editor/cmdr/blob/master/README.md  
+<https://github.com/cmdr-editor/cmdr/> 
 
 d) My specific music styles are Trance and 80s (Italo Disco). I also play commercial Top-40.\
-https://djestrela.com/  
+<https://djestrela.com/>
 
 
 # Table of Contents
@@ -2391,6 +2391,20 @@ Then:
   
 [original blog post](https://github.com/cmdr-editor/cmdr/blob/master/docs/running_on_macos.md)
   
+## How to run macOS on windows and linux
+
+I've sucessfully ran MacOS in a windows machine usig virtualBox:
+* <https://www.soupbowl.io/2020/04/macos-in-virtualbox/>
+
+If you are in linux you can get a docker image premade:
+* <https://github.com/kholia/OSX-KVM>
+* <https://github.com/sickcodes/Docker-OSX/>
+
+Future windows WSL2 will be able to run docker images as well. Requirement is windows 2004 (from april 2020)
+* <https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers>
+* <https://code.visualstudio.com/blogs/2020/03/02/docker-in-wsl2>
+
+  
   
 ## How I build perfect tracklists using CUE files
 
@@ -3061,7 +3075,7 @@ Windows 10:
 * [guide](https://windowsreport.com/inverted-colors-windows-10/)
 
 MacOS:
-* “System Preferences” > “Keyboard” > “Shortcuts” > “Accessibility” >  “Invert Colors
+* “System Preferences” > “Keyboard” > “Shortcuts” > “Accessibility” > “Invert Colors"
 * [guide](https://devicebar.com/invert-display-colors-on-apple-mac-os-x/2642/)
     
 Second, there are freeware programs that are better, by only inverting the brightness and keepng the hues as they are 
