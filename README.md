@@ -349,7 +349,7 @@ Posts:
 * [d) Hotcues move the temporary cue as well](#why-is-traktor-my-software-of-choice-d-hotcues-move-the-temporary-cue-as-well)
 * [e) Stronger Sync than others](#Why-is-Traktor-my-software-of-choice-e-Stronger-Sync-than-others)
 
-more info: https://github.com/pestrela/music_scripts/tree/master/traktor#why-is-traktor-my-software-of-choice
+more info: <https://github.com/pestrela/dj_kb#why-is-traktor-my-software-of-choice>
 
 See also [which features I miss in Traktor](#Which-features-I-miss-in-Traktor), and [STEMS info](#How-to-create-your-own-karaoke-files-automatically-using-Stems-and-AI).
 
@@ -393,8 +393,8 @@ When I'm playing a specific genre I can search only that decade (=OS folder). If
   
 Traktor supports complex MIDI mapping with 8x variables, 2x conditionals and any number of actions per MIDI input
 
-My [DDJ-1000 mapping has FX chains of the Jogwheel](https://github.com/pestrela/music_scripts/blob/master/traktor/ddj_1000_traktor_mapping/DDJ-1000%20v6.5.1%20TP3%20-%20Quick%20overview.pdf). For a demo, see at 6:30 of this video: https://www.youtube.com/watch?v=h9tQZEHr8hk&t=392s \
-My [AKAI AMX mapping has 10 layers built using shifts and states](https://github.com/pestrela/music_scripts/blob/master/traktor/akai_amx_traktor_mapping/AMX%20v1.0.1%20TP3_TP2%20-%20Quick%20overview.pdf) to cram A LOT more functionality than the existing buttons.\
+My [DDJ-1000 mapping has FX chains of the Jogwheel](https://github.com/pestrela/dj_maps/tree/main/ddj_1000/). For a demo, see at 6:30 of this video: https://www.youtube.com/watch?v=h9tQZEHr8hk&t=392s \
+My [AKAI AMX mapping has 10 layers built using shifts and states](https://github.com/pestrela/dj_maps/tree/main/akai_amx) to cram A LOT more functionality than the existing buttons.\
 This is only possible if midi mapping has variables and multiple actions per physical input.
 \
 * **Comparison to Rekordbox:** No variables at all, no multiple actions. They only allow you to assign a single command to a single button. 
@@ -434,7 +434,7 @@ See also: <https://djtechtools.com/2011/10/23/looking-into-sync-power-functions-
 Specific features:
 * **#1: Elastic beatgrids**: This is crucial as I play very old music and many music styles. [tool](#how-to-emulate-elastic-beatgrids-in-traktor)
 * **#2: Include subcrates** just like [serato](https://support.serato.com/hc/en-us/articles/227626268-Subcrates)
-* **#3: Pioneer DDJ**: Plug-and-Play to Pioneer gear / DDJ controllers, because this is the [most popular equipment today](../census_graphs)
+* **#3: Pioneer DDJ**: Plug-and-Play to Pioneer gear / DDJ controllers, because this is the [most popular equipment today](https://github.com/pestrela/music/tree/master/census_graphs)
 * **#4: Pad modes**: I have multiple pad modes in my mappings, but would love to see them on screen, and have an associated pad editor just like Rekordbox and VirtualDJ
 * **#5: Turntable FX**: Turntable start&stop on the [play/pause button](https://www.youtube.com/watch?v=EPnmyDiaJTE)
 * **#6: Video support**
@@ -448,7 +448,7 @@ In general I fully agree with [this Digital DJ Tips article](https://www.digital
 
 But in the end Traktor has [has unique features that I depend on](#why-is-traktor-my-software-of-choice).
 
-See also the [most popular DJ softwares census](../census_graphs).
+See also the [most popular DJ softwares census](https://github.com/pestrela/music/tree/master/census_graphs).
 
 ## Include subcrates like serato
 
@@ -1039,7 +1039,7 @@ This saves you to having to open the preferences window to change the audio devi
 which is [very slow when you have large mappings](https://www.native-instruments.com/forum/threads/preferences-window-freeze.328315/page-2#post-1870879).
 
 **Script installation:**
-* save [this script](https://raw.githubusercontent.com/pestrela/music_scripts/master/traktor/tools_traktor/traktor_swap_configuration.sh) in your desktop with "right-click"/"save-as"
+* save [this script](https://raw.githubusercontent.com/pestrela/music/master/traktor/tools_traktor/traktor_swap_configuration.sh) in your desktop with "right-click"/"save-as"
 * make the script executable with 'chmod +x traktor_swap_configuration.sh '
 * redefine the 'traktor_root_folder' variable to your documents traktor root
 * *run it once* to copy the first config
@@ -1090,7 +1090,7 @@ Because of this all my latest mappings require [BOME](https://www.bome.com/produ
   
 ## Why I moved to BOME midi mapping: Impossible features
 
-* **#1: 14-bit out messages**: Trakor supports *receiving* high resolution midi messages. I need to *send* them as well [on my DDJ-1000 mapping](../ddj/1%20MIDI%20codes/DDJ-1000RB%20-%20MIDI%20Messages.pdf)
+* **#1: 14-bit out messages**: Trakor supports *receiving* high resolution midi messages. I need to *send* them as well [on my DDJ-1000 mapping](https://github.com/pestrela/ddj/1%20MIDI%20codes/DDJ-1000RB%20-%20MIDI%20Messages.pdf)
 * **#2: Sequence of Events**: For PadFX, I *first* need to change the FX, and *then* need to turn it on. This is not something Traktor support; both actions are tried simultaneously resulting in something else. More info: page 88 of the [Rudi Elephant mapping](pics/RUDI-Js%20ELEPHANT%20TSI%20for%20VCI-400SE%20%2B%20Maschine%20(MK1)%20%2B%20BCR%202000%20v2.0.pdf).
 * **#3: Timers**: Something simple as end-of-track blinking require timers to schedule actions for later. Same story for [vinyl break on the play/pause button](https://www.youtube.com/watch?v=EPnmyDiaJTE), as implemented by [Traktor Mapping Service](http://traktormappingservice.com/)
 * **#4: Any event as a Conditional**: Some events can be inputs to conditionals, like "is in active loop". However many events are missing, for example "which deck is master." To implement this, please see page 87 of the [Rudi Elephant mapping](pics/RUDI-Js%20ELEPHANT%20TSI%20for%20VCI-400SE%20%2B%20Maschine%20(MK1)%20%2B%20BCR%202000%20v2.0.pdf).
@@ -1270,8 +1270,8 @@ Note: sometimes that site is under maintenance. Please try later in this case.
 ## How to INSTALL my Traktor mappings:
 
 TO INSTALL: Please see this video where I show how to install the mappings: https://youtu.be/MbGP_ECnWiQ\
-See also this PDF file for step-by-step instructions: [installation guide](https://github.com/pestrela/music/blob/master/traktor/mapping_ddj_1000/Installation%20Help/DDJ%20Mappings%20-%20Installation%20Guide.pdf)\
-See also the common questions: [FAQ](https://github.com/pestrela/music/blob/master/traktor/mapping_ddj_1000/Installation%20Help/DDJ%20Mappings%20-%20Frequently%20Asked%20Questions.pdf)
+See also this PDF file for step-by-step instructions: [installation guide](https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000/3%20Documentation)\
+See also the common questions: [FAQ](https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000/3%20Documentation)
 
 Some notes:
 * **#1:** My guides covers all DDJ controllers. The only difference is the Aliases (page 10) and Output (page 28). The Annexes have specific pictures for specific DDJs.
@@ -1282,9 +1282,9 @@ Some notes:
 ## What are the features of your DDJ-1000 Traktor mapping?
 
 **Links:**
-* Download Link: https://maps.djtechtools.com/mappings/9279
-* Documentation: https://github.com/pestrela/music/blob/master/traktor/mapping_ddj_1000/
-*	Video demo: https://youtu.be/h9tQZEHr8hk
+* Download Link: <https://maps.djtechtools.com/mappings/9279>
+* Documentation: <https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000>
+*	Video demo: <https://youtu.be/h9tQZEHr8hk>
 
 **Feature list: Unique features**
 *	Only mapping in the world with Jog Screens
@@ -1320,9 +1320,9 @@ Some notes:
 ## What are the features of your DDJ-SX2 / DDJ-SZ / DDJ-SRT Traktor mapping?
 
 **Links:**
-*	Download Link: https://maps.djtechtools.com/mappings/9222 
-*	Documentation: https://github.com/pestrela/music/tree/master/traktor/mapping_ddj_sx2_sz_srt 
-*	Video demo: http://youtu.be/H_TE2mtuM6Q 
+*	Download Link: <https://maps.djtechtools.com/mappings/9222>
+*	Documentation: <https://github.com/pestrela/dj_maps/tree/master/ddj_sx2_sz_srt>
+*	Video demo: <http://youtu.be/H_TE2mtuM6Q>
 
 **Feature list:**
 * Much faster to load ([3 seconds instead of 18](#How-slow-does-the-preferences-window-get))
@@ -1347,9 +1347,9 @@ Some notes:
 ## What are the features of your AKAI AMX Traktor mapping?
 
 **Links:**
-*	Download Link: https://maps.djtechtools.com/mappings/9323 
-*	Documentation: https://github.com/pestrela/music/tree/master/traktor/mapping_akai_amx
-*	Video demo: https://www.youtube.com/watch?v=TzAgENM55DE 
+*	Download Link: <https://maps.djtechtools.com/mappings/9323>
+*	Documentation: <https://github.com/pestrela/dj_maps/tree/akai_amx>
+*	Video demo: <https://www.youtube.com/watch?v=TzAgENM55DE>
 
 **Feature list:**
 *	DVS TP3
@@ -1384,9 +1384,9 @@ Some notes:
 ## What are the features of your XDJ-XZ Traktor mapping?
 
 **Links:**
-*	Download Link: https://maps.djtechtools.com/mappings/10305
-* Documentation: https://github.com/pestrela/music/blob/master/traktor/mapping_xdj_xz/ 
-*	Video demo: https://youtu.be/7EPfY9bGGlw 
+*	Download Link: <https://maps.djtechtools.com/mappings/10305>
+* Documentation: <https://github.com/pestrela/dj_maps/blob/master/xdj_xz/> 
+*	Video demo: <https://youtu.be/7EPfY9bGGlw> 
 
 **Feature List:**
 * Much faster to load ([3 seconds instead of 18](#How-slow-does-the-preferences-window-get))
@@ -1410,10 +1410,10 @@ Some notes:
 ## What are the features of your Numark PartyMix mapping?
 
 Links:
-*	Download: https://maps.djtechtools.com/mappings/9764
-*	Demo video: https://youtu.be/W6yuVs0ah2k 
-*	Installation video (starts at 7:30):  https://youtu.be/W6yuVs0ah2k
-*	Documentation: https://github.com/pestrela/music/tree/master/traktor/mapping_party_mix 
+*	Download: <https://maps.djtechtools.com/mappings/9764>
+*	Demo video: <https://youtu.be/W6yuVs0ah2k>
+*	Installation video (starts at 7:30):  <https://youtu.be/W6yuVs0ah2k>
+*	Documentation: <https://github.com/pestrela/dj_maps/tree/master/numark_party_mix>
 
 FEATURE LIST:
 *	2x shift layers
@@ -1607,7 +1607,7 @@ Pioneer has **dozens** of controllers. I own 3x of them, so ONLY there the mappi
 * DDJ-SZ
 * DDJ-SX2
 
-The other controllers [are compatible](../ddj/1%20MIDI%20codes) - but there are always differences.\
+The other controllers [are compatible](https://github.com/pestrela/ddj/tree/main/1%20MIDI%20codes) - but there are always differences.\
 **So for these [please try the mapping FOR FREE](#can-i-test-your-mappings-for-free) in a shop/friend.**
 
 Once in a while I test controllers in a shop myself; ONLY in this case I describe the results in the first page of the mapping manual.\
@@ -2208,9 +2208,9 @@ https://maps.djtechtools.com/mappings/10575
 
 
 ## 26ms shift issue links
-* 26ms research work: https://github.com/digital-dj-tools/dj-data-converter/issues/3
-* Examples of corner cases: https://github.com/pestrela/music_scripts/tree/master/traktor/26ms_offsets/examples_tagged
-* Analysis code: https://mybinder.org/v2/gh/pestrela/music_scripts/master
+* 26ms research work: <https://github.com/digital-dj-tools/dj-data-converter/issues/3>
+* Examples of corner cases: <https://github.com/pestrela/music/tree/master/traktor/26ms_offsets/examples_tagged>
+* Analysis code: <https://mybinder.org/v2/gh/pestrela/music/master>
 
 ![26ms_problem](pics/26ms_problem.png?raw=true)
 
@@ -2370,7 +2370,7 @@ Then connect to your cloud machine using RDP for mac:
 https://www.techrepublic.com/article/pro-tip-remote-desktop-on-mac-what-you-need-to-know/
 
 Then:
-  * Install CMDR as explained here: [CMDR installation instructions](https://github.com/pestrela/cmdr#download-and-installation)
+  * Install CMDR as explained here: [CMDR installation instructions](https://github.com/cmdr-editor/cmdr#download-and-installation)
   * Copy your TSI into the virtual machine (simplest is to use eg google drive on the browser)
  
 ### Most complex: VirtualBox
@@ -2385,7 +2385,7 @@ Step by step instructions are on:
   * Step 4: Get your OS up and running
 
 Then:
-  * Install CMDR as explained here: [CMDR installation instructions](https://github.com/pestrela/cmdr#download-and-installation)
+  * Install CMDR as explained here: [CMDR installation instructions](https://github.com/cmdr-editor/cmdr#download-and-installation)
   * Copy your TSI into the virtual machine (simplest is to use eg google drive on the browser)
 
   
@@ -2490,23 +2490,23 @@ TODO: finish this post, add picture
 
 ## What Programming libraries and technical scripts did you author?
 
-Please see my open-source github repos in https://github.com/pestrela?tab=repositories
+Please see my open-source github repos in <https://github.com/pestrela?tab=repositories>
 See also my [windows shortcuts](#What-shortcuts-you-added-for-Youtube-Google-and-Discogs)
 
 Summary:
 * **Yapu:** Yet another python libary
   * this is a python3 library for helper wrappers, classes, etc
-  * https://github.com/pestrela/yapu
+  * <https://github.com/pestrela/yapu>
 * **Yabu:** Yet another bash library
   * this is a collection of hundreds of bash scripts that wrap common 
   * also includes a full set of bash libraries of functions
-  * https://github.com/pestrela/yabu
+  * <https://github.com/pestrela/yabu>
 * **cdd_bash:**
   * aliases to transfer the current directory between terminal windows
-  * https://github.com/pestrela/cdd_bash
+  * <https://github.com/pestrela/cdd_bash>
 * **smi_counter:**
   * windows SMI counter. Useful for detect laptop DPC stalls
-  * https://github.com/pestrela/smi_counter
+  * <https://github.com/pestrela/smi_counter>
 
   
   
@@ -2546,14 +2546,14 @@ https://www.pioneerdj.com/en/support/open-source-code-distribution/gpl-lgpl-sour
 * Better Cheatsheet: https://gist.github.com/jonschlinkert/5854601
 * Tables Generator: https://www.tablesgenerator.com/markdown_tables
 
-This is a small program to check relative links inside the same MD document: [md_check_relative_links.py](../wsl_tools).
+This is a small program to check relative links inside the same MD document: [md_check_relative_links.py](https://github.com/pestrela/music/tree/master/wsl_tools).
 
   
 ## What shortcuts you added for Youtube, Google and Discogs?
 
-[This folder](../downloads) contains Windows tweaks and other generic tools.
+[This folder](https://github.com/pestrela/music/tree/master/wsl_tools) contains Windows tweaks and other generic tools.
 
-My [autohotkey file (AHK)](../downloads/AutoHotkey.ahk) has all kinds of 
+My [autohotkey file (AHK)](https://github.com/pestrela/music/tree/master/wsl_tools/AutoHotkey.ahk) has all kinds of 
 useful *global* shortcuts that *work for any text of any program*.\  
 All these shortcuts operate in a single line, or a list of lines:
 * CTRL+F08: Search in Google
@@ -3524,12 +3524,12 @@ Folder with pictures of the knobs: [here](../pic_sets/silver_knobs)
 Digital DJ Tips and DJ Tech Tools collect yearly data on the most popular software and controllers. 
 Every year I update this page with the new data points over time. Source files are [here](../census_graphs)
 
-See also the [most popular DJ softwares census](../census_graphs).\
-See also the graph showing the [most popular DJ softwares over time](../census_graphs).
+See also the [most popular DJ softwares census](https://github.com/pestrela/music/tree/master/census_graphs).\
+See also the graph showing the [most popular DJ softwares over time](https://github.com/pestrela/music/tree/master/census_graphs).
 
-![dj software over time](../census_graphs/dj_software_over_time.jpg?raw=true)
-![dj controllers over time](../census_graphs/dj_controllers_over_time.jpg?raw=true)
-![dj platforms over time](../census_graphs/dj_platform_over_time.jpg?raw=true)
+![dj software over time](https://github.com/pestrela/music/tree/master/census_graphs/dj_software_over_time.jpg?raw=true)
+![dj controllers over time](https://github.com/pestrela/music/tree/master/census_graphs/dj_controllers_over_time.jpg?raw=true)
+![dj platforms over time](https://github.com/pestrela/music/tree/master/census_graphs/dj_platform_over_time.jpg?raw=true)
 
 
 ## 21st century software issues
@@ -3581,13 +3581,13 @@ These are my biggest crontibutions.\
 What did you enjoyed the most? please tell me to pedro.estrela@gmail.com
 
 * Knowledge Base: 16K words 
-  * https://github.com/pestrela/music/blob/master/traktor/README.md
-* DDJ-1000 mapping: 4.6K downloads  
-  * https://maps.djtechtools.com/mappings/9279
+  * <https://github.com/pestrela/dj_kb>
+* DDJ-1000 mapping: 4.6K downloads
+  * <https://maps.djtechtools.com/mappings/9279>
 * DDJ-SX2/SZ/SRT mapping: 3.5K downloads 
-  * https://maps.djtechtools.com/mappings/9222
+  * <https://maps.djtechtools.com/mappings/9222>
 * CMDR Changelog: 80 lines
-  * https://github.com/pestrela/cmdr#2020-improvements 
+  * <https://github.com/cmdr-editor/cmdr#2020-improvements>
   
  
 ## Some people from which I've learned a lot from the Global DJ community
