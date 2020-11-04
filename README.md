@@ -3482,11 +3482,11 @@ You have to disassemble a lot of the controller just to get the jog wheel out.
 Lots of ribbon cables and removing main and Aux PCB boards
 
 
-![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_1.jpg?raw=true)!
-![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_2.jpg?raw=true)!
-![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_3.jpg?raw=true)!
-![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_4.jpg?raw=true)!
-![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_5.jpg?raw=true)!
+![loose 1](https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_1.jpg?raw=true)!
+![loose 1](https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_2.jpg?raw=true)!
+![loose 1](https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_3.jpg?raw=true)!
+![loose 1](https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_4.jpg?raw=true)!
+![loose 1](https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_5.jpg?raw=true)!
 
 
   
@@ -3529,7 +3529,7 @@ See also the graph showing the [most popular DJ softwares over time](https://git
 
 ![dj software over time](
 https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_software_over_time.jpg?raw=true
-https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_software_over_time.jpg?raw=true)
+)
 ![dj controllers over time](https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_controllers_over_time.jpg?raw=true)
 ![dj platforms over time](https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_platform_over_time.jpg?raw=true)
 
