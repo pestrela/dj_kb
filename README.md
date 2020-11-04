@@ -2937,7 +2937,7 @@ Configuring Launchers:
 
 Combining QQTabBar and WSL bash scripts is a powerful way to manipulate files in Explorer.
 
-Example programs from [here](../wsl_tools/):
+Example programs from [here](https://github.com/pestrela/music/tree/master/wsl_tools/):
 * windows_launch_spek.sh: calls the spek frequency analyzer for several files
 * windows_group_files_in_folder.sh: create a sub-folder and move selected files into it 
 * simple WSL shell launch on that folder
@@ -3482,47 +3482,47 @@ You have to disassemble a lot of the controller just to get the jog wheel out.
 Lots of ribbon cables and removing main and Aux PCB boards
 
 
-![loose 1](../pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_1.jpg?raw=true)!
-![loose 1](../pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_2.jpg?raw=true)!
-![loose 1](../pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_3.jpg?raw=true)!
-![loose 1](../pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_4.jpg?raw=true)!
-![loose 1](../pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_5.jpg?raw=true)!
+![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_1.jpg?raw=true)!
+![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_2.jpg?raw=true)!
+![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_3.jpg?raw=true)!
+![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_4.jpg?raw=true)!
+![loose 1](https://github.com/pestrela/music/tree/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_5.jpg?raw=true)!
 
 
   
 ## How to replace the DDJ-1000 filter knobs with Silver knobs
 
-Both 1000 and 1000SRT have extremely [dull filter knobs](../pic_sets/silver_knobs/DDJ-1000RB.jpg). Which is a pity.\
+Both 1000 and 1000SRT have extremely [dull filter knobs](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DDJ-1000RB.jpg). Which is a pity.\
 For now the best fit is [DAA1309](https://www.pacparts.com/part.cfm?part_no=DAA1309&mfg=Pioneer) from the DDJ-SZ or DJM-900. This is an almost perfect fit.
 
-Folder with pictures of the knobs: [here](../pic_sets/silver_knobs)
+Folder with pictures of the knobs: [here](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs)
 
-* [DAA1309](../pic_sets/silver_knobs/DAA1309.png):
+* [DAA1309](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DAA1309.png):
   * This has the best fit overall. The knob is slightly higher than desired.
   * [Part list](https://www.pacparts.com/part.cfm?part_no=DAA1309&mfg=Pioneer): \
     DJM-900NX2/2000NX1/750\
     DDJ-SZ/ DDJ-RZ/ DDJ-RZX
   
-* [DAA1320/DAA1350](../pic_sets/silver_knobs/DAA1320.jpg):
+* [DAA1320/DAA1350](https://github.com/pestrela/music/tree/master//pic_sets/silver_knobs/DAA1320.jpg):
   * this was confirmed NOT to work
   * [parts list]((https://www.pacparts.com/part.cfm?part_no=DAA1320&mfg=Pioneer)): DJM-S9 / DJM-900SRT / XDJ-RX / XDJ-RX2
 
-* [100-SX3-3009](../pic_sets/silver_knobs/100-SX3-3009.jpg):
+* [100-SX3-3009](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/100-SX3-3009.jpg):
   * not tested
   * [part list](https://www.pacparts.com/part.cfm?part_no=100-SX3-3009&mfg=Pioneer): DDJ-RX
   
-* [DAA1373](../pic_sets/silver_knobs/DAA1373.jpg):
+* [DAA1373](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DAA1373.jpg):
   * not tested
   * [parts list](https://www.pacparts.com/part.cfm?part_no=DAA1373&mfg=Pioneer): DJM750 MK2 / 250MK2 / 450 / S3
   
-* [Rane 2015](../pic_sets/silver_knobs/rane%202015%20filters.jpg):
+* [Rane 2015](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/rane%202015%20filters.jpg):
   * this was confirmed to work [by another user](https://www.facebook.com/photo.php?fbid=3050933838255437&set=gm.672781936578130&type=3&theater&ifg=1)
 
   
 ## DJ Census over time results
 
 Digital DJ Tips and DJ Tech Tools collect yearly data on the most popular software and controllers. 
-Every year I update this page with the new data points over time. Source files are [here](../census_graphs)
+Every year I update this page with the new data points over time. Source files are [here](https://github.com/pestrela/music/tree/master/census_graphs)
 
 See also the [most popular DJ softwares census](https://github.com/pestrela/music/tree/master/census_graphs).\
 See also the graph showing the [most popular DJ softwares over time](https://github.com/pestrela/music/tree/master/census_graphs).
