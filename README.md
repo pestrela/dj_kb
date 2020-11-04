@@ -3527,9 +3527,11 @@ Every year I update this page with the new data points over time. Source files a
 See also the [most popular DJ softwares census](https://github.com/pestrela/music/tree/master/census_graphs).\
 See also the graph showing the [most popular DJ softwares over time](https://github.com/pestrela/music/tree/master/census_graphs).
 
-![dj software over time](https://github.com/pestrela/music/tree/master/census_graphs/dj_software_over_time.jpg?raw=true)
-![dj controllers over time](https://github.com/pestrela/music/tree/master/census_graphs/dj_controllers_over_time.jpg?raw=true)
-![dj platforms over time](https://github.com/pestrela/music/tree/master/census_graphs/dj_platform_over_time.jpg?raw=true)
+![dj software over time](
+https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_software_over_time.jpg?raw=true
+https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_software_over_time.jpg?raw=true)
+![dj controllers over time](https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_controllers_over_time.jpg?raw=true)
+![dj platforms over time](https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_platform_over_time.jpg?raw=true)
 
 
 ## 21st century software issues
