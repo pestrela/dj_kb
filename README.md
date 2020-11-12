@@ -1947,28 +1947,29 @@ Looking forward more follow-up courses, namely by other high-quality Tutors, in 
 ## List of Technical Webinars
 
 * **Jeroen Groenendijk**
-  * **Files & Management:** https://www.youtube.com/watch?v=B8n9ma-egX4
-  * **Add Files, Tagging & Preferences:** https://www.youtube.com/watch?v=BkpkGZNoNf8
+  * **Files & Management:** <https://www.youtube.com/watch?v=B8n9ma-egX4>
+  * **Add Files, Tagging & Preferences:** <https://www.youtube.com/watch?v=BkpkGZNoNf8>
 * **Mix Master G:**
-  * **Lots of useful technical videos here:** https://www.youtube.com/channel/UCMXHg5Oi8vlfKyEvsgrMRuQ/playlists
+  * **Lots of useful technical videos here:** <https://www.youtube.com/channel/UCMXHg5Oi8vlfKyEvsgrMRuQ/playlists>
 
 TODO: add more high-quality webinars.
   
 ## Midi mapping tutorials
 
 * **Beginner:**
-  * **Traktor very first keyboard map:** https://djtechtools.com/2015/02/26/intro-to-basic-midi-mapping-with-traktor/
-  * **Traktor basic modifiers:** https://djtechtools.com/2014/05/11/midi-mapping-101-the-traktor-modifier-re-explained/
-  * **Load and Sync**: https://ask.audio/articles/how-to-create-two-advanced-mappings-in-traktor-pro
+  * **Traktor very first keyboard map:** <https://djtechtools.com/2015/02/26/intro-to-basic-midi-mapping-with-traktor/>
+  * **Traktor basic modifiers:** <https://djtechtools.com/2014/05/11/midi-mapping-101-the-traktor-modifier-re-explained/>
+  * **Load and Sync**: <https://ask.audio/articles/how-to-create-two-advanced-mappings-in-traktor-pro>
+  * **Importing midi maps**: <https://djtechtools.com/2015/06/14/troubleshooting-midi-maps-in-traktor/>
 * **Intermediate:**
-  * **Traktor SuperCombos:** https://blog.native-instruments.com/how-to-map-instant-effects-in-traktor/
-  * **Traktor Step sequencer:** https://djtechtools.com/2018/01/29/traktors-step-sequencer-map-midi-controller/ 
-  * **Traktor Patten recorder:** https://djtechtools.com/2019/01/16/how-to-use-traktors-pattern-recorder-with-any-midi-controller/
+  * **Traktor SuperCombos:** <https://blog.native-instruments.com/how-to-map-instant-effects-in-traktor/>
+  * **Traktor Step sequencer:** <https://djtechtools.com/2018/01/29/traktors-step-sequencer-map-midi-controller/>
+  * **Traktor Patten recorder:** <https://djtechtools.com/2019/01/16/how-to-use-traktors-pattern-recorder-with-any-midi-controller/>
 * **Advanced**
-  * **Traktor Global MIDI controls:** https://djtechtools.com/2015/09/08/traktor-global-midi-control-control-multiple-midi-devices-one-controller/
-  * **Rekordbox BOME emulation of jogwheels:** https://djtechtools.com/2017/05/08/hack-rekordbox-use-controllers-jogwheels/
-  * **Rekordbox RXM-1000:** https://djtechtools.com/2019/06/24/hacking-rekordbox-fx-and-adding-rmx-1000-control/
-  * **Serato modifers and jogs:** https://djtechtools.com/2018/04/11/hacking-serato-djs-midi-mapping-jogwheels-touchstrips-and-modifiers/
+  * **Traktor Global MIDI controls:** <https://djtechtools.com/2015/09/08/traktor-global-midi-control-control-multiple-midi-devices-one-controller/>
+  * **Rekordbox BOME emulation of jogwheels:** <https://djtechtools.com/2017/05/08/hack-rekordbox-use-controllers-jogwheels/>
+  * **Rekordbox RXM-1000:** <https://djtechtools.com/2019/06/24/hacking-rekordbox-fx-and-adding-rmx-1000-control/>
+  * **Serato modifers and jogs:** <https://djtechtools.com/2018/04/11/hacking-serato-djs-midi-mapping-jogwheels-touchstrips-and-modifiers/>
  
  
 TBD: https://ask.audio/articles/how-to-create-two-advanced-mappings-in-traktor-pro
@@ -1981,19 +1982,19 @@ These are excellent to learn mapping without getting an avalanche of thousands o
 If you are experienced, these are useful "standarized building blocks" to add to your own mappings.
   
 * **DJ Estrela:**
-  * **Preview Player:** https://maps.djtechtools.com/mappings/10915
-  * **Backwards loop and Reloop:** https://maps.djtechtools.com/mappings/10252
-  * **BOME access all 9x mixerFX:** https://maps.djtechtools.com/mappings/10575
+  * **Preview Player:** <https://maps.djtechtools.com/mappings/10915>
+  * **Backwards loop and Reloop:** <https://maps.djtechtools.com/mappings/10252>
+  * **BOME access all 9x mixerFX:** <https://maps.djtechtools.com/mappings/10575>
 * **Stewe (beginner):**  
-  * **Scroll Playlists:** https://forum.djtechtools.com/showthread.php?t=88950&p=731238#post731238
-  * **One-button beatmasher:** https://maps.djtechtools.com/mappings/7851
-  * **One button MixerFX:** https://maps.djtechtools.com/mappings/8915
-  * **One button Ramp delay:** https://maps.djtechtools.com/mappings/7853
+  * **Scroll Playlists:** <https://forum.djtechtools.com/showthread.php?t=88950&p=731238#post731238>
+  * **One-button beatmasher:** <https://maps.djtechtools.com/mappings/7851>
+  * **One button MixerFX:** <https://maps.djtechtools.com/mappings/8915>
+  * **One button Ramp delay:** <https://maps.djtechtools.com/mappings/7853>
 * **Stewe (advanced):**
-  * **Four-button beatmasher:** https://maps.djtechtools.com/mappings/7862
-  * **4 deck routing FX concept:** https://maps.djtechtools.com/mappings/2376
-  * **S4 Mk3 mixerFX-style on Mk2:** https://maps.djtechtools.com/mappings/9753
-  * **Double deck focus:** https://maps.djtechtools.com/mappings/1536
+  * **Four-button beatmasher:** <https://maps.djtechtools.com/mappings/7862>
+  * **4 deck routing FX concept:** <https://maps.djtechtools.com/mappings/2376>
+  * **S4 Mk3 mixerFX-style on Mk2:** <https://maps.djtechtools.com/mappings/9753>
+  * **Double deck focus:** <https://maps.djtechtools.com/mappings/1536>
   * **Twister Insta MixerFX:** Midi Fighter Twister Insta Mixer FX (TPro3)
 
 
@@ -2002,8 +2003,8 @@ If you are experienced, these are useful "standarized building blocks" to add to
 These are the most complete mappings I've seen, which extend **significantly** Traktor with a lot of useful features.
 
 * **Tekken:**
-  * **S4 ultimate mapping:** https://maps.djtechtools.com/mappings/9277
-  * **F1 ultimate mapping:** https://maps.djtechtools.com/mappings/652
+  * **S4 ultimate mapping:** <https://maps.djtechtools.com/mappings/9277>
+  * **F1 ultimate mapping:** <https://maps.djtechtools.com/mappings/652>
 * **DJ TechTools official:**
   * **Twisted Gratification:** https://maps.djtechtools.com/mappings/5437  ([newer version](https://maps.djtechtools.com/mappings/10645)) 
   * **DJTT Kontrol S4 MK2:** https://maps.djtechtools.com/mappings/2211
