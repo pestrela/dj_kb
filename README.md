@@ -1840,6 +1840,19 @@ Touring level Subwoofers
   
 Article: <https://www.londonsoundacademy.com/blog/10-ways-to-make-a-mixtape>
 
+## How to use instnt doubles
+
+This feature is also called deck cloning. 
+
+Benefits are:
+* Playing With a Single Turntable
+* Beat Juggling
+* Put Your Best Hand Forward
+* Doubles, Follows, and Chases
+* Current Track Preview
+
+Article: <https://mixxx.discourse.group/t/new-in-2-3-deck-cloning/20267>
+
 ## List of Online DJ Courses
   
 Below a list of DJ courses, all from well-known Tutors.\
