@@ -1141,6 +1141,21 @@ In the case of the S5, this is still not possible (time of writing: May 2020)
 
 In my view the mappings are a unique success story of Traktor. If improved, they could continue to give great results with just some minor quality-of-life changes.
 
+## Comparison of MIDI mapping features
+
+Sadly, Rekordbox midi mapping is the worst of the industry.
+Below is a comparison to the other softwares.
+
+|| Capbilities || Software || Features ||
+| | worst | Rekordbox | simple midi mapping. 1 input = 1 action |
+| | Serato | Adds multiple actions for a single input. Has an easy gui |
+| | Traktor | Adds 8x modifiers and 2x conditionals |
+| | VirtualDJ | Adds scripting language without any limits. Has some timer support |
+| | BOME | Adds full timers, raw midi messages, and GOTOs |
+| best | MIXXX | javascript that has arrays, records, lists, etc |
+
+
+
 
 # Hardware Controllers
 
@@ -1572,22 +1587,19 @@ DDJ-800 and XDJ-XZ issues:
  
 This is the [original list](https://www.mixxx.org/wiki/doku.php/ddj-1000#list_of_firmware_bugs_open_tickets) in the MIXXX wiki.
  
-  
-## Is the DDJ-1000SRT also mappable to Traktor?
+ 
 
-**Yes.** I've updated [my SZ/SX2 mapping](#what-are-the-features-of-your-ddj-sx2--ddj-sz--ddj-srt-traktor-mapping)
-to work on the SRT. 
-Please see the demo video here: https://www.youtube.com/watch?v=aU3QnOez56A&t=2s
+## Can I use your mapping with the DDJ-1000SRT?
 
-Specific comments:
-* **Jogs screens:** Jog Screens are NOT supported in MIDI. This is a business decision of the Serato company. 
-  * If this affects you, please voice your opinion on this feature request thread: 
-  * https://serato.com/forum/discussion/1736390
-* **Pioneer Effects**: Mixer runs in external mode. This means that you have all pioneer effects for Traktor music. 
-  * This is very different from the regular DDJ-1000, which runs in internal mode and only has Pionner beatFX in the master channel for Traktor sources.
-* **Scratching:** Please put your jog weight to “heavy”.  This will significantly improve scratching and jogFX. Also please avoid VINYL OFF mode. The TSI disables jog touch in this case, but the jog loses resolution compared to VINYL ON mode;
+YES. In the [free zip file](https://maps.djtechtools.com/mappings/9222) 
+I have a **dedicated** DDJ-1000SRT version, featuring minor adaptations.
 
-## Is the DDJ-XP2 mappable to Traktor?
+Video demo: [here](https://www.youtube.com/watch?v=aU3QnOez56A)
+
+**Important:** the screens are NOT supported because of a bussiness decision of the Serato company.
+Please ask Serato directly for this: <https://serato.com/forum/discussion/1736390>
+
+## Can I use your mapping with the DDJ-XP2?
 
 The XP2 is now really popular because its the cheapest way 
 to unlock [Rekordbox V6 performance](#What-is-NOT-unlocked-in-the-Rekordbox-V6-hardware-options).
@@ -1599,6 +1611,27 @@ Strong recommendation is to use v6.3.3 of my DDJ-1000 mapping.\
 This is because later versions require [BOME](https://www.bome.com/products/miditranslator), 
 are more complex [to install](mapping_ddj_1000/Installation%20Help/DDJ%20Mappings%20-%20Installation%20Guide.pdf), 
 and focus on non-XP2-relevant features like the jog screens.
+  
+  
+## Can I use your mapping with the DDJ-800?
+
+YES. In the [free zip file](https://maps.djtechtools.com/mappings/9279) 
+I have a **dedicated** DDJ-800 version, featuring minor adaptations.
+
+Video Demo: [https://www.youtube.com/watch?v=OLUQkm-2KX0&list=PLIlvTGzSxI0XHlFyINdT6P42noqvkPISD&index=9]
+
+**Important:** The screens are NOT supported because of a **Pioneer bug.**\  
+Please ask Pioneer directly for this: [instructions](#Missing-jog-screens-on-DDJ-800-and-DDJ-1000SRT)
+
+
+## Can I use your mapping with the DDJ-SX2, SX3, RX, etc?
+
+YES. All these controllers are compatible.\  
+Download the [free zip file](https://maps.djtechtools.com/mappings/9222) and choose the main SZ/SX2 mapping.
+
+
+
+  
   
 ## Does (random DDJ controller) works with your mapping? Are the jogs good?
 
@@ -2779,7 +2812,17 @@ MacOS:
 ## Buying a laptop for Audio
 
 **Update Oct 2020:** I highly recommend you buy the XMG windows laptop 
-[specially tuned and guaranteed by Ray Arkaei](https://djworx.com/the-xmg-dj-15-one-laptop-to-rule-them-all/).
+[specially tuned and guaranteed by Ray Arkaei](https://djworx.com/the-xmg-dj-15-one-laptop-to-rule-them-all/).\  
+<https://djworx.com/the-xmg-dj-15-one-laptop-to-rule-them-all/>
+
+
+Personally I have the Dell XPS 15 9560, and went through hell and back to remove DPC latency there:
+<https://github.com/pestrela/smi_counter#summary-slides>
+
+
+
+See also dj Keo commentary:
+<https://www.youtube.com/watch?v=IuY-uzTCWoA>
 
 ---
 
