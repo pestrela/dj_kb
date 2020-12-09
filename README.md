@@ -1618,7 +1618,7 @@ and focus on non-XP2-relevant features like the jog screens.
 YES. In the [free zip file](https://maps.djtechtools.com/mappings/9279) 
 I have a **dedicated** DDJ-800 version, featuring minor adaptations.
 
-Video Demo: [https://www.youtube.com/watch?v=OLUQkm-2KX0&list=PLIlvTGzSxI0XHlFyINdT6P42noqvkPISD&index=9]
+Video Demo: [here](ttps://www.youtube.com/watch?v=OLUQkm-2KX0&list=PLIlvTGzSxI0XHlFyINdT6P42noqvkPISD&index=9)
 
 **Important:** The screens are NOT supported because of a **Pioneer bug.**\  
 Please ask Pioneer directly for this: [instructions](#Missing-jog-screens-on-DDJ-800-and-DDJ-1000SRT)
