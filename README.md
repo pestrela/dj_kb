@@ -1988,9 +1988,9 @@ More info, and more comments:
 
 
 
-## Recommendation to DJTT DJ courses
+## Recommendation to DJTT DJ course
 
-<https://store.djtechtools.com/products/dj-techtools-live-master-classes>
+<https://store.djtechtools.com/products/dj-techtools-live-master-classes#course1>
 
 I've been very lucky to be in the first 2x interactive DJ course by Ean Golden. The level ranges from Intermediate to Advanced, with an emphasis in advanced, which I really enjoyed.
 
@@ -2011,22 +2011,24 @@ Looking forward more follow-up courses, namely by other high-quality Tutors, in 
 ## DJTT DJ course syllabus
 
 
-Course #1:
-1.     Saving // Recalling loops and Cue points for Success 
-1.     Setting up insanely sweet mixes in advance 
-1.     Seamlessly mix songs that don’t have a consistent tempo with Electronic music 
-1.     How to use Tempo changes to shift Energy and how to execute Radical Tempo Changes 
-1.     How to Use and not use Keys in a set.. 
-1.     Different Ways to sequence a set creatively 
+Course #1: [link](https://store.djtechtools.com/products/dj-techtools-live-master-classes#course1)
+Session 1 - FX For Success (the two essential FX everyone needs and how to use them creatively)
+Session 2 - Critical Loops and Cues (how to prepare your music for low stress seamless mixing)
+Session 3 - Setting Up Amazing Mixes (engineering mixes that wow the crowd)
+Session 4 - Using Different Tempos (how to seamlessly blend music from various genres)
+Session 5 - How to change between radical tempos and shift energy
+Session 6 - Using Keys in a set creatively (shifting energy and building a quality flow)
+Session 7 - Creative arrangement of a set  (telling a story and building the flow)
 
 
-Course #2: [link](https://us02web.zoom.us/webinar/register/WN_XyLog-v7QXm4LoBMxLfdCg)
-1. Creative uses of 3rd and 4th decks
-1. Leverage Remix Decks and Sample Decks to add dimension/ personality to your sets
-1. Software//Hardware techniques for delicious and unique sound quality
-1. Midi Mapping for the win - Adding a layer of creativity to your sets
-1. Getting gigs and exposure - growing your brand (with special guest touring DJ) -
-1. Creating Edits that really work and will make your DJ sets unique! - 
+Course #2: [link](https://store.djtechtools.com/products/dj-techtools-live-master-classes#course2)
+Session 1 - Creative uses of 3rd and 4th decks
+Session 2 - Leverage Remix Decks and Sample Decks to add dimension/ personality to your sets
+Session 3 - Software//Hardware techniques for delicious and unique sound quality
+Session 4 - MIDI Mapping for the win - Adding a layer of creativity to your sets
+Session 5 - Going beyond the basic mixes. 6 out of the box ways to pick and blend music that set my style apart from others. I will give you nearly all my favorite mix tricks lately in 1 hour!
+Session 6 - Creating Edits that really work and will make your DJ sets unique!
+
 
 
 
