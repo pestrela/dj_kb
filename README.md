@@ -1251,8 +1251,27 @@ Some relevant points:
 * The [latest DDJ-1000 mapping](#What-are-the-features-of-your-DDJ-1000-Traktor-mapping) helps a lot. You can now can see the jog needle and your hand simultaneously.
 * Pioneer has sold products with this solution for many years ([example](https://www.pioneerdj.com/en/support/software-information/archive/ddj-sz/#traktor))
 
+# Reviews
+## Reloop buddy
 
+[picture](https://cdn.digitaldjtips.com/app/uploads/2020/12/15143517/Reloop-Buddy-1.jpg)
 
+sweet. I love both very big (DDJ-SZ) and very small (think akai AMX) controllers
+plus:
+ - FX paddles are finally coming more and more in controllers
+ - loop encoder, traktor style 
+ 
+ok:
+ - no dedicated pad mode  
+ - cool jogs
+ - symmtric style is appropriate for this small size
+ 
+con:
+ - no gain per deck is really bizzare. not even using a shift button it seems
+ 
+
+ 
+ 
 # Free Mappings
 
 This section covers my free mappings on the DJTT site.\
@@ -1969,11 +1988,11 @@ More info, and more comments:
 
 
 
-## Recommendation to DJTT DJ course
+## Recommendation to DJTT DJ courses
 
 <https://store.djtechtools.com/products/dj-techtools-live-master-classes>
 
-I've been very lucky to be in the first 2x interactive DJ course by Ean Golden. The level ranges from Intermediate to  Advanced, with an emphasis in advanced, which I really enjoyed.
+I've been very lucky to be in the first 2x interactive DJ course by Ean Golden. The level ranges from Intermediate to Advanced, with an emphasis in advanced, which I really enjoyed.
 
 An absolute bargain for the price, you get 6x completely interactive sessions where Ean explains extremly useful and real-world proven DJ techniques, covering the entire DJing spectrum.  
 There you see Ean's real collection, tracks, cues and loops, where he shows over and over the techniques that he wrote in DJTT blog posts since 2007.  
@@ -1989,6 +2008,29 @@ Nothing wrong with that, but I personally prefer this model and target audience 
 
 Looking forward more follow-up courses, namely by other high-quality Tutors, in the same efficient format.
 
+## DJTT DJ course syllabus
+
+
+Course #1:
+1.     Saving // Recalling loops and Cue points for Success 
+1.     Setting up insanely sweet mixes in advance 
+1.     Seamlessly mix songs that don’t have a consistent tempo with Electronic music 
+1.     How to use Tempo changes to shift Energy and how to execute Radical Tempo Changes 
+1.     How to Use and not use Keys in a set.. 
+1.     Different Ways to sequence a set creatively 
+
+
+Course #2: [link](https://us02web.zoom.us/webinar/register/WN_XyLog-v7QXm4LoBMxLfdCg)
+1. Creative uses of 3rd and 4th decks
+1. Leverage Remix Decks and Sample Decks to add dimension/ personality to your sets
+1. Software//Hardware techniques for delicious and unique sound quality
+1. Midi Mapping for the win - Adding a layer of creativity to your sets
+1. Getting gigs and exposure - growing your brand (with special guest touring DJ) -
+1. Creating Edits that really work and will make your DJ sets unique! - 
+
+
+
+
 
 ## List of Technical Webinars
 
@@ -1999,6 +2041,35 @@ Looking forward more follow-up courses, namely by other high-quality Tutors, in 
   * **Lots of useful technical videos here:** <https://www.youtube.com/channel/UCMXHg5Oi8vlfKyEvsgrMRuQ/playlists>
 
 TODO: add more high-quality webinars.
+  
+## Comparison of STEM seperation technologies
+
+Baz Curtis made detailed comparison of the AI separation of the same tracks [in this thread](https://www.reddit.com/r/IsolatedTracks/comments/hhjczd/ai_separation_comparison/)
+
+* House:
+  * <https://www.youtube.com/watch?v=NT04Y5ckmGI&list=PLwbgRytAgrKt8MRwwCrorsmurpT_1jZ5V>
+* Pop:
+  * <https://www.youtube.com/watch?v=6-34uvdF7w0&list=PLwbgRytAgrKs_hSoQc-xjtLcBbcmwFIaY>
+* Rock
+  * <https://www.youtube.com/watch?v=sW7sRS2Yims&list=PLwbgRytAgrKvJXaPdLcKh1YEhrfRj3Exw>
+* HipHop
+  * <https://www.youtube.com/watch?v=XOVqRfoc0aI&list=PLwbgRytAgrKsMityaG-h1HUCuGcyaqc5P>
+  
+![ ](https://i.redd.it/ppik66ub0p751.png)
+  
+  
+## Key Detection comparison 2020
+
+Baz Curtis extended the classic [key detection](https://www.reddit.com/r/DJs/comments/hwlzyt/key_detection_comparison_2020/fz0f52c/?utm_source=reddit&utm_medium=web2x&context=3) 
+work and extend it into 2020 with more softwares.
+
+These are his results:\  
+<https://www.reddit.com/r/DJs/comments/hwlzyt/key_detection_comparison_2020/>
+
+![ ](https://i.redd.it/zs186m2cpnc51.png)
+  
+Same, using beatport [as a reference](https://www.reddit.com/r/DJs/comments/hwlzyt/key_detection_comparison_2020/)
+
   
 ## Midi mapping tutorials
 
@@ -3288,6 +3359,35 @@ The Weeknd - Blinding Lights:
 
 Examples Reggae remixes - TBD.
 
+# DJ information sources
+
+## List of dj blogs / news / commentary
+
+This section covers sites that I regularly read and check, focused on gear.
+My preference is written blog posts, as they are faster to read.
+
+
+Main sites, in written blog format:
+* [DJ Techtools](https://djtechtools.com/)
+* [Digital DJ Tips](https://www.digitaldjtips.com/)
+* [DJ Worx](https://djworx.com/)
+* [Crossfader](https://wearecrossfader.co.uk/all-reviews/)
+
+Secondary sites:
+* [Djcity Mojaxx](https://news.djcity.com/tag/tips-and-tricks/)
+* [DJmag](https://djmag.com/tech)
+* [Mixmag](https://mixmag.net/tech)
+* [RA](https://www.residentadvisor.net/reviews.aspx?format=tech)
+
+Youtube commentary (WITHOUT a blog:)
+* [DJ Keo](https://www.youtube.com/channel/UCtj1Z5UtHJtKX1c7zGWd18A/videos?view=0&sort=dd&flow=grid)
+* [DJ TLM](https://www.youtube.com/user/djTLMtv/videos?view=0&sort=dd&flow=grid)
+* [Carlo Atendido](https://www.youtube.com/user/djcarloatendido/videos?view=0&sort=dd&flow=grid)
+* [Get In The Mix](https://www.youtube.com/watch?v=Z3BAwi5qf9I&list=PLvaHmzglT5XUnfKtGM6O8vGqKajhHlTtQ)
+ 
+ 
+  
+
 
 ## How to learn good transition points by reconstructing sets
 
@@ -3312,6 +3412,33 @@ Tracks were recorded from vinyl for **EDUCATIONAL PURPOSES ONLY.** ([Fair use di
 
 ![kaos CD cover](pics/kaos_totally_mix_reconstruction_cd_cover.jpg?raw=true)
 ![kaos audition](pics/kaos_totally_mix_reconstruction_audition.jpg?raw=true)
+
+
+
+ 
+## Carlo Atendido breakdowns
+
+In this videos, top DJ Carlo Atendido explains how the mixes are made by slowin down to 0.25x speed.
+
+playlists: [here](https://www.facebook.com/djcarloatendido/videos/855170165247008/)
+playlists: [second link][https://www.youtube.com/watch?v=3dl2Lpnqy0w&list=PL74YUbdVlea41YgA30U4Qp4O9YCZ2xXzQ&index=3)
+
+
+* Hardwell explained in 0.25x Speed:
+  * <https://www.facebook.com/1521276841422624/videos/855170165247008/>
+* Skrillex  in 0.25x speed:
+  * <https://www.youtube.com/watch?v=D38hPI_N27k>
+* James hype:
+  * <https://www.facebook.com/watch/?v=2326940414233525>
+* Star wars routine:
+  * <https://www.facebook.com/watch/?v=247187632942722>
+* Juicy m:
+  * <https://www.facebook.com/watch/?v=3603131279797380>
+* DJ Angelo:
+  * <https://www.facebook.com/watch/?v=1373920152778074>
+* CHAINSMOKERS:
+  * <https://www.youtube.com/watch?v=MO71-pxsBHk>
+
 
 ## Identify generational gaps in music
 
