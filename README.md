@@ -3488,7 +3488,7 @@ Mixcloud is the biggest online site to listen sets as it is [100% legal](https:/
 However it is also the most annoying to listen to because:
 * you cant rewind
 * you cant see the tracklist in advance
-* you cant close the playing window at will
+* you cant close the playing window at will; an annoying popup appears
 
 Solutions:
 * Install the "mixcloud with tracklist" chrome extension [link](https://chrome.google.com/webstore/detail/mixcloud-with-tracklist/jgghogcekaldifaiifpnbfnpmmpiengb)
