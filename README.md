@@ -1548,9 +1548,9 @@ If you want further appreciation, PayPal donations are welcome (pedro.estrela@gm
 The DDJ-1000 can run in two different modes: MIDI or HID. 
 The most obvious difference is the only HID has waveforms on the jog screens.
 
-However there are many other smaller differences, summarized [here](https://www.mixxx.org/wiki/doku.php/ddj-1000#differences_between_midi_mode_and_hid_mode).
+However there are many other smaller differences, summarized [here](https://github.com/mixxxdj/mixxx/wiki/ddj-1000#differences-between-midi-mode-and-hid-mode).
 
-[original source](https://www.mixxx.org/wiki/doku.php/ddj-1000#differences_between_midi_mode_and_hid_mode)
+[original source](https://github.com/mixxxdj/mixxx/wiki/ddj-1000#differences-between-midi-mode-and-hid-mode)
 
 ## Missing jog screens on DDJ-800 and DDJ-1000SRT
 
@@ -2073,6 +2073,23 @@ These are his results:\
 Same, using beatport [as a reference](https://www.reddit.com/r/DJs/comments/hwlzyt/key_detection_comparison_2020/)
 
   
+## Music Theory in 16 Minutes
+
+This amazing video is only 16m and covers eveything you need or may need in music theory.
+  
+<https://www.youtube.com/watch?v=_eKTOMhpy2w>
+
+Contents:	
+* 00:00 Introduction
+* 00:26 Basics principles and piano layout
+* 02:14 Note names
+* 04:25 Major & Minor scale
+* 08:37 Intervals
+* 10:23 Chords
+* 12:25 The circle of fifths
+
+  
+  
 ## Midi mapping tutorials
 
 * **Beginner:**
@@ -2454,9 +2471,9 @@ See also the CMDR editor [changes](#What-features-did-you-add-to-the-CMDR-TSI-ed
  
 ## What features did you add to the CMDR TSI editor?
 
-The CMDR editor did not get new features for 2.5 years. In Jan 2020 I've revived this project.\
-Download: https://github.com/cmdr-editor/cmdr/releases/latest/download/cmdr_tsi_editor_latest.zip
-Documentation: https://github.com/cmdr-editor/cmdr#2020-improvements
+The CMDR editor did not get new features for 2.5 years. In Jan 2020 I've revived this project.
+* Download: https://github.com/cmdr-editor/cmdr/releases/latest/download/cmdr_tsi_editor_latest.zip
+* Documentation: https://github.com/cmdr-editor/cmdr#2020-improvements
 
 **Highlights:**
 * TP3 and S4-MK3 support
@@ -2529,7 +2546,7 @@ Future windows WSL2 will be able to run docker images as well. Requirement is wi
 ## How I build perfect tracklists using CUE files
 
 I use a set of tools to generate a CUE file with the timings of my sets.
-Once I have this file, I can generate tracklists with timestamps like in this example: https://www.mixcloud.com/dj_estrela/mix-17-cd07-trance-jun-2019/
+Once I have this file, I can generate tracklists with timestamps like in this example: <https://www.mixcloud.com/dj_estrela/mix-17-cd07-trance-jun-2019/>
 
 Steps BEFORE the set (for prepared sets):
 * group the files in folders, per style (Vocal Trance, Uplifting trance, etc)
@@ -2542,12 +2559,12 @@ Steps AFTER the set (both live sets and prepared sets):
   * normalize volume of all tracks
   * fix any obvious mistakes if necessary (eg, track ended too early when playing live, etc)
   * tag the divisions of the tracks inside the wav file
-* convert the tags inside the WAV into a CUE file, using this software: http://www.stefanbion.de/cuelisttool/index_e.htm
-  * note: this software fails on files bigger than 2Gb (https://forums.adobe.com/thread/309254). Workaround is splittingthe file at the 3hour mark, exactly, then use an option in cue_merge_cues.py to add this offset back in the second file
-* convert the tags inside the WAV into a CUE file, using this software: http://www.stefanbion.de/cuelisttool/index_e.htm
+* convert the tags inside the WAV into a CUE file, using this software: <http://www.stefanbion.de/cuelisttool/index_e.htm>
+  * note: this software fails on files bigger than 2Gb (<https://forums.adobe.com/thread/309254>). Workaround is splitting the file at the 3hour mark, exactly, then use an option in cue_merge_cues.py to add this offset back in the second file
+* convert the tags inside the WAV into a CUE file, using this software: <http://www.stefanbion.de/cuelisttool/index_e.htm>
 * merge the CUE file with the Tracklist file using cue_merge_cues.py
-* upload the mix to http://mixcloud.com/dj_estrela
-* transfer the mix automatically to https://hearthis.at/djestrela/#sets
+* upload the mix to <http://mixcloud.com/dj_estrela>
+* transfer the mix automatically to <https://hearthis.at/djestrela/#sets>
   
   
 Overview of the Cue tools:
@@ -3463,6 +3480,28 @@ This is a fun test for you to try and learn.
 
 * [People that I learned a lot from the Global DJ community](#Some-people-from-which-Ive-learned-a-lot-from-the-Global-DJ-community)
 
+  
+## How to listen to MixCloud sets without going nuts
+
+Mixcloud is the biggest online site to listen sets as it is [100% legal](https://www.digitaldjtips.com/2020/04/how-to-stream-your-dj-sets-100-legally-on-mixcloud-live/)
+However it is also the most annoying to listen to because
+* you cant rewind
+* you cant see the tracklist in advance
+* you cant close the playing window at will
+
+Solutions are:
+* Install the "mixcloud with tracklist" chrome extension [link](https://chrome.google.com/webstore/detail/mixcloud-with-tracklist/jgghogcekaldifaiifpnbfnpmmpiengb)
+  * make sure you are logged-in
+  * The tracklist will let you rewind
+  * The small icon copy-pastes the tagged tracklist
+* Install a chrome extension to enable scripts, load a 10-line script, limit it to mixcloud
+  * [tamper monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) plugin
+  * [popup block script](https://greasyfork.org/en/scripts/25650-disable-confirmation-dialog-when-leaving-a-web-page/code)
+  * replace [@match](https://stackoverflow.com/a/6387417) with this
+    * // @match       *://*.mixcloud.com/*
+* Ragain your sanity
+
+  
   
 ## How I recorded my old radio show recordings and found the IDs
 
