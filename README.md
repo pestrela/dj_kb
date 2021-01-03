@@ -3499,7 +3499,7 @@ Solutions:
   * [tamper monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) plugin
   * [popup block script](https://greasyfork.org/en/scripts/25650-disable-confirmation-dialog-when-leaving-a-web-page/code)
   * replace [@match](https://stackoverflow.com/a/6387417) with: // @match   *://*.mixcloud.com/*
-* Ragain your sanity
+* Regain your sanity
 
   
   
