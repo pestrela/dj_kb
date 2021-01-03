@@ -3484,21 +3484,21 @@ This is a fun test for you to try and learn.
 ## How to listen to MixCloud sets without going nuts
 
 Mixcloud is the biggest online site to listen sets as it is [100% legal](https://www.digitaldjtips.com/2020/04/how-to-stream-your-dj-sets-100-legally-on-mixcloud-live/)
+
 However it is also the most annoying to listen to because
 * you cant rewind
 * you cant see the tracklist in advance
 * you cant close the playing window at will
 
-Solutions are:
+Solutions:
 * Install the "mixcloud with tracklist" chrome extension [link](https://chrome.google.com/webstore/detail/mixcloud-with-tracklist/jgghogcekaldifaiifpnbfnpmmpiengb)
   * make sure you are logged-in
   * The tracklist will let you rewind
   * The small icon copy-pastes the tagged tracklist
-* Install a chrome extension to enable scripts, load a 10-line script, limit it to mixcloud
+* Install a programabble chrome extension, drop in a 10-line script, limit it to the site 
   * [tamper monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) plugin
   * [popup block script](https://greasyfork.org/en/scripts/25650-disable-confirmation-dialog-when-leaving-a-web-page/code)
-  * replace [@match](https://stackoverflow.com/a/6387417) with this
-    * // @match       *://*.mixcloud.com/*
+  * replace [@match](https://stackoverflow.com/a/6387417) with: // @match   *://*.mixcloud.com/*
 * Ragain your sanity
 
   
