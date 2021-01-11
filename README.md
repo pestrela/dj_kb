@@ -3485,10 +3485,11 @@ This is a fun test for you to try and learn.
 
 Mixcloud is the biggest online site to listen sets as it is [100% legal](https://www.digitaldjtips.com/2020/04/how-to-stream-your-dj-sets-100-legally-on-mixcloud-live/)
 
-However it is also the most annoying to listen to because:
-* you cant rewind
-* you cant see the tracklist in advance
-* you cant close the playing window at will; an annoying popup appears
+However it is also the most annoying way to listen:
+* no rewind
+* forward movement is exponential
+* cant see the tracklist in advance
+* cant close the playing window at will
 
 Solutions:
 * Install the "mixcloud with tracklist" chrome extension [link](https://chrome.google.com/webstore/detail/mixcloud-with-tracklist/jgghogcekaldifaiifpnbfnpmmpiengb)
@@ -3839,6 +3840,7 @@ Most of them I've either meet them in person, or I had numerous conversations wi
   * Inventor of Controlerism, Founder of DJtechtools, Hundreds of articles, Workshops
   * <https://djtechtools.com/author/Admin/>
   * <https://djtechtools.com/2015/05/17/the-history-of-dj-techtools/>
+  * [reddit answer](https://www.reddit.com/r/DJs/comments/j725jj/whatever_happened_to_ean_golden/g85gbne/?utm_source=reddit&utm_medium=web2x&context=3)
 * **Phill Morse:**
   * Founder of DigitalDJTips (biggest online DJ school), Hundreds of articles
   * <https://www.digitaldjtips.com/category/news/>
