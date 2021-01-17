@@ -3759,6 +3759,18 @@ https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_softwar
 ![dj controllers over time](https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_controllers_over_time.jpg?raw=true)
 ![dj platforms over time](https://raw.githubusercontent.com/pestrela/music/master/census_graphs/dj_platform_over_time.jpg?raw=true)
 
+## About Dj-Skins.com
+
+I recommend you to change the look of your device and protect it against fingerprints by using a Skin from <http://dj-skins.com>.
+
+It looks gorgeous!
+
+Gallery: [here](https://github.com/pestrela/music/blob/master/pic_sets/dj-skins.com)
+
+Example:
+![ ](https://raw.githubusercontent.com/pestrela/music/blob/master/pic_sets/dj-skins.com/1%20-%20dj-skins.com%20-%20ddj_1000%20and%20Akai%20AMX.jpg?raw=true)
+
+
 
 ## 21st century software issues
 
@@ -3817,6 +3829,22 @@ What did you enjoyed the most? please tell me to pedro.estrela@gmail.com
 * CMDR Changelog: 80 lines
   * <https://github.com/cmdr-editor/cmdr#2020-improvements>
   
+ 
+ 
+ 
+## Open questions for 2021
+
+Question #1:\  
+What is the future of controleirism in 2021? 
+Why do the new generation of DJs seem apparently satisfied with the current capabilities of Serato and Rekordbox "as-is"?
+
+Question #2:\  
+How could happen that Traktor/NI dropped the jogwheel in 2014 with the S8/remix decks, but in 2021 is still the ONLY major sofwtare without flexible beatgrids?
+
+question #3:\  
+What is your opinion of realtime STEMS seperaation of VDJ 2021 and Djay AI?
+
+
  
 ## Some people from which I've learned a lot from the Global DJ community
 
