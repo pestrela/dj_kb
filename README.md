@@ -3768,7 +3768,7 @@ It looks gorgeous!
 Gallery: [here](https://github.com/pestrela/music/blob/master/pic_sets/dj-skins.com)
 
 Example:
-![ ](https://raw.githubusercontent.com/pestrela/music/blob/master/pic_sets/dj-skins.com/1%20-%20dj-skins.com%20-%20ddj_1000%20and%20Akai%20AMX.jpg?raw=true)
+![ ](https://github.com/pestrela/music/raw/master/pic_sets/dj-skins.com/1%20-%20dj-skins.com%20-%20ddj_1000%20and%20Akai%20AMX.jpg?raw=true)
 
 
 
