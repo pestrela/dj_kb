@@ -3636,10 +3636,10 @@ Steps were:
 * Move your files to "C:\Main\Traktor\Music"
 * Share the whole "C:\Main\Traktor" folder in resilio sync
 * Add exceptions to "c:\Main\Traktor\.sync\IgnoreList
-	* Traktor Settings.tsi
-	* collection.nml
-	* Recordings_Folder
-	* Logs
+	* Recordings - no need to sync large wav files
+	* Logs - no need to sync logs
+	* Traktor Settings.tsi - very important to have differnt controllers, audio devices etc
+	* collection.nml  - optional if want separate collections and write traktor data to mp3 files themselves
 
 
 **Warning:** do a manual backup first before changing your traktor files and music collection!
