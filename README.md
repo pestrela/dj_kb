@@ -3614,8 +3614,11 @@ In a nutshell this is like having everything inside your own private google driv
 My folder structure is:
 * C:\Main - Contains all my private files
   * \Traktor - Whole folder synchronized by resilio sync
-    * \Samples  - All samples go here
-    * \Remix_sets - all remix sets go here
+    * \.sync - Resilio private folder
+    * \Generated
+      * \Samples  - All samples go here
+      * \Remix_sets - all remix sets go here
+      * \Recordings - all recordings go here
     * \Root_dir  - All settings, stripes, etc go here
       * \Logs
       * \Stripes
@@ -3628,10 +3631,16 @@ My folder structure is:
 Steps were:
 * Install [resilio sync](https://www.resilio.com/individuals/)
 * Point your traktor root folder to "C:\Main\Traktor\Root_dir" (Settings / File / Directories / Root_dir)
-* Restart traktor
-* Do the same for samples and remix sets  (Settings / File / Directories / Samples | Remixe_sets)
+* Restart traktor - DO NOT SKIP THIS STEP
+* Do the same for samples, remix sets and recordings (Settings / File / Directories / Samples | Remix_sets)
 * Move your files to "C:\Main\Traktor\Music"
 * Share the whole "C:\Main\Traktor" folder in resilio sync
+* Add exceptions to "c:\Main\Traktor\.sync\IgnoreList
+	* Traktor Settings.tsi
+	* collection.nml
+	* Recordings_Folder
+	* Logs
+
 
 **Warning:** do a manual backup first before changing your traktor files and music collection!
     
@@ -3765,7 +3774,7 @@ I recommend you to change the look of your device and protect it against fingerp
 
 It looks gorgeous!
 
-Gallery: [here](https://github.com/pestrela/music/blob/master/pic_sets/dj-skins.com)
+Please see the full gallery [here](https://github.com/pestrela/music/blob/master/pic_sets/dj-skins.com).
 
 Example:
 ![ ](https://github.com/pestrela/music/raw/master/pic_sets/dj-skins.com/1%20-%20dj-skins.com%20-%20ddj_1000%20and%20Akai%20AMX.jpg?raw=true)
