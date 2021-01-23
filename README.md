@@ -3858,25 +3858,25 @@ I'm looking for a solution to organize [this knowledge base](https://github.com/
 Any help is welcome.
 
 Requirements:
-* Have everyting in a single markdown page
+* Have everything in a single markdown page
 * TOC 
   * Left sidebar always visible
   * auto generated
-  * Expanable sections 
+  * Expandable sections 
 * All headers with link anchors  
 * "git push" triggers pipeline 
 
 Non-requirements:
-* chronologic blog posts
-* seperate files
+* chronological blog posts
+* separate files
 * categories
 * multiple users
 * user comments
 
 Candidates:
 * readthedocs site itself
-* (readthedocs template](https://www.mkdocs.org/user-guide/styling-your-docs/#readthedocs) for jekyll 
-*  [mkdocs](https://www.mkdocs.org/user-guide/styling-your-docs/#mkdocs), [runthedocs](https://rundocs.io/installing/gem-based.html), [justthedocs](https://pmarsceill.github.io/just-the-docs/docs/ui-components/buttons/)
+* [readthedocs template](https://www.mkdocs.org/user-guide/styling-your-docs/#readthedocs) for jekyll 
+* [mkdocs](https://www.mkdocs.org/user-guide/styling-your-docs/#mkdocs), [runthedocs](https://rundocs.io/installing/gem-based.html), [justthedocs](https://pmarsceill.github.io/just-the-docs/docs/ui-components/buttons/)
 * github wiki
 * guthub pages (default template)
 * minimal mistakes jekyll template
