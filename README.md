@@ -1251,6 +1251,34 @@ Some relevant points:
 * The [latest DDJ-1000 mapping](#What-are-the-features-of-your-DDJ-1000-Traktor-mapping) helps a lot. You can now can see the jog needle and your hand simultaneously.
 * Pioneer has sold products with this solution for many years ([example](https://www.pioneerdj.com/en/support/software-information/archive/ddj-sz/#traktor))
 
+
+## Mode info on the MIDI jogwheels latency But can I still scratch using MIDI? How much is the latency of your maps?
+
+
+[original post](https://www.native-instruments.com/forum/threads/n-i-any-update-on-the-progress-of-traktor-dj-2.426695/page-2#post-2052187)
+
+Did you made any latency measurements? preferable one-way-delay, or at least round-trip-times?
+Because that is what matters in the end:
+a) DJ hand moves
+b) MIDI: controller to traktor
+c) CPU: traktor processing
+d) AUDIO: traktor to controller audio card
+e) DJ listens via speakers
+
+
+Background info:
+Pioneer made money for many years selling DDJ-SZ/SX2/etc traktor-compatible that work with MIDI jogs.
+They are too slow for turntablists. They are bearable for other guys.
+
+Serato was of course HID. VirtualDJ followed immediately with HID. I stil have a VDJ license that came with my SZ.
+Later rekordbox performance followed, with HID of course.
+
+I'm maitaining the Pioneer map updated for all DDJs, and added BOME in the mix to improve the jogswheels (besides many other things).
+After years of efforts, in 2021 this is still not appropriate for turntablists.
+https://maps.djtechtools.com/mappings/9279
+https://maps.djtechtools.com/mappings/9222
+
+
 # Reviews
 ## Reloop buddy
 
@@ -3823,6 +3851,39 @@ Yet another worrying trend is hardware features that are [unlocked by software](
 Back in the days, the price segmentation was clearly made because of hardware limitations: it was physically impossible to send more data / driver faster / etc.
 Today, the hardware has gained massive leaps in specifications, but then they come lobotomized by default, and sold as a software upgrade.
 
+## Knowledge base organization
+
+I'm looking for a solution to organize [this knowledge base](https://github.com/pestrela/dj_kb/blob/main/README.md#table-of-contents-detailed) :)
+
+Any help is welcome.
+
+Requirements:
+* Have everyting in a single markdown page
+* TOC 
+  * Left sidebar always visible
+  * auto generated
+  * Expanable sections 
+* All headers with link anchors  
+* "git push" triggers pipeline 
+
+Non-requirements:
+* chronologic blog posts
+* seperate files
+* categories
+* multiple users
+* user comments
+
+Candidates:
+* readthedocs site itself
+* (readthedocs template](https://www.mkdocs.org/user-guide/styling-your-docs/#readthedocs) for jekyll 
+*  [mkdocs](https://www.mkdocs.org/user-guide/styling-your-docs/#mkdocs), [runthedocs](https://rundocs.io/installing/gem-based.html), [justthedocs](https://pmarsceill.github.io/just-the-docs/docs/ui-components/buttons/)
+* github wiki
+* guthub pages (default template)
+* minimal mistakes jekyll template
+* mediawiki
+
+   
+   
   
 ## Some metrics of my free contributions
 
