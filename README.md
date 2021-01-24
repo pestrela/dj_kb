@@ -322,13 +322,29 @@ Then I run two automated tools:
 * [mp3tag scripts](tools_traktor/Mp3tagSettings.zip) that clean-up the filename and generate metadata
 * [python script](tools_traktor/traktor_clone_cues.py) that duplicate the cues of the duplicated files 
 
+## About traktor_clone_cues.py
+
+This script automatically syncs the cues/loops between duplicated files. 
+This is the basis of my organization method that uses OS folders only. No DJ playlists at all.
+
+Download: [traktor_clone_cues.py](https://github.com/pestrela/music/blob/master/traktor/tools_traktor/traktor_clone_cues.py)
+
+This tool was inspired by these two tools by [Kalo](https://www.native-instruments.com/forum/members/kalo.266077/)
+
+* [TraCoMerger](https://www.native-instruments.com/forum/threads/tracomerger-combine-traktor-collections-transfer-metadata-between-tdj-and-traktor-pro.258738/) 
+  * Combine Traktor collections, Transfer metadata between TDJ and Traktor Pro
+* [TraCoConverter](https://www.native-instruments.com/forum/threads/tracoconverter-convert-traktor-metadata-cues-grid-into-txt-csv-xls-dj-player-pro.259384/)
+  * Convert Traktor metadata (cue's, grid..) into TXT, CSV, XLS, DJ Player Pro
+
+
+
 ## How do you achieve independence from DJ software
 
 Independence from DJ software is something that I value. This is in stark contrast with, say, the RB6 encrypted database.
 
 I achieve this as follows:
 * DJ Playlists: my OS folders are my playlists. This is trivial to backup and its the most durable method I ever seen.
-* CUEs/LOOPs: I have my cues stored in traktor, which writes this info to the files themselves. This is very durable and really convinient. 
+* CUEs/LOOPs: I have my cues stored in traktor, which writes this info to the files themselves. This is very durable and really convenient. 
 The database is also very open and very simple to process - its an XML text file.
 * Star rating: I do not use this feature
 
@@ -494,7 +510,8 @@ This is read and manipulted nativelly by Traktor.
  
 [Stemgen](https://github.com/axeldelafosse/stemgen) is a script that groups several programs to generate a stem file automaticalyy
 
-[NUO stems](https://github.com/dj-nuo/nuo-stems) is the same idea, but fully packaged, supported, and with helper functions to [clone the existing cues](tools_traktor/traktor_clone_cues.py) to the new files.
+[NUO stems](https://github.com/dj-nuo/nuo-stems) is the same idea, but fully packaged, supported, and with helper functions to [clone the existing cues]([traktor_clone_cues.py](https://github.com/pestrela/music/blob/master/traktor/tools_traktor/traktor_clone_cues.py)
+) to the new files.
 
 Want to just have a quick go with stems? [This pack](https://www.native-instruments.com/en/specials/stems-for-all/free-stems-tracks/) has example tracks.  
 Of which I recommend these files:
