@@ -292,6 +292,9 @@ Main reasons are:
 * **#6: Software Independence:** Using OS-folders you are independent of any possible DJ software and itunes. It also trivial to [sync between laptops](#how-i-synchronize-and-backup-my-whole-traktor-music-and-configuration-across-laptops-and-a-nas) and make perfect backups [to my NAS](https://www.synology.com/en-global/products/DS718+). It is also trivial to load a whole genres to USB sticks to listen in cars.
 
 See also [this blog post for more details on my workflow between DJ softwares ](#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc).
+
+See also [this reddit post for a realy good organiztion using a databse](https://www.reddit.com/r/DJs/comments/c3o2jk/my_ultimate_track_tagging_system_the_little_data/?utm_medium=android_app&utm_source=share)
+
   
 
 ## How to manage your collection using operating systems folders and without DJ playlists (ie, using only Finder, Windows Explorer, etc) 
@@ -325,7 +328,7 @@ Then I run two automated tools:
 ## About traktor_clone_cues.py
 
 This script automatically syncs the cues/loops between duplicated files. 
-This is the basis of my organization method that uses OS folders only. No DJ playlists at all.
+This is the basis of my organization method that [uses OS folders only](#os-folders). No DJ playlists at all.
 
 Download: [traktor_clone_cues.py](https://github.com/pestrela/music/blob/master/traktor/tools_traktor/traktor_clone_cues.py)
 
@@ -1647,7 +1650,8 @@ DDJ-800 and XDJ-XZ issues:
 | 159944 | XDJ-XZ | Shift doesn't send alternative messages |
 | 159944 | XDJ-XZ | Jog screens only have needle and cue marker  |
 | 159944 | XDJ-XZ | Jog turn/touch same mssage for vinyl=off |
-
+| 263330 | XDJ-XZ | Needle ghosting  |
+ 
  
 This is the [original list](https://www.mixxx.org/wiki/doku.php/ddj-1000#list_of_firmware_bugs_open_tickets) in the MIXXX wiki.
  
@@ -1937,7 +1941,7 @@ Touring level Subwoofers
   
 Article: <https://www.londonsoundacademy.com/blog/10-ways-to-make-a-mixtape>
 
-## How to use instnt doubles
+## How to use instant doubles
 
 This feature is also called deck cloning. 
 
@@ -1949,6 +1953,20 @@ Benefits are:
 * Current Track Preview
 
 Article: <https://mixxx.discourse.group/t/new-in-2-3-deck-cloning/20267>
+
+
+## How to run a party uisnga a 12V portable battery
+
+Do not use your car battery. 
+
+Instead use deep-cycle batteries, solve for RVs, or marine batteries used by boats. 
+
+These are meant to be used on boats or in RVs, where you’re expected to run appliances off the batteries without the engine running.
+
+<https://igor.moomers.org/the-12v-music-manifesto>
+[parts list](https://docs.google.com/spreadsheets/d/1q0VkUu1GSiJAtObuSfRULU4YRTkQmtfJzZ-F6q1a--8/)
+
+
 
 ## List of Online DJ Courses
   
@@ -3673,18 +3691,29 @@ My folder structure is:
       * \Genre_2
       * etc
       
-Steps were:
+      
+Steps on Laptop A:
 * Install [resilio sync](https://www.resilio.com/individuals/)
+* Create "C:\Main\Traktor\" folder
+* Share the currently empty folder in resilio sync "C:\Main\Traktor" 
+* Add the exceptions to the end of the ignore file: "C:\Main\Traktor\.sync\IgnoreList"
+	* Traktor Settings.tsi - very important to have different controllers, audio devices etc
+	* collection.nml  - optional, if want separate collections and write traktor data to mp3 files themselves
+* Restart resilio sync - DO NOT SKIP THIS STEP
 * Point your traktor root folder to "C:\Main\Traktor\Root_dir" (Settings / File / Directories / Root_dir)
 * Restart traktor - DO NOT SKIP THIS STEP
 * Do the same for samples, remix sets and recordings (Settings / File / Directories / Samples | Remix_sets)
 * Move your files to "C:\Main\Traktor\Music"
-* Share the whole "C:\Main\Traktor" folder in resilio sync
-* Add exceptions to "c:\Main\Traktor\.sync\IgnoreList
-	* Recordings - no need to sync large wav files
-	* Logs - no need to sync logs
-	* Traktor Settings.tsi - very important to have differnt controllers, audio devices etc
-	* collection.nml  - optional if want separate collections and write traktor data to mp3 files themselves
+* Do a Mass-relocate inside traktor for the new location ("consistency check")
+* 
+
+Steps on Laptop B:
+* Install [resilio sync](https://www.resilio.com/individuals/)
+* Create "C:\Main\Traktor\" folder
+* Share that folder using the RW-key from laptop A
+* Wait for sync
+* Point your traktor root folder to "C:\Main\Traktor\Root_dir" (Settings / File / Directories / Root_dir)
+* Restart traktor - DO NOT SKIP THIS STEP
 
 
 **Warning:** do a manual backup first before changing your traktor files and music collection!
@@ -3692,6 +3721,7 @@ Steps were:
 [more info #1](https://www.resilio.com/blog/sync-hacks-how-to-use-bittorrent-sync-for-djs-and-producers) / [more info #2](https://www.native-instruments.com/forum/threads/resilio-sync-synchronizing-traktor-libraries-across-computers.355599) / [more info #3](https://www.native-instruments.com/forum/threads/syncing-traktor-across-multiple-computers-with-resilio-sync.348405)
   
 See also the [DJ Freshfluke’s Traktor tutorial](https://www.native-instruments.com/forum/attachments/tsp2_tutorial-01_sidebysideinstalls_ver1-0_web-pdf.46430)
+
   
 ## How to choose fast USB pens for CDJ use
 
