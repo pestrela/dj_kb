@@ -1,4 +1,9 @@
 
+
+UPDATE MARCH 2021: this page will be moved to <https://dj-kb.readthedocs.io/>
+
+
+
 # TL;DR version
 
 My biggest **Laptop** reasons are not having to manage USB sticks, and it has much more features than standalone.\
@@ -1092,7 +1097,8 @@ Traktor has advanced MIDI mapping ([link](https://bit.ly/2NrlVzy)), which is imp
 
 However every year Controllers get more complex, so doing mappings today ranges between hard to impossible ([link](https://bit.ly/2NrlVzy)).
 
-Some other anedotic evidence on this are the [preferences freeze](https://www.native-instruments.com/forum/threads/preferences-window-freeze.328315/page-2#post-1870879), the turntable play/pause looper, the DDJ-1000SRT missing jog screens, 
+Some other anedotic evidence on this are the [preferences freeze](https://www.native-instruments.com/forum/threads/preferences-window-freeze.328315/page-2#post-1870879), 
+the turntable play/pause looper, the DDJ-1000SRT missing jog screens, 
 and the HC-4500 mapping to get track details.
 
 **Specific Blog posts:**
@@ -2061,12 +2067,14 @@ An absolute bargain for the price, you get 6x completely interactive sessions wh
 There you see Ean's real collection, tracks, cues and loops, where he shows over and over the techniques that he wrote in DJTT blog posts since 2007.  
 <https://djtechtools.com/2015/05/17/the-history-of-dj-techtools/>
 
-Even better, you can ask any question at any time. But crucially, the questions are moderated by RandomFPV (Chris Benoit), to ask them in the best order and at the best possible time. This SIGNIFICANTLY improves this process to be a lot more efficient and clear.
+Even better, you can ask any question at any time. But crucially, the questions are moderated by RandomFPV (Chris Benoit), 
+to ask them in the best order and at the best possible time. This SIGNIFICANTLY improves this process to be a lot more efficient and clear.
 
 The cherry on top of the cake is an after-party zoom call where you discuss and interact these and other
  topics with your peers - the other students - from all over the world.
 
-AFAIK this course and format is unique. It specifically targets intermediate and advanced levels. While very high-quality as well, AFAIK other courses are only prerecorded and are typically start at beginners and up.  
+AFAIK this course and format is unique. It specifically targets intermediate and advanced levels. While very high-quality as well, 
+AFAIK other courses are only prerecorded and are typically start at beginners and up.  
 Nothing wrong with that, but I personally prefer this model and target audience a lot more.
 
 Looking forward more follow-up courses, namely by other high-quality Tutors, in the same efficient format.
@@ -3143,24 +3151,52 @@ Usage:
 Configuring Launchers:
 ![qqtabbar_launchers](pics/qqtabbar_launchers.jpg?raw=true)
 
+update March 2021:
+
+This [link](https://www.makeuseof.com/tag/best-windows-file-explorer-replacements ) has a list of 
+the best file explorer alternatives:
+  
+1. XYplorer
+2. Directory Opus
+3. fman
+4. Free Commander
+5. Explorer++
+6. Altap Salamander
+  
+
 ## How to add WSL scripts to QQTabBar
 
 Combining QQTabBar and WSL bash scripts is a powerful way to manipulate files in Explorer.
 
 Example programs from [here](https://github.com/pestrela/music/tree/master/wsl_tools/):
 * windows_launch_spek.sh: calls the spek frequency analyzer for several files
-* windows_group_files_in_folder.sh: create a sub-folder and move selected files into it 
-* simple WSL shell launch on that folder
+* windows_group_files_in_folder.sh: create a sub-folder and move selected files into it
+* windows_create_txt.sh: creates a txt file with the same name as the given file
+* a simple WSL shell launch on that folder
 
 Most important tricks are:
-* launch bash as 'wsl.exe --cd %cd% -- <your_script> %f%'
-  * '--cd %cd% --' changes the working folder to that location
-  * without further parameters this opens an interactive shell
-* process the files with "wslpath $file" to convert to WSL format
-  * if you are launching windows programs, use the arguments "as-is"  
-
+* debug your script in a WSL prompt. 
+  * If there is a syntax error the window disappears immediately in qqtabbar
+* launch bash as 'wsl.exe --cd %cd% -- /home/user/bin/your_script.sh %f%'
+  * Path: %windir%\system32\wsl.exe
+  * Arguments: --cd %cd% -- '/home/user/bin/your_script.sh' -f %f%
+    * '--cd %cd% --' changes the working folder to that location
+    * -- seperates wsl arguments from your script
+    * give the full path to your script
+    * -f is to give files and folders to your script
+    * if there is no parameters, this opens an interactive shell instead
+    
+* process the files with "wslpath $file" to convert them to linux format
+  * unless you are launching windows programs; in that case, use the arguments "as-is"  
+* add an icon from: 
+  * C:\Windows\System32\imageres.dll
+  * %SystemRoot%\system32\SHELL32.dll
+* your script
+  * add an "read" to both the start and the end
+  * otherwise you see no output at all
+  * same for "exit"
+  
 ![qqtabbar_wsl_scripts](pics/qqtabbar_wsl_scripts_.jpg?raw=true)
-
 
 
 # Rekordbox v6 topics
@@ -3546,7 +3582,7 @@ This is a fun test for you to try and learn.
   
 ## How to listen to MixCloud sets without going nuts
 
-Mixcloud is the biggest online site to listen sets as it is [100% legal](https://www.digitaldjtips.com/2020/04/how-to-stream-your-dj-sets-100-legally-on-mixcloud-live/)
+Mixcloud is the biggest online free site to listen sets as it is [100% legal](https://www.digitaldjtips.com/2020/04/how-to-stream-your-dj-sets-100-legally-on-mixcloud-live/)
 
 However it is also the most annoying way to listen:
 * no rewind

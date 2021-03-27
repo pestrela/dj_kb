@@ -1,0 +1,59 @@
+site_name: Covid posts
+
+plugins:
+    #- search
+    #- mkpdfs
+
+theme:
+    name: readthedocs
+    #name: mkdocs
+
+   #name: rtd-dropdown
+    #name: material
+    features:
+      # - navigation.instant
+      - navigation.sections
+      - navigation.tabs
+
+markdown_extensions:
+    # this makes anchors at the headings
+    - toc:
+        permalink: yes
+    - admonition
+    - def_list
+    #- mdx_gh_links:
+    #    user: mkdocs
+    #    repo: mkdocs
+        
+    
+#  cat index.md  | grep -- "^# "  | awk -F, '{print "-",$1,":",$1".md" }'    
+#for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
+nav:
+    - About : about.md
+    - MindMap Summary : mindmap.md
+    - OS-Folders : os_folder.md
+    - Traktor software : traktor.md
+    - Sound Quality : sound_quality.md
+    - Effects  : effects.md
+    - Traktor Elastic Beatgrids   : traktor_elastic_beatgrids.md
+    - Traktor Slow preferences Window : traktor_slow_prefs.md
+    - BOME mappings migration : bome_mappings.md
+    - Hardware Controllers : hardware_controllers.md
+    - Reviews : reviews.md
+    - Free Mappings : free_mappings.md
+    - DJ Tutorials : dj_tutorials.md
+    - Mappings Tricks : mapping_tricks.md
+    - DJ collection converters : dj_collection_converters.md
+    - Free DJ Software Tools : free_dj_tools.md
+    - DJ Software optimization : dj_optimization.md
+    - Windows usage : windows.md
+    - Rekordbox v6 topics : rekordbox_v6.md
+    - MIXXX topics : mixxx.md
+    - Music Styles : music_style.md
+    - DJ information sources : dj_info_sources.md
+    - Other topics : other.md
+  
+  
+# Target for Edit in GitHub button.
+#repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart/  
+    
