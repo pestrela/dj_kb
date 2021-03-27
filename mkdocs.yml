@@ -30,7 +30,6 @@ markdown_extensions:
 #for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
 nav:
     - About : about.md
-    - MindMap Summary : mindmap.md
     - OS-Folders : os_folder.md
     - Traktor software : traktor.md
     - Sound Quality : sound_quality.md
