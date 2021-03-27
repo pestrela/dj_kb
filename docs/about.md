@@ -60,9 +60,42 @@ plus more [other stuff](#Other-topics).
 Below a detailed [table of contents](#Table-of-Contents) of the whole thing, 
 and a [MindMap picture](#MindMap-Summary) to get you started.
      
+      
+## Some metrics of my free contributions
+
+These are my biggest crontibutions.\
+What did you enjoyed the most? please tell me to pedro.estrela@gmail.com
+
+* Knowledge Base: 20K words 
+  * <https://github.com/pestrela/dj_kb>
+* DDJ-1000 mapping: 7K downloads
+  * <https://maps.djtechtools.com/mappings/9279>
+* DDJ-SX2/SZ/SRT mapping: 5K downloads 
+  * <https://maps.djtechtools.com/mappings/9222>
+* CMDR Changelog: 180 lines
+  * <https://github.com/cmdr-editor/cmdr#2020-improvements>
+  
+ 
+ 
+## Open questions for 2021
+
+Question #1:\  
+What is the future of controleirism in 2021? 
+Why do the new generation of DJs seem apparently satisfied with the current capabilities of Serato and Rekordbox "as-is"?
+
+Question #2:\  
+How could happen that Traktor/NI dropped the jogwheel in 2014 with the S8/remix decks, but in 2021 is still the ONLY major sofwtare without flexible beatgrids?
+
+question #3:\  
+What is your opinion of realtime STEMS seperaation of VDJ 2021 and Djay AI?
+
+
+
 
 ## MindMap Summary
 
 This page has my knowledge sharing about Traktor, Mappings, Hardware, DJing, DJ Set, etc.\
 The picture below summarizes the main ideas and dependencies explained in these blog posts.
 ![traktor_mindmap](pics/traktor_mindmap.png?raw=true)
+
+   

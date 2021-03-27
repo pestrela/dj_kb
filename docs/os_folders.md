@@ -7,6 +7,7 @@
 I have a large collection with thousands of files. It is also quite broad, featuring hundreds of playlists, and dozens of genres / sub-genres / decades combinations.
 
 My numbers are:
+
 * **Tracks**: 8000
 * **Playlists**: 300
 * **Sub-genres:** 50 
@@ -29,6 +30,7 @@ Above, I've explained [the size and complexity of my collection](#How-large-is-y
 This is nothing new; I know many DJs with [the same "problem"](https://code.google.com/archive/p/serato-itch-sync/). The difference is on the *how*; In my case I manage the collection only in OS-folders, instead of DJ-playlists.
 
 Main reasons are:
+
 * **#1: Multiple Windows:** File explorer opens instantaneously with Win+E, and allows any number of windows, monitors and [tabs](http://qttabbar.wikidot.com/). 
 * **#2: Tree Tagging:** More crucially, all windows have the whole tree visible. This is essential to quickly tag my files by just moving them to the correct correct folder. Similarly, the structure grows just by creating new sub-folders as needed.
 * **#3: Simpler Folders**: OS-Folders contain either files, sub-folders, or both. [This 2-step organization](https://en.wikipedia.org/wiki/Path_(computing)#History) is simpler is than the iTunes 3-step model of "folders -> playlists -> files" (later copied by almost all DJ softwares).
@@ -54,9 +56,9 @@ Above I've described [Why I manage music using OS-folders only](#why-i-manage-mu
 * **#5: Rekordbox Import:** On rekordox first I delete all missing files, then import the whole collection "as-is", and then update the collection with the XML file that came from the (repaired) Traktor collection. These steps are fully automatic and it ensures the Rekordbox collection matches the Traktor collection.
 * **#6: Rekordbox Search:** I only use rekordbox for video gigs. There I use the explorer node to see my files, and search for files in the whole collection. For the rare case I need to search inside a "playlist", I use a real File Explorer window in parallel when needed (because rekordbox [still lacks a search box in OS-folders](#why-is-traktor-my-software-of-choice-b-os-search-no-playlists))
 * **#7: CDJ export:** I only really need playlists for CDJs. There are scripts to mass-convert all folders to DJ playlists. Then I do the usual rekordbox step to prepare USBs pens.
-  * Windows version is http://samsoft.org.uk/iTunes/ImportFolderStructure.vbs; 
-  * Mac version is https://dougscripts.com/itunes/scripts/ss.php?sp=droptoaddnmake; 
-  * A Serato-specific version is in https://code.google.com/archive/p/serato-itch-sync/
+    * Windows version is http://samsoft.org.uk/iTunes/ImportFolderStructure.vbs; 
+    * Mac version is https://dougscripts.com/itunes/scripts/ss.php?sp=droptoaddnmake; 
+    * A Serato-specific version is in https://code.google.com/archive/p/serato-itch-sync/
   
 See also the [DJCU workflow from ATGR](https://www.youtube.com/watch?v=d4QO6xxGovQ).
  
@@ -80,9 +82,9 @@ Download: [traktor_clone_cues.py](https://github.com/pestrela/music/blob/master/
 This tool was inspired by these two tools by [Kalo](https://www.native-instruments.com/forum/members/kalo.266077/)
 
 * [TraCoMerger](https://www.native-instruments.com/forum/threads/tracomerger-combine-traktor-collections-transfer-metadata-between-tdj-and-traktor-pro.258738/) 
-  * Combine Traktor collections, Transfer metadata between TDJ and Traktor Pro
+    * Combine Traktor collections, Transfer metadata between TDJ and Traktor Pro
 * [TraCoConverter](https://www.native-instruments.com/forum/threads/tracoconverter-convert-traktor-metadata-cues-grid-into-txt-csv-xls-dj-player-pro.259384/)
-  * Convert Traktor metadata (cue's, grid..) into TXT, CSV, XLS, DJ Player Pro
+    * Convert Traktor metadata (cue's, grid..) into TXT, CSV, XLS, DJ Player Pro
 
 
 

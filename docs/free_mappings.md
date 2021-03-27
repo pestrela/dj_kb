@@ -35,6 +35,7 @@ See also this PDF file for step-by-step instructions: [installation guide](https
 See also the common questions: [FAQ](https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000/3%20Documentation)
 
 Some notes:
+
 * **#1:** My guides covers all DDJ controllers. The only difference is the Aliases (page 10) and Output (page 28). The Annexes have specific pictures for specific DDJs.
 * **#2:** This mapping requires the third-party BOME midi translator. It has a free trial for you to test this mapping before buying a license.
 * **#3:** Issues? See the FAQ in a pdf, the “gotchas” on page 34, and reconfirm if you missed a step of this guide.
@@ -43,11 +44,13 @@ Some notes:
 ## What are the features of your DDJ-1000 Traktor mapping?
 
 **Links:**
+
 * Download Link: <https://maps.djtechtools.com/mappings/9279>
 * Documentation: <https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000>
 *	Video demo: <https://youtu.be/h9tQZEHr8hk>
 
 **Feature list: Unique features**
+
 *	Only mapping in the world with Jog Screens
 *	7x Jogwheel FX chains
 * Loop backward adjust
@@ -56,6 +59,7 @@ Some notes:
 * Much lighter ([3 seconds instead of 18 to load](#How-slow-does-the-preferences-window-get))
 
 **Feature list: other features**
+
 * Echo out (release FX)
 *	5x MixerFX
 *	11x MacroFX
@@ -71,6 +75,7 @@ Some notes:
 
 
 **Summary:**
+
 * This is the *only mapping* for the DDJ-1000 supporting Jog Screens. It works on both Traktor 3 and 2. It requires the 3rd-party BOME Pro MIDI translator. Free trial versions are available to test everything. 
 *	It is also the most complete by far. It supports MixerFX, MacroFX, JogFX chains, padFX, Keyboard mode, Rolls, and a Preview Player. Latest features are CDJ-emulation, Loops adjust and Beatjump shortcuts.
 
@@ -81,11 +86,13 @@ Some notes:
 ## What are the features of your DDJ-SX2 / DDJ-SZ / DDJ-SRT Traktor mapping?
 
 **Links:**
+
 *	Download Link: <https://maps.djtechtools.com/mappings/9222>
 *	Documentation: <https://github.com/pestrela/dj_maps/tree/master/ddj_sx2_sz_srt>
 *	Video demo: <http://youtu.be/H_TE2mtuM6Q>
 
 **Feature list:**
+
 * Much faster to load ([3 seconds instead of 18](#How-slow-does-the-preferences-window-get))
 *	7x Jogwheel FX chains
 *	5x TP3 MixerFX
@@ -100,6 +107,7 @@ Some notes:
 *	All  functions reachable without shifts
 
 **Summary:**
+
 *	This a 2019 mapping for the Pioneer DDJ family of controllers. It works on both Traktor 3 and 2. The mapping was **tested extensively** in both the **DDJ-SX2** and **DDJ-SZ**. Other DDJs are supported as well (please see below).
 *	It is also the most complete by far. It supports TP3 MixerFX, MacroFX, JogFX chains, padFX, Keyboard mode, Rolls, Slip reverse, and a Preview Player. Be sure to see the documentation for all the features.
 
@@ -108,11 +116,13 @@ Some notes:
 ## What are the features of your AKAI AMX Traktor mapping?
 
 **Links:**
+
 *	Download Link: <https://maps.djtechtools.com/mappings/9323>
 *	Documentation: <https://github.com/pestrela/dj_maps/tree/akai_amx>
 *	Video demo: <https://www.youtube.com/watch?v=TzAgENM55DE>
 
 **Feature list:**
+
 *	DVS TP3
 *	10x shift layers
 *	Full Transport controls
@@ -122,7 +132,8 @@ Some notes:
 *	Loops
 *	BeatJump
 *	Preview player
-\
+
+
 *	5x MixerFX
 *	7x MacroFX
 *	1x Resonant Filter
@@ -136,6 +147,7 @@ Some notes:
 
 
 **Summary:**
+
 *	This is a 2019 mapping for the Akai AMX. This is by far the cheapest and smallest way to unlock both DVS and almost all Traktor Pro 3 functions. In a single device you have the equivalent of a Z1+X1+TwisterFighter, at least.
 *	It is also the most complete by far. It supports 10x layers, 4 decks, full transport and tempo control, TP3 MixerFX, MacroFX, Cues, Loops, beatjump,  Rolls, Slip reverse, Sampler, Key adjust, and a Preview Player. 
 
@@ -145,11 +157,13 @@ Some notes:
 ## What are the features of your XDJ-XZ Traktor mapping?
 
 **Links:**
+
 *	Download Link: <https://maps.djtechtools.com/mappings/10305>
 * Documentation: <https://github.com/pestrela/dj_maps/blob/master/xdj_xz/> 
 *	Video demo: <https://youtu.be/7EPfY9bGGlw> 
 
 **Feature List:**
+
 * Much faster to load ([3 seconds instead of 18](#How-slow-does-the-preferences-window-get))
 * Jog Screens (firmware only supports Needle and Cue marker)
 * 7x Jogwheel FX chains
@@ -161,6 +175,7 @@ Some notes:
 *	Beatjump controls
 
 **Summary:**
+
 *	This a 2020 mapping for the XDJ-XZ. It works on both Traktor 3 and 2. The mapping was based on my previous mapping for the DDJ-SZ/SRT.
 *	It is also the most complete by far. It supports TP3 MixerFX, MacroFX, JogFX chains, padFX, Rolls, Slip reverse. Be sure to see the documentation for all the features.
 *	Mapping now works both WITH and WITHOUT bome. Without BOME it will miss jog screens and MacroFX/MixerFX.
@@ -171,12 +186,14 @@ Some notes:
 ## What are the features of your Numark PartyMix mapping?
 
 Links:
+
 *	Download: <https://maps.djtechtools.com/mappings/9764>
 *	Demo video: <https://youtu.be/W6yuVs0ah2k>
 *	Installation video (starts at 7:30):  <https://youtu.be/W6yuVs0ah2k>
 *	Documentation: <https://github.com/pestrela/dj_maps/tree/master/numark_party_mix>
 
 FEATURE LIST:
+
 *	2x shift layers
 *	Filter knob
 *	10x colorFX
@@ -189,6 +206,7 @@ FEATURE LIST:
 *	Jog Search
 
 Summary:
+
 *	This is a 2019 mapping for the numark PartyMix for VirtualDJ 2020. Major feature are 2x shifts layers that adds more functions than the available buttons, and a dedicated Filter knob.
 *	Other features are 10x ColorFX, Cues delete, Loop adjust, 4x Loop roll mode, and 7x FX control. Also available is Zoom, jog search, Tempo range
  	 
@@ -201,9 +219,11 @@ Summary:
 ### A) Beatgrid helper
 
 **Links:**
+
 *	Download Link: https://maps.djtechtools.com/mappings/9760
 
 **Summary:**
+
 *	Use this mapping to beatgrid your music in Traktor faster
 *	Features: quick seek,  quick zoom, next song, shortcut, lock, auto, etc
 *	All keys have a “faster” version using the shift
@@ -214,9 +234,11 @@ Summary:
 ### B) Transitions-Aligned Beatjumps
 
 **Links:**
+
 *	https://maps.djtechtools.com/mappings/9762
 
 **Summary:**
+
 *	Use this mapping to prepare transitions-aligned beatjumps. This mapping lets you beatjump on both deck A and B simultaneously, so that you can put CUEs to align them
 *	Row “one” of your keyboard beatjumps deck A; row “two” beatjumps deck B; row “three” beatjumps both decks simultaneously. Row “zero” controls the crossfader as well. 
 *	EXAMPLE: please the transition around 52m of this mix.Song “A” is singing when “B” starts entering at 52m07s. For 30s, song “A” is singing normally. When “A” stops singing at 52m41s, “B” starts singing exactly at that time. This mapping helps a lot these fun transitions.
@@ -232,12 +254,14 @@ My zip files have **a lot** of documentation besides the TSI file.\
 IMO it has no comparison to the typical mappings available on https://maps.djtechtools.com/ or https://www.traktorbible.com/freaks 
 
 Included is:
+
 * Quick reference (pictures only): [example](mapping_ddj_1000/DDJ-1000%20-%20Quick%20overview.pdf)
 * User manual: [example](mapping_ddj_1000/DDJ-1000%20-%20Detailed%20manual.pdf)
 * Installation manual: [example](mapping_ddj_1000/Installation%20Help/DDJ%20Mappings%20-%20Installation%20Guide.pdf)
 * FAQ: [example](mapping_ddj_1000/Installation%20Help/DDJ%20Mappings%20-%20Frequently%20Asked%20Questions.pdf)
 
 Plus:
+
 * Technical info (to extend the mapping): [traktor_side](mapping_ddj_1000/Support%20files/Technical%20Info%20-%20Traktor%20side.txt) [bome_side](mapping_ddj_1000/Support%20files/Technical%20Info%20-%20BOME%20side.txt)
 * Every single function: [example](mapping_ddj_1000/Support%20files/Source%20files/DDJ%20-%20Detailed%20reference.xlsx)
 
@@ -300,16 +324,19 @@ Below is a list of open support tickets of firmware bugs.\
 These issues were already reported years ago and will not get fixed unless more people report them.
 
 To do this, create a ticket **yourself** and mention "ticket 147606".
+
 * <https://forums.pioneerdj.com/hc/en-us/requests/new?ticket_form_id=72145>
 * <https://serato.com/forum/discussion/1736390>
 
 To be able to post on the Pioneer site, be sure to:
+
 * Do not use ad-block plus (or similar)
 * Clear your cookies
 * Prefer Edge browser instead of Chrome
 * [more tips](https://forums.pioneerdj.com/hc/en-us/community/posts/900001473763-Forum-issues-trying-to-create-a-new-post/)
 
 DDJ-1000 issues:
+
 | Ticket number | Controller |  Description |
 | --- | -- | -- |
 | 147606 | DDJ-1000 | Jog screen sync led gets stuck | 
@@ -382,7 +409,9 @@ Download the [free zip file](https://maps.djtechtools.com/mappings/9222) and cho
   
 ## Does (random DDJ controller) works with your mapping? Are the jogs good?
 
-Pioneer has **dozens** of controllers. I own 3x of them, so ONLY there the mappings are 100% tight:
+Pioneer has **dozens** of controllers. 
+I own 3x of them, so ONLY there the mappings are 100% tight:
+
 * DDJ-1000
 * DDJ-SZ
 * DDJ-SX2
@@ -403,6 +432,7 @@ Are you using a custom mapping? Does some functions work but not the Play/Pause 
 This is a typical sign of a double installed mapping. Play works as a "toggle", so if its applied twice it cancels itself.
 
 Solution:
+
 * Delete all mapping pages in the controller manager
 * install the desired mapping only once
 

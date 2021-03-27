@@ -12,6 +12,7 @@ This section has links to DJ tutorials and technical information.
 This article covers all the issues that happen on an extremly common situation: switching between DJs. It is pure gold.
 
 Covered:
+
 * Not following DJ etiquette
 * Forgetting your headphones or adapter
 * Plugging in your own equipment incorrectly 
@@ -24,6 +25,7 @@ Covered:
 * Running out of time
 
 Well, we are only half-way. Covered next is:
+
 * Cutting short the other DJs track
 * Not beat-matching the transition
 * Failing to notice the FX are on
@@ -43,35 +45,35 @@ Article: <https://www.londonsoundacademy.com/blog/the-biggest-mistakes-to-avoid-
 Another great article from the LSA:
 
 * Headphone Components
-  * Headband
-  * Driver & Enclosure
-  * Ear Pads
-  * The Cable
+    * Headband
+    * Driver & Enclosure
+    * Ear Pads
+    * The Cable
 * Buying Criteria:
-  * 1. Audio Quality
-  * 2. Comfort
-  * 3. Durability
-  * 4. Budget
+    * 1. Audio Quality
+    * 2. Comfort
+    * 3. Durability
+    * 4. Budget
 * Other Headphone Options To Consider
-  * Closed or Open-back?
-  * Impedance or Ohm Rating
+    * Closed or Open-back?
+    * Impedance or Ohm Rating
  
 * Recommendations for DJ Headphones
-  * Sennheiser HD-25 - RRP £129 ‍
-  * Aiaiai TMA-2 DJ RRP £180
-  * Pioneer HDJ-S7 RRP £159
+    * Sennheiser HD-25 - RRP £129 ‍
+    * Aiaiai TMA-2 DJ RRP £180
+    * Pioneer HDJ-S7 RRP £159
 * Headphone Recommendations for Producers 
-  * Beyerdynamic DT-770 Pro RRP £105
-  * Beyerdynamic DT-990 RRP £109
-  * Sennheiser HD650 RRP £399
-  * AKG K Professional Headphones Range £39+ .. £1499
-  * Audio Technica ATH-M50x RRP £119
-  * Audeze LCD-2 RRP£989
+    * Beyerdynamic DT-770 Pro RRP £105
+    * Beyerdynamic DT-990 RRP £109
+    * Sennheiser HD650 RRP £399
+    * AKG K Professional Headphones Range £39+ .. £1499
+    * Audio Technica ATH-M50x RRP £119
+    * Audeze LCD-2 RRP£989
 * What to Avoid:
-  * Fast-fashion Headphones
-  * Gimmick Headphones
-  * Headphones Brands That Do Not Offer Spare Parts
-  * Bluetooth or Wireless H
+    * Fast-fashion Headphones
+    * Gimmick Headphones
+    * Headphones Brands That Do Not Offer Spare Parts
+    * Bluetooth or Wireless H
 
 
 <https://www.londonsoundacademy.com/blog/the-best-headphones-for-djs>
@@ -170,22 +172,22 @@ Touring level Subwoofers
 
 
 * Free
-  * Soundcloud 
-  * Record Label Promos & Mailing Lists 
-  * Music PR Company Promos
-  * Direct Contacts 
-  * Download Gates (eg, Hypeddit)
+    * Soundcloud 
+    * Record Label Promos & Mailing Lists 
+    * Music PR Company Promos
+    * Direct Contacts 
+    * Download Gates (eg, Hypeddit)
 * To Buy
-‍  * LSA Records
-  * Beatport.com 
-  * iTunes / Apple Music
-  * Amazon
-  * Juno Records
-  * Traxsource
-  * Boomkat
-  * Bandcamp
-  * Subscription Streaming Service For DJs (eg, Beatport Link)
-  * DJ Pools
+‍    * LSA Records
+    * Beatport.com 
+    * iTunes / Apple Music
+    * Amazon
+    * Juno Records
+    * Traxsource
+    * Boomkat
+    * Bandcamp
+    * Subscription Streaming Service For DJs (eg, Beatport Link)
+    * DJ Pools
 
 <https://www.londonsoundacademy.com/blog/where-to-download-house-music-online>
 
@@ -193,20 +195,20 @@ Touring level Subwoofers
 
 
 * Super Easy
-  * Pacemaker AI DJ App
+    * Pacemaker AI DJ App
 * Easy
-  * MixMeister
-  * Garage Band  
+    * MixMeister
+    * Garage Band  
 * Easy-Medium  
-  * Audacity 
-* medium
-  * Rekordbox 
-  * Serato 
-  * Traktor 
-  * Virtual DJ 
+    * Audacity 
+* Medium
+    * Rekordbox 
+    * Serato 
+    * Traktor 
+    * Virtual DJ 
 * Difficult  
-‍  * ‍Ableton 
-  * Logic Pro
+‍    * ‍Ableton 
+    * Logic Pro
   
   
 Article: <https://www.londonsoundacademy.com/blog/10-ways-to-make-a-mixtape>
@@ -248,28 +250,28 @@ Other than paid courses, these fine people contributed A LOT of FREE tutorials i
 If you are dedicated enough, experimenting and trying these materials for yourself can get you as far as you want.
 
 * **Phil Morse and team:**
-  * https://www.digitaldjtips.com/dj-courses/
+    * https://www.digitaldjtips.com/dj-courses/
 * **Ean Golden and team:**
-  * Advanced Interactive: https://us02web.zoom.us/webinar/register/WN_XyLog-v7QXm4LoBMxLfdCg
-  * Videos: https://store.djtechtools.com/collections/sound-packs-tutorials
+    * Advanced Interactive: https://us02web.zoom.us/webinar/register/WN_XyLog-v7QXm4LoBMxLfdCg
+    * Videos: https://store.djtechtools.com/collections/sound-packs-tutorials
 * **Carlo Atendido:**
-  * https://sellfy.com/djcarloatendido/
+    * https://sellfy.com/djcarloatendido/
 * **DJ TLM:**
-  * https://djcoursesonline.com/dj-programs/
+    * https://djcoursesonline.com/dj-programs/
 * **DJ Endo / DJ Shiftee:**
-  * https://online.berklee.edu/courses/learn-to-dj-with-traktor
-  * http://www.dubspot.com/programs/dj-extensive-program/?from=105#courses
+    * https://online.berklee.edu/courses/learn-to-dj-with-traktor
+    * http://www.dubspot.com/programs/dj-extensive-program/?from=105#courses
 * **Jamie Hartley:**
-  * https://wearecrossfader.co.uk/online-dj-courses/
+    * https://wearecrossfader.co.uk/online-dj-courses/
 * **DJ DAVE:**
-  * https://www.adsrsounds.com/product/courses/traktor-pro-3-masterclass/
+    * https://www.adsrsounds.com/product/courses/traktor-pro-3-masterclass/
 * **Udemy:**
-  * https://www.udemy.com/topic/dj/
+    * https://www.udemy.com/topic/dj/
 
 ## List of Introductory DJ Tutorials / Exercises
 
 TBD.  
-For now, see: https://www.mixxx.org/wiki/doku.php/beginner_dj_links
+For now, see: <https://www.mixxx.org/wiki/doku.php/beginner_dj_links>
  
 ## List of beginner tips
 
@@ -297,9 +299,10 @@ For some audiences like live-streaming, specialized non-commercial music styles,
 To other audiences, this is not relevant at all.
 
 Taking the above rule into account, I then believe the following:
+
 * Beatmatching tracks that beatgrid well is just a waste of time
 * Using sync on tracks that **do not** beatgrid well is very damaging
-  * this is why elastic beatgrids are so important
+    * this is why elastic beatgrids are so important
 * Some tricks typically associated with vinyl/beatmatching are definitely enjoyed by the audience, eg TT break / TT stop
 * Beatmatching forces you to hear and known the tracks much better. It is a significant help in respecting and leveraging the phrasing structure of the tracks.
 
@@ -347,22 +350,24 @@ Looking forward more follow-up courses, namely by other high-quality Tutors, in 
 
 
 Course #1: [link](https://store.djtechtools.com/products/dj-techtools-live-master-classes#course1)
-Session 1 - FX For Success (the two essential FX everyone needs and how to use them creatively)
-Session 2 - Critical Loops and Cues (how to prepare your music for low stress seamless mixing)
-Session 3 - Setting Up Amazing Mixes (engineering mixes that wow the crowd)
-Session 4 - Using Different Tempos (how to seamlessly blend music from various genres)
-Session 5 - How to change between radical tempos and shift energy
-Session 6 - Using Keys in a set creatively (shifting energy and building a quality flow)
-Session 7 - Creative arrangement of a set  (telling a story and building the flow)
+
+* Session 1 - FX For Success (the two essential FX everyone needs and how to use them creatively)
+* Session 2 - Critical Loops and Cues (how to prepare your music for low stress seamless mixing)
+* Session 3 - Setting Up Amazing Mixes (engineering mixes that wow the crowd)
+* Session 4 - Using Different Tempos (how to seamlessly blend music from various genres)
+* Session 5 - How to change between radical tempos and shift energy
+* Session 6 - Using Keys in a set creatively (shifting energy and building a quality flow)
+* Session 7 - Creative arrangement of a set  (telling a story and building the flow)
 
 
 Course #2: [link](https://store.djtechtools.com/products/dj-techtools-live-master-classes#course2)
-Session 1 - Creative uses of 3rd and 4th decks
-Session 2 - Leverage Remix Decks and Sample Decks to add dimension/ personality to your sets
-Session 3 - Software//Hardware techniques for delicious and unique sound quality
-Session 4 - MIDI Mapping for the win - Adding a layer of creativity to your sets
-Session 5 - Going beyond the basic mixes. 6 out of the box ways to pick and blend music that set my style apart from others. I will give you nearly all my favorite mix tricks lately in 1 hour!
-Session 6 - Creating Edits that really work and will make your DJ sets unique!
+
+* Session 1 - Creative uses of 3rd and 4th decks
+* Session 2 - Leverage Remix Decks and Sample Decks to add dimension/ personality to your sets
+* Session 3 - Software//Hardware techniques for delicious and unique sound quality
+* Session 4 - MIDI Mapping for the win - Adding a layer of creativity to your sets
+* Session 5 - Going beyond the basic mixes. 6 out of the box ways to pick and blend music that set my style apart from others. I will give you nearly all my favorite mix tricks lately in 1 hour!
+* Session 6 - Creating Edits that really work and will make your DJ sets unique!
 
 
 
@@ -372,10 +377,10 @@ Session 6 - Creating Edits that really work and will make your DJ sets unique!
 ## List of Technical Webinars
 
 * **Jeroen Groenendijk**
-  * **Files & Management:** <https://www.youtube.com/watch?v=B8n9ma-egX4>
-  * **Add Files, Tagging & Preferences:** <https://www.youtube.com/watch?v=BkpkGZNoNf8>
+    * **Files & Management:** <https://www.youtube.com/watch?v=B8n9ma-egX4>
+    * **Add Files, Tagging & Preferences:** <https://www.youtube.com/watch?v=BkpkGZNoNf8>
 * **Mix Master G:**
-  * **Lots of useful technical videos here:** <https://www.youtube.com/channel/UCMXHg5Oi8vlfKyEvsgrMRuQ/playlists>
+    * **Lots of useful technical videos here:** <https://www.youtube.com/channel/UCMXHg5Oi8vlfKyEvsgrMRuQ/playlists>
 
 TODO: add more high-quality webinars.
   
@@ -384,13 +389,13 @@ TODO: add more high-quality webinars.
 Baz Curtis made detailed comparison of the AI separation of the same tracks [in this thread](https://www.reddit.com/r/IsolatedTracks/comments/hhjczd/ai_separation_comparison/)
 
 * House:
-  * <https://www.youtube.com/watch?v=NT04Y5ckmGI&list=PLwbgRytAgrKt8MRwwCrorsmurpT_1jZ5V>
+    * <https://www.youtube.com/watch?v=NT04Y5ckmGI&list=PLwbgRytAgrKt8MRwwCrorsmurpT_1jZ5V>
 * Pop:
-  * <https://www.youtube.com/watch?v=6-34uvdF7w0&list=PLwbgRytAgrKs_hSoQc-xjtLcBbcmwFIaY>
+    * <https://www.youtube.com/watch?v=6-34uvdF7w0&list=PLwbgRytAgrKs_hSoQc-xjtLcBbcmwFIaY>
 * Rock
-  * <https://www.youtube.com/watch?v=sW7sRS2Yims&list=PLwbgRytAgrKvJXaPdLcKh1YEhrfRj3Exw>
+    * <https://www.youtube.com/watch?v=sW7sRS2Yims&list=PLwbgRytAgrKvJXaPdLcKh1YEhrfRj3Exw>
 * HipHop
-  * <https://www.youtube.com/watch?v=XOVqRfoc0aI&list=PLwbgRytAgrKsMityaG-h1HUCuGcyaqc5P>
+    * <https://www.youtube.com/watch?v=XOVqRfoc0aI&list=PLwbgRytAgrKsMityaG-h1HUCuGcyaqc5P>
   
 ![ ](https://i.redd.it/ppik66ub0p751.png)
   
@@ -415,6 +420,7 @@ This amazing video is only 16m and covers eveything you need or may need in musi
 <https://www.youtube.com/watch?v=_eKTOMhpy2w>
 
 Contents:	
+
 * 00:00 Introduction
 * 00:26 Basics principles and piano layout
 * 02:14 Note names
@@ -425,89 +431,6 @@ Contents:
 
   
   
-## Midi mapping tutorials
-
-* **Beginner:**
-  * **Traktor very first keyboard map:** <https://djtechtools.com/2015/02/26/intro-to-basic-midi-mapping-with-traktor/>
-  * **Traktor basic modifiers:** <https://djtechtools.com/2014/05/11/midi-mapping-101-the-traktor-modifier-re-explained/>
-  * **Load and Sync**: <https://ask.audio/articles/how-to-create-two-advanced-mappings-in-traktor-pro>
-  * **Importing midi maps**: <https://djtechtools.com/2015/06/14/troubleshooting-midi-maps-in-traktor/>
-* **Intermediate:**
-  * **Traktor SuperCombos:** <https://blog.native-instruments.com/how-to-map-instant-effects-in-traktor/>
-  * **Traktor Step sequencer:** <https://djtechtools.com/2018/01/29/traktors-step-sequencer-map-midi-controller/>
-  * **Traktor Patten recorder:** <https://djtechtools.com/2019/01/16/how-to-use-traktors-pattern-recorder-with-any-midi-controller/>
-* **Advanced**
-  * **Traktor Global MIDI controls:** <https://djtechtools.com/2015/09/08/traktor-global-midi-control-control-multiple-midi-devices-one-controller/>
-  * **Rekordbox BOME emulation of jogwheels:** <https://djtechtools.com/2017/05/08/hack-rekordbox-use-controllers-jogwheels/>
-  * **Rekordbox RXM-1000:** <https://djtechtools.com/2019/06/24/hacking-rekordbox-fx-and-adding-rmx-1000-control/>
-  * **Serato modifers and jogs:** <https://djtechtools.com/2018/04/11/hacking-serato-djs-midi-mapping-jogwheels-touchstrips-and-modifiers/>
- 
- 
-TBD: https://ask.audio/articles/how-to-create-two-advanced-mappings-in-traktor-pro
-  
-## List of single feature MIDI mappings
-
-Below is a list of mappings that showcase a single isolated feature.
-These are excellent to learn mapping without getting an avalanche of thousands of unrelated entries.
-
-If you are experienced, these are useful "standarized building blocks" to add to your own mappings.
-  
-* **DJ Estrela:**
-  * **Preview Player:** <https://maps.djtechtools.com/mappings/10915>
-  * **Backwards loop and Reloop:** <https://maps.djtechtools.com/mappings/10252>
-  * **BOME access all 9x mixerFX:** <https://maps.djtechtools.com/mappings/10575>
-* **Stewe (beginner):**  
-  * **Scroll Playlists:** <https://forum.djtechtools.com/showthread.php?t=88950&p=731238#post731238>
-  * **One-button beatmasher:** <https://maps.djtechtools.com/mappings/7851>
-  * **One button MixerFX:** <https://maps.djtechtools.com/mappings/8915>
-  * **One button Ramp delay:** <https://maps.djtechtools.com/mappings/7853>
-* **Stewe (advanced):**
-  * **Four-button beatmasher:** <https://maps.djtechtools.com/mappings/7862>
-  * **4 deck routing FX concept:** <https://maps.djtechtools.com/mappings/2376>
-  * **S4 Mk3 mixerFX-style on Mk2:** <https://maps.djtechtools.com/mappings/9753>
-  * **Double deck focus:** <https://maps.djtechtools.com/mappings/1536>
-  * **Twister Insta MixerFX:** Midi Fighter Twister Insta Mixer FX (TPro3)
-
-
-## List of Advanced MIDI mappings
-
-These are the most complete mappings I've seen, which extend **significantly** Traktor with a lot of useful features.
-
-* **Tekken:**
-  * **S4 ultimate mapping:** <https://maps.djtechtools.com/mappings/9277>
-  * **F1 ultimate mapping:** <https://maps.djtechtools.com/mappings/652>
-* **DJ TechTools official:**
-  * **Twisted Gratification:** https://maps.djtechtools.com/mappings/5437  ([newer version](https://maps.djtechtools.com/mappings/10645)) 
-  * **DJTT Kontrol S4 MK2:** https://maps.djtechtools.com/mappings/2211
-  * **One button contest:** https://maps.djtechtools.com/mappings/3619
-* **Stewe:**
-  * **Kontrol S4 MK3 Ninja:** https://maps.djtechtools.com/mappings/9325
-  * **Midi Fighter Ninja:** https://maps.djtechtools.com/mappings/1536
-  * **4 deck stem control:** https://maps.djtechtools.com/mappings/7332
-  * **Isolator FX cut/add:**  https://forum.djtechtools.com/showthread.php?t=72493
-  * **Midifighter 64 sequencer:** https://maps.djtechtools.com/mappings/7645
-  * **Livid CNTRL:R Ultimate:** https://forum.djtechtools.com/showthread.php?t=68678
-* **Various:**
-  * **Rudi-J's Elephant mapping:** https://www.youtube.com/watch?v=rkGZRU8Wvdg / [pdf](pics/RUDI-Js%20ELEPHANT%20TSI%20for%20VCI-400SE%20%2B%20Maschine%20(MK1)%20%2B%20BCR%202000%20v2.0.pdf)
-
- 
-Also very relevant are Mods that change the controller screens and gives more features:
-* **Joe Easton S4 Hack**:
-  * **Official Thread:** https://www.native-instruments.com/forum/threads/348471/
-  * **Review:** https://djworx.com/traktor-s4-mk3-screen-hack-hits-version-2-0/
-* **Aleix Jiménez Supreme Edition **:
-  * **Official thread:** https://www.native-instruments.com/forum/threads/348539  
-* **ErikMinekus Kontrol screens**:
-  * **Github**: https://github.com/ErikMinekus/traktor-kontrol-screens
-* **Kokernutz Kontrol screens**:
-  * **Github**: https://github.com/kokernutz/traktor-kontrol-screens 
-
-Another good indicator is the list of most downloaded mappings (click "Downloads" to sort):
-* https://maps.djtechtools.com/mappings?search%5Bsoftware_id%5D=29 )
-
-Other lists of advanced mappings:
-* https://blog.native-instruments.com/the-best-s4-hacks-of-all-time/
-* https://blog.native-instruments.com/custom-mappings-to-extend-your-traktor-control/
 
 ## Tutorial on Traktor preferences
 
