@@ -50,10 +50,10 @@ Another great article from the LSA:
     * Ear Pads
     * The Cable
 * Buying Criteria:
-    * 1. Audio Quality
-    * 2. Comfort
-    * 3. Durability
-    * 4. Budget
+    1. Audio Quality
+    2. Comfort
+    3. Durability
+    4. Budget
 * Other Headphone Options To Consider
     * Closed or Open-back?
     * Impedance or Ohm Rating
@@ -83,76 +83,89 @@ Another great article from the LSA:
 See this video to learn how to buy/rent large speakers. 
 <https://www.youtube.com/watch?v=VMQurf2Za1g>
 
-Battery Speakers
--JBL Eon One Compact https://amzn.to/3epiwME
--Bose S1 Pro https://amzn.to/3fvWWaF
--LD Systems Maui 5 Go https://amzn.to/2CrKERD
+Battery Speakers:
 
-Column Arrays
-Video https://youtu.be/fc2_bls2R_g
--EV Evolve 50 https://amzn.to/2CkUPYm
--EV Evolve 30m https://amzn.to/2AOvZQj
+* JBL Eon One Compact https://amzn.to/3epiwME
+* Bose S1 Pro https://amzn.to/3fvWWaF
+* LD Systems Maui 5 Go https://amzn.to/2CrKERD
 
-Beginner Speakers 
-Video https://youtu.be/1pLiTkG8nYc
--JBL Eon 615 https://amzn.to/36WRPM5
-- QSC CP12 https://amzn.to/2Tu3VJ0
-- Mackie Thump 15 https://amzn.to/30nUM69
-- Avante A15 https://amzn.to/2QY9627
-- EV ZLX 15bt https://amzn.to/3aes8sq
+Column Arrays:
 
-Beginner Subs Video https://youtu.be/wohIvfcgwAw
-Top Powered Speaker Video https://youtu.be/BUhxUIntPkk
+* Video https://youtu.be/fc2_bls2R_g
+* EV Evolve 50 https://amzn.to/2CkUPYm
+* EV Evolve 30m https://amzn.to/2AOvZQj
+ 
+Beginner Speakers: 
 
-Intermediate Speakers
--EV EKX15p http://amzn.to/2uzjgLd
--EV EKX12p http://amzn.to/2eP4Sck
--JBL PRX815 http://amzn.to/2tLFN8X
--JBL PRX812 http://amzn.to/2uE0LUk
--RCF Art 712 https://amzn.to/2AOcQ0J
--RCF Art 715 https://amzn.to/3einWc7
--QSC KW 122 http://amzn.to/2ePkA7b
--QSC KW 152 http://amzn.to/2ePkSLj
--QSC K12.2 http://amzn.to/2eORa9k
+* Video https://youtu.be/1pLiTkG8nYc
+* JBL Eon 615 https://amzn.to/36WRPM5
+* QSC CP12 https://amzn.to/2Tu3VJ0
+* Mackie Thump 15 https://amzn.to/30nUM69
+* Avante A15 https://amzn.to/2QY9627
+* EV ZLX 15bt https://amzn.to/3aes8sq
 
-Intermediate Subwoofers
--EV EKX15 Sub http://amzn.to/2uZF8An
--EV EKX 18 Sub http://amzn.to/2vL4gsg
--JBL PRX 815 XLF http://amzn.to/2ePkaO9
--JBL PRX 818 XLF http://amzn.to/2h4QPju
--QSC KW 181 http://amzn.to/2uE1iFO
--RCF 708 https://amzn.to/3gOj4gt
--RCF 705 https://amzn.to/3fkWyeH
+Beginner Subs 
+* Video https://youtu.be/wohIvfcgwAw
+* Top Powered Speaker Video https://youtu.be/BUhxUIntPkk
+ 
+Intermediate Speakers:
 
-Intermediate 3-way tops
--JBL PRX 835 http://amzn.to/2vKTnH6
--QSC KW 153 http://amzn.to/2h4RAsQ
+* EV EKX15p http://amzn.to/2uzjgLd
+* EV EKX12p http://amzn.to/2eP4Sck
+* JBL PRX815 http://amzn.to/2tLFN8X
+* JBL PRX812 http://amzn.to/2uE0LUk
+* RCF Art 712 https://amzn.to/2AOcQ0J
+* RCF Art 715 https://amzn.to/3einWc7
+* QSC KW 122 http://amzn.to/2ePkA7b
+* QSC KW 152 http://amzn.to/2ePkSLj
+* QSC K12.2 http://amzn.to/2eORa9k
+ 
+Intermediate Subwoofers:
 
-PRO Level Speakers
--EV ETX 15p http://amzn.to/2uz9Krv
--EV ETX 12p http://amzn.to/2uySdj6
--JBL SRX 815p http://amzn.to/2uE2jxN
--JBL SRX 812p http://amzn.to/2uzeLR4
--RCF Art 745 MK4 https://amzn.to/2BYSmD5
--RCF HDM45 https://amzn.to/3iQfcgF
+* EV EKX15 Sub http://amzn.to/2uZF8An
+* EV EKX 18 Sub http://amzn.to/2vL4gsg
+* JBL PRX 815 XLF http://amzn.to/2ePkaO9
+* JBL PRX 818 XLF http://amzn.to/2h4QPju
+* QSC KW 181 http://amzn.to/2uE1iFO
+* RCF 708 https://amzn.to/3gOj4gt
+* RCF 705 https://amzn.to/3fkWyeH
 
-PRO Level Subwoofers
--ETX 15 Sub http://amzn.to/2h4AKKV
--ETX 18 Sub http://amzn.to/2uEgu60
--JBL SRX 818sp http://amzn.to/2uyZOy5
--JBL VRX918sp https://amzn.to/2ZZGlW4
--JBL SRX 828sp http://amzn.to/2h47tzQ
--RCF 8003 https://amzn.to/38LpEkZ
+Intermediate 3-way tops:
 
-Touring level Tops / arrays
--JBL VRX932lap https://amzn.to/2BPL44I
--RCF HDL6A https://amzn.to/3iReWy9
--Martin Audio CDD live 15 https://martin-audio.com/products/lou...
+* JBL PRX 835 http://amzn.to/2vKTnH6
+* QSC KW 153 http://amzn.to/2h4RAsQ
 
-Touring level Subwoofers
--RCF 8004 https://amzn.to/2Ziddu7
--RCF 8006 https://amzn.to/2W80TKQ
--Martin Audio CSX Live218 https://martin-audio.com/products/arc...
+ 
+PRO Level Speakers:
+
+* EV ETX 15p http://amzn.to/2uz9Krv
+* EV ETX 12p http://amzn.to/2uySdj6
+* JBL SRX 815p http://amzn.to/2uE2jxN
+* JBL SRX 812p http://amzn.to/2uzeLR4
+* RCF Art 745 MK4 https://amzn.to/2BYSmD5
+* RCF HDM45 https://amzn.to/3iQfcgF
+
+ 
+PRO Level Subwoofers:
+
+* ETX 15 Sub http://amzn.to/2h4AKKV
+* ETX 18 Sub http://amzn.to/2uEgu60
+* JBL SRX 818sp http://amzn.to/2uyZOy5
+* JBL VRX918sp https://amzn.to/2ZZGlW4
+* JBL SRX 828sp http://amzn.to/2h47tzQ
+* RCF 8003 https://amzn.to/38LpEkZ
+ 
+* Touring level Tops / arrays:
+
+* JBL VRX932lap https://amzn.to/2BPL44I
+* RCF HDL6A https://amzn.to/3iReWy9
+* Martin Audio CDD live 15 https://martin-audio.com/products/lou...
+ 
+* Touring level Subwoofers:
+
+* RCF 8004 https://amzn.to/2Ziddu7
+* RCF 8006 https://amzn.to/2W80TKQ
+* Martin Audio CSX Live218 https://martin-audio.com/products/arc...
 
 
 

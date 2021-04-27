@@ -44,6 +44,7 @@ if not enough, then please read below
 If the quick fixes above were not enough then there is **no easy solution**. 
 
 The way forward is complex:
+
 * **Measure:** Measure the problems using [LatencyMon], [DPCLatency], [IDLT] and [SMI_reporter] to establish an objective baseline
 * **Performance Guides:** Study performance guides that are specific to audio
 * **Update log:** Study update logs to understand what changed when. This list can be quite big. 
@@ -58,28 +59,30 @@ Again: measurement is crucial to control every change to the system.
 If you have an HP laptop and have crackle when move the jogs you have to disable Intel turbo boost.
 
 There are 3 ways to disable turbo boost:
-a) Specific program (best way): Use the "Quick CPU" software: https://www.coderbag.com/product/quickcpu
+
+a) Specific program (best way): Use the "Quick CPU" software: <https://www.coderbag.com/product/quickcpu>
 b) Set windows power to 99% CPU: [guide](https://forums.pioneerdj.com/hc/en-us/articles/360015455971-To-those-who-have-crackling-noise-when-using-DDJ-1000-with-rekordbox-dj)
-c) BIOS config: https://support.serato.com/hc/en-us/articles/203057850-PC-Optimization-Guide-for-Windows
+c) BIOS config: <https://support.serato.com/hc/en-us/articles/203057850-PC-Optimization-Guide-for-Windows>
 
 Macs have turbo boost, but are not affected. Anyway, the way to disable is [here](https://www.redmondpie.com/how-to-enable-or-disable-turbo-boost-on-mac/)
 
-Official recommendation from Pioneer: https://forums.pioneerdj.com/hc/en-us/articles/360015455971-To-those-who-have-crackling-noise-when-using-DDJ-1000-with-rekordbox-dj
+Official recommendation from Pioneer: <https://forums.pioneerdj.com/hc/en-us/articles/360015455971-To-those-who-have-crackling-noise-when-using-DDJ-1000-with-rekordbox-dj>
 
 
 ## List of every possible performance audio optimization
 
 Things to try while measuring:
-- **USB:** gauge USB cables; use usb 2.0 port;  
-- **Windows Power options:** performance profile; change "turn X off after"; "turn off device"; wireless adaptor power saving; Fast Startup;
-- **Windows Configs:** optimize to background processes; paging file; Spectre patches; Visual Effects; SuperFetch;
-- **Battery:** windows best performance; plugged-in vs battery; Intel DPTF (power throttling); ACPI battery control;  
-- **Device Manager:** "USB root hub" power management; 
-- **Services:** TBD
-- **Processes:** process affinity; process lasso; DEP
-- **CPU:** Turbo boost; SpeedStep; SpeedShift; Core parking; Frequency scaling; UnderVolting; C states;
-- **Sounds:** Realtk HD audio; Wavs Maxxaudio; disable onboard audio; No sounds profile; audio 3d enhancements;  
-- **Wireless:** Wifi / Bluetooth; 
+
+* **USB:** gauge USB cables; use usb 2.0 port;  
+* **Windows Power options:** performance profile; change "turn X off after"; "turn off device"; wireless adaptor power saving; Fast Startup;
+* **Windows Configs:** optimize to background processes; paging file; Spectre patches; Visual Effects; SuperFetch;
+* **Battery:** windows best performance; plugged-in vs battery; Intel DPTF (power throttling); ACPI battery control;  
+* **Device Manager:** "USB root hub" power management; 
+* **Services:** TBD
+* **Processes:** process affinity; process lasso; DEP
+* **CPU:** Turbo boost; SpeedStep; SpeedShift; Core parking; Frequency scaling; UnderVolting; C states;
+* **Sounds:** Realtk HD audio; Wavs Maxxaudio; disable onboard audio; No sounds profile; audio 3d enhancements;  
+* **Wireless:** Wifi / Bluetooth; 
  
 [maxxaudio-less driver](http://forum.notebookreview.com/threads/kevin-shroffs-modded-realtek-audio-drivers-for-dell-xps-15-9560-and-more.807060/)
  
@@ -103,6 +106,7 @@ Another list: [here](https://answers.microsoft.com/en-us/windows/forum/all/high-
    
    
 Very old guides:
+
 * **djtechtools:** 
   * https://djtechtools.com/2011/08/14/optimizing-windows-for-djing-part-i-power-script/
 * **Numark:** 
@@ -157,6 +161,7 @@ TODO: document the windows performance analyser
 
 USB cables may be too thin and not deliver enough power to your controller.\
 Confirm your cable does NOT have these labels:
+
 * 28/2C
 * 28AWGX2C
 * AWG 28X2C
@@ -167,9 +172,8 @@ Even in the case your device is externally powered, a bad cable may still have d
 
 In this case use this info as an heuristic: a cheap cable that is poor for delivering power is also probably cheap on the data side.
 
+More info:
 
-
-More info: 
 * https://support.native-instruments.com/hc/en-us/articles/210293725-Choosing-the-Correct-USB-Cable-for-Your-NI-Hardware-Device
 * https://goughlui.com/2014/10/01/usb-cable-resistance-why-your-phonetablet-might-be-charging-slow/
 
@@ -181,9 +185,11 @@ More info:
 log file: traktor_root\log\traktor.log
     
 Windows:
+
 *  TBD
 
 MacOS:
+
 *  close traktor
 *  go to User:Library: Preferences:com.native-instruments.de:Traktor.plist
 *  add key Log.Verbosity with value 5
@@ -219,6 +225,7 @@ My advice if you are buying a Windows laptop is the following:
 ## reseting your low-level settings and controller of your MAC 
 
 The system management controller (SMC) handles the following tasks of your mac:
+
 * Responding to presses of the power button
 * Responding to the display lid opening and closing on Mac notebooks
 * Battery management
@@ -231,6 +238,7 @@ The system management controller (SMC) handles the following tasks of your mac:
 * Selecting an external (instead of internal) video source for some iMac displays
 
 if you have issues related to power, batteries, fans, etc, resting this can fix it.
+
 * SMC reset: https://support.apple.com/en-gb/HT201295
 * guide2: https://www.howtogeek.com/312086/how-and-when-to-reset-the-smc-on-your-mac/
 
@@ -239,6 +247,7 @@ memory that your Mac uses to store settings like sound volume, display resolutio
 startup-disk selection, time zone, and recent kernel panic information. 
 
 If you need to reset these settings, follow this guide:
+
 * PRAM reset: <https://support.apple.com/en-us/HT204063>
 
 ## Windows - 100% interrupt usage
@@ -259,6 +268,7 @@ See also the registry tweakers apps.
 
 
 Settings menu:
+
 * System: Display, notifications, apps, and power options
 * Devices: Bluetooth, printers, and mouse/keyboard
 * Network & Internet: Manage Wi-Fi, Airplane Mode, and VPN
@@ -270,7 +280,8 @@ Settings menu:
 * Update & Security: Backup, restore, or update Windows
 
 
-Control panel
+Control panel:
+
 * System and Security: Manage firewall, encryption, storage, and more
 * User Accounts: Change system access permissions for users
 * Network and Internet: Modify local network, internet, or sharing options
@@ -281,6 +292,7 @@ Control panel
 * Ease of Access: Adjust visibility, audio options, and tooltips
 
 Splitting these configs in two different places is confusing, however:
+
 * <https://www.howtogeek.com/293858/windows-10s-settings-are-a-mess-and-microsoft-doesnt-seem-to-care/>
 * <https://www.techrepublic.com/article/control-panel-and-settings-uis-why-are-both-still-options-in-windows-10/>
 

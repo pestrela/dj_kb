@@ -26,14 +26,13 @@ markdown_extensions:
     #    repo: mkdocs
         
     
-#  cat index.md  | grep -- "^# "  | awk -F, '{print "-",$1,":",$1".md" }'    
-#for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
+# cat index.md  | grep -- "^# "  | awk -F, '{print "-",$1,":",$1".md" }'    
+# for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
 nav:
   - About :
     - About this KB : about.md
     - DJ Census : dj_census.md
     - DJ Hall of Fame : dj_hall_of_fame.md
-    
     
   - Traktor:
     - OS-Folders organization : os_folders.md
@@ -59,6 +58,7 @@ nav:
     - DJ collection converters : dj_collection_converters.md
     - Rekordbox v6 topics : rekordbox_v6.md
     - MIXXX topics : mixxx.md
+    
   - Tools & Optimization:
     - Free DJ Software Tools : free_dj_tools.md
     - DJ Software optimization : dj_optimization.md

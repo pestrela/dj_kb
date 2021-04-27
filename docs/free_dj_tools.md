@@ -264,10 +264,13 @@ Compare this to the GPL, where you need to make your own code that extends it GP
   
 ## Github Markdown tools
 
-* Better Cheatsheet: <https://gist.github.com/jonschlinkert/5854601>
+* Markdown specification: <https://www.markdownguide.org/basic-syntax/>
+* MD Cheatsheet: <https://gist.github.com/jonschlinkert/5854601>
 * Tables Generator: <https://www.tablesgenerator.com/markdown_tables>
 
 This is a small program to check relative links inside the same MD document: [md_check_relative_links.py](https://github.com/pestrela/music/tree/master/wsl_tools).
+
+
 
   
 ## What shortcuts you added for Youtube, Google and Discogs?

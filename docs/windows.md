@@ -131,3 +131,37 @@ Most important tricks are:
   
 ![qqtabbar_wsl_scripts](pics/qqtabbar_wsl_scripts_.jpg?raw=true)
 
+
+## Contributed QQTAbBar WSL scripts
+
+[Here](https://github.com/pestrela/music/tree/master/wsl_tools) I have several WSL scripts, plus their QQTabbar shortcuts. 
+
+You just select files and folders, click an explorer icon, and a shell script runs on them.
+
+* group folder
+  * asks for a folder name, and moves all files into that subfolder
+* Create txt
+  * for every file, creates a "sidecar" text file with the same filename
+* ffmpeg
+  * ffmpeg wrapper, converts audio files to mp3 320kbps
+* WSL
+  * opens a wsl shell on this folder
+* Spek
+  * opens spek for each file
+  
+## How to organize files in folders easily
+
+My tagging method revolves about [folders](../os_folders/#how-large-is-your-collection-how-broad-is-your-collection).
+
+I have a single icon in explorer that does this:
+ 
+* asks for a folder name
+* creates that sub-folder in the current location
+* moves all selected files there
+  
+Alternative are tools to change the filenames themselves:
+
+* blog post: https://karl-voit.at/managing-digital-photographs/
+* demo and scripts: https://karl-voit.at/demo-appendfilename/
+
+Lastly I recommend this reddit group about [data curation](https://www.reddit.com/r/datacurator/comments/kpfxw7/file_naming_conventions_for_a_startup/ghxrq87/)
