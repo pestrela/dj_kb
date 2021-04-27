@@ -151,17 +151,19 @@ You just select files and folders, click an explorer icon, and a shell script ru
   
 ## How to organize files in folders easily
 
-My tagging method revolves about [folders](../os_folders/#how-large-is-your-collection-how-broad-is-your-collection).
+My tagging method revolves about **folders**:
+<https://pestrela.github.io/dj_kb/os_folders/>
 
-I have a single icon in explorer that does this:
+I have a single icon in explorer that creates a subfolder, and moves the selected files into it
+[more info](#how-to-organize-files-in-folders-easily)
+
+Which I have as a icon launcher in QQTabBar (explorer extension with tabs)
+[qqtabbar](#how-to-use-qqtabbar-with-multiple-tabs-folder-bookmarks-and-program-launchers)
  
-* asks for a folder name
-* creates that sub-folder in the current location
-* moves all selected files there
-  
-Alternative are tools to change the filenames themselves:
+ 
+An alternative are tools to change the **filenames** themselves:
 
-* blog post: https://karl-voit.at/managing-digital-photographs/
-* demo and scripts: https://karl-voit.at/demo-appendfilename/
+* blog post: <https://karl-voit.at/managing-digital-photographs/>
+* demo and scripts: <https://karl-voit.at/demo-appendfilename/>
 
-Lastly I recommend this reddit group about [data curation](https://www.reddit.com/r/datacurator/comments/kpfxw7/file_naming_conventions_for_a_startup/ghxrq87/)
+Lastly I recommend this reddit group about [data curation](https://www.reddit.com/r/datacurator/comments/ma8gvx/file_naming_folder_structure_in_your_profession/)
