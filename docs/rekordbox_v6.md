@@ -10,6 +10,9 @@
 
 ## Issues of the V6 Rekordbox migration - Major
 
+update 2021-05: v6.3 added the XML export feature again. Well done.
+<https://rekordbox.com/en/support/releasenote/>
+
 1) **Vendor Lock-in:**
 * V6 encrypts the database and removed the XML export option.
   * Discussion: https://www.reddit.com/r/DJs/comments/g11s3l

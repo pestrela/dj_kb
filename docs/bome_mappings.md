@@ -35,6 +35,7 @@ Some of these features are possible in QML
 , which i used on the S4Mk3/S8/XDJ-1000mk2, but [is not MIDI](https://www.native-instruments.com/forum/threads/qml-to-midi-out.378533/).
 
 
+
 ## Why I moved to BOME midi mapping: Traktor Limits
 
 Also, I've also hit the limits of Traktor mappings multiple times. Below are the features that are possible in Traktor but only by significantly increasing the mapping complexity.
@@ -47,7 +48,8 @@ Also, I've also hit the limits of Traktor mappings multiple times. Below are the
 
 ## Some Limitations of BOME mappings
 
-[BOME](https://www.bome.com/products/miditranslator) is essential to [build my new mappings](#Why-I-moved-to-BOME-midi-mapping-Impossible-features). But it also have some improvement points.
+[BOME](https://www.bome.com/products/miditranslator) is essential to [build my new mappings](#Why-I-moved-to-BOME-midi-mapping-Impossible-features). 
+But it also have some improvement points.
 
 In importance order:
 

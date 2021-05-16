@@ -3,6 +3,7 @@
 # Traktor Elastic Beatgrids  
 
 This section covers Elastic beatgrids in Traktor
+
 * [Which tracks have multiple BPMs](#Which-tracks-have-multiple-BPMs)
 * [What are Elastic Beatgrids](#What-are-Elastic-Beatgrids)
 * [Softwares with Elastic Beatgrids](#Which-softwares-support-Elastic-Beatgrids)
