@@ -346,6 +346,19 @@ Back in the days, the price segmentation was clearly made because of hardware li
 Today, the hardware has gained massive leaps in specifications, but then they come lobotomized by default, and sold as a software upgrade.
 
 
+## Software Quality
+
+on the topic of software quality, please see this blog post:
+
+<https://pestrela.github.io/dj_kb/free_dj_tools/#21st-century-software-issues>
+
+Topics:
+
+* Required Updates:
+* Poor Documentation:
+* Subscriptions / Ownership:
+
+
 
 ## Knowledge base organization
 

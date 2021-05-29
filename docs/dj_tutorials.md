@@ -283,6 +283,8 @@ If you are dedicated enough, experimenting and trying these materials for yourse
 
 ## List of Introductory DJ Tutorials / Exercises
 
+DAVE beatgrid tutorial: <https://www.youtube.com/watch?v=De3bEzVt1rk>
+
 TBD.  
 For now, see: <https://www.mixxx.org/wiki/doku.php/beginner_dj_links>
  
@@ -381,9 +383,6 @@ Course #2: [link](https://store.djtechtools.com/products/dj-techtools-live-maste
 * Session 4 - MIDI Mapping for the win - Adding a layer of creativity to your sets
 * Session 5 - Going beyond the basic mixes. 6 out of the box ways to pick and blend music that set my style apart from others. I will give you nearly all my favorite mix tricks lately in 1 hour!
 * Session 6 - Creating Edits that really work and will make your DJ sets unique!
-
-
-
 
 
 

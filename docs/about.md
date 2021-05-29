@@ -99,3 +99,63 @@ The picture below summarizes the main ideas and dependencies explained in these 
 ![traktor_mindmap](pics/traktor_mindmap.png?raw=true)
 
    
+   
+## ProfBX answer
+
+I've participated in a reddit thread with ProfBX from PioneerDJ. 
+[This thread](https://www.reddit.com/r/DJs/comments/nfcl9p/pioneer_dj_cdj3000_now_supports_djay_pro_ai/gzwdywv/?utm_source=reddit&utm_medium=web2x&context=3)
+covers a lot of ground on my contributions, so its a good summary of parts of this knowledge base
+
+   
+  
+bome: I hit the limits of BOME itself a couple of times. This is how I made some workarounds:  
+<https://pestrela.github.io/dj_kb/bome_mappings/#some-limitations-of-bome-mappings>  
+
+regarding exclusivity: Its a pity that Serato (the company) allowed MIDI mode on the ddj-1000,  
+but disallowed MIDI screens like the original DDJ-1000  
+<https://serato.com/forum/discussion/1736390>
+
+NI having a copy of each controller:  
+I see your point. I guess this was the case for the DDJ-SZ and DDJ-SX2 that had official pioneer mappings.  
+Would the solution, to focus on ONLY the best selling controllers and send NI a demo unit?  
+
+Your traktor mapping on the DJM-S11 / Djay CDJ-3000:  
+understood of course. I was asking for the proper company decision.  
+This would be driven by the business decisions to sell more devices. At the time this was certainty the case for the SX2.  
+
+Industry standard quality:   
+fully Understood. Again, this will only work when Pioneer sees the business case. I believe it exists, but of course I do not see the numbers.
+
+Faster MIDI messages:  
+Please see this short video. I've found that I would create massive slowdowns in macOS catalina by sending too many .back to back messages to the device.  
+Windows is not affected. Bootcamp in mac is not affected.  
+--
+Solution was only to slowdown messages with bome timers.  
+As you can imagine this made the bome code a lot more complex.  
+<https://youtu.be/Us0gS__qR7c?t=93>  
+
+
+Platter message rate:  
+I actually measured this in bome - see a graph in slide 83 of this pdf. This enabled to improve the latency a bit by combining messages and making it predictive, but it doesn't reach HID feeling of course.   
+<https://github.com/pestrela/dj_maps/blob/main/ddj_1000/1%20-%20BOME%20version/2%20-%20Documentation/Installation%20Guide%20-%20BOME%20mappings.pdf>  
+
+BOME programming vs GUI:  
+fully agreed. I've made a lot of on the CMDR TSI editor, but I rarely use it these days.   
+Instead my TSI is basically remote control, and all logic was moved to BOME which is far easier to program.  
+<https://cmdr-editor.github.io/cmdr/>  
+
+this was also the solution to th extremely disturbing slowness of the preferences window, that happens when you create more pages to have more than 8 variables  
+<https://pestrela.github.io/dj_kb/traktor_slow_prefs/>  
+
+
+Regarding your help:  
+I have found several MIDI issues over the years on the DDJ implementation.  
+
+The biggest one is that the DDJ-800 has no MIDI jog screens, even tough they are described in the documentation.  
+<https://pestrela.github.io/dj_kb/free_mappings/#missing-jog-screens-on-ddj-800-and-ddj-1000srt>  
+
+This is a list of smaller tickets / bugs. Only one was successfully fixed.  
+<https://pestrela.github.io/dj_kb/free_mappings/#list-of-ddj-1000-firmware-bugs-open-tickets>  
+
+ 
+ 

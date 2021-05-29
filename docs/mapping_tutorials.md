@@ -18,6 +18,8 @@ The second part of this section is are self-contained demos of **Advanced tricks
     * **Traktor basic modifiers:** <https://djtechtools.com/2014/05/11/midi-mapping-101-the-traktor-modifier-re-explained/>
     * **Load and Sync**: <https://ask.audio/articles/how-to-create-two-advanced-mappings-in-traktor-pro>
     * **Importing midi maps**: <https://djtechtools.com/2015/06/14/troubleshooting-midi-maps-in-traktor/>
+    * **4 Mappings For Mobile DJs** <https://djtechtools.com/2018/07/02/4-practical-traktor-midi-fx-mappings-for-mobile-djs/>
+    
 * **Intermediate:**
     * **Traktor SuperCombos:** <https://blog.native-instruments.com/how-to-map-instant-effects-in-traktor/>
     * **Traktor Step sequencer:** <https://djtechtools.com/2018/01/29/traktors-step-sequencer-map-midi-controller/>

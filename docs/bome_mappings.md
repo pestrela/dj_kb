@@ -84,15 +84,55 @@ In my view the mappings are a unique success story of Traktor. If improved, they
 Sadly, Rekordbox midi mapping is the worst of the industry.
 Below is a comparison to the other softwares.
 
-|| Capbilities || Software || Features ||
-| | worst | Rekordbox | simple midi mapping. 1 input = 1 action |
+|| Capabilities || Software || Features ||
+| worst | Rekordbox | simple midi mapping. 1 input = 1 action |
 | | Serato | Adds multiple actions for a single input. Has an easy gui |
 | | Traktor | Adds 8x modifiers and 2x conditionals |
 | | VirtualDJ | Adds scripting language without any limits. Has some timer support |
 | | BOME | Adds full timers, raw midi messages, and GOTOs |
 | best | MIXXX | javascript that has arrays, records, lists, etc |
 
+## QML to MIDI out
 
+QML to MIDI is a project I want to implement.  
+QML has access to detailed information like exact track position, etc.
+<https://www.native-instruments.com/forum/threads/qml-to-midi-out.378533/>
+
+Because I'm doing a million tricks to get 14 bit OUT messages:  
+<https://forum.bome.com/t/documentating-my-traktor-to-bome-mapping-experiences/1765/4>
+
+The S5 and other advanced controllers expose their wiring to traktor in QML:
+https://djtechtools.com/2016/09/23/hack-kontrol-s8s5-screens-advanced-layouts/
+
+Currently we have QML to an HTTP server:  
+<https://github.com/ErikMinekus/traktor-api-client>
+
+The is a midi plugin for node.js. Next step is then adding that to the mix:  
+<https://jazz-soft.net/doc/JZZ/>
+
+Then BOME can receive this in a indendent device, and do its magic.
+
+
+## QML changes to NI decks with screens (S5/S8/D2)
+
+The are QML Mods that change the controller screens and gives more features:
+
+* Joe Easton S4 Hack:
+ * Official Thread: <https://www.native-instruments.com/forum/threads/348471/>
+ * 2019 Review: <https://djworx.com/squeeze-more-out-of-your-kontrol-s4-mk3-screens-with-this-one-easy-hack/>
+ * 20 Review: <https://djworx.com/traktor-s4-mk3-screen-hack-hits-version-2-0/>
+* Aleix Jiménez Supreme Edition :
+  * Official thread: <https://www.native-instruments.com/forum/threads/348539>
+* ErikMinekus Kontrol screens:
+  * Github: <https://github.com/ErikMinekus/traktor-kontrol-screens>
+  * Review: <https://djtechtools.com/2016/09/23/hack-kontrol-s8s5-screens-advanced-layouts/>  
+* Kokernutz Kontrol screens:
+  * Github: <https://github.com/kokernutz/traktor-kontrol-screens>
+  * Review: <https://djtechtools.com/2016/09/23/hack-kontrol-s8s5-screens-advanced-layouts/>
+  
+To get started with a trivial example, start by changing the waveform colors: <https://codepen.io/niqv/details/VQpOgw>
+This is a gentle tutorial on how to change two buttons in QML: <https://kfigiela.github.io/2017/01/16/traktor-kontrol-s5-midi-mapping/> 
+This is slightly deeper: https://gist.github.com/kfigiela/9efcb64f8fa80f9aa7251bc61ca54cdc
 
 
 
