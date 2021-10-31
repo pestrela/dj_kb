@@ -25,22 +25,22 @@ Below is a summary; see [here](https://github.com/pestrela/music/blob/master/tra
 See also the CMDR editor [changes](#What-features-did-you-add-to-the-CMDR-TSI-editor).
 
 * **Traktor_clone_cues**
-  * Clones cues between physically duplicated files. 
-  * Is also able to merge traktor NML files.
+    * Clones cues between physically duplicated files. 
+    * Is also able to merge traktor NML files.
 * **rekordbox_add_beatmarkers**
-  * adds a beatmarker every 4 beats. Part of the [elastic beatgrid emulation](#How-to-emulate-elastic-beatgrids-in-Traktor)
+    * adds a beatmarker every 4 beats. Part of the [elastic beatgrid emulation](#How-to-emulate-elastic-beatgrids-in-Traktor)
 * **CUE_tools**
-  * Tools to generate CUE files and timestamped tracklists
-  * Tools to search a whole set in youtube tabs and to scrape lyrics
-  * My mp3tag actions scripts
-  * Adaptor scripts to run DJCU and Rekordbuddy in Windows
+    * Tools to generate CUE files and timestamped tracklists
+    * Tools to search a whole set in youtube tabs and to scrape lyrics
+    * My mp3tag actions scripts
+    * Adaptor scripts to run DJCU and Rekordbuddy in Windows
 * **26ms offsets**
-  * Research about the 26ms mp3 cue shifts in DJ conversion apps. [More info](https://github.com/digital-dj-tools/dj-data-converter/issues/3)
+    * Research about the 26ms mp3 cue shifts in DJ conversion apps. [More info](https://github.com/digital-dj-tools/dj-data-converter/issues/3)
 * **BOME tools:**
-  * Easy wrapper around the [BOME analyser that documents 
+    * Easy wrapper around the [BOME analyser that documents 
   variables](https://www.bome.com/support/kb/cross-reference-list-of-all-variables-in-a-mt-pro-project), and a new script to find unused variables: 
   [download](https://github.com/pestrela/music/blob/master/traktor/tools_traktor/bome_analyse_project.sh)
-  * Deck duplicator with [emulated arrays](https://www.bome.com/support/kb/array-emulation-using-4-sequential-variables-and-automatic-generation-of-rules): 
+    * Deck duplicator with [emulated arrays](https://www.bome.com/support/kb/array-emulation-using-4-sequential-variables-and-automatic-generation-of-rules): 
   [download]:(https://github.com/pestrela/music/blob/master/traktor/tools_traktor/bome_duplicate_deck.py) 
  
 ## What features did you add to the CMDR TSI editor?
@@ -76,6 +76,7 @@ This will run in the "azure" microsoft cloud, and requires giving your credit ca
 (they say over and over that no automatic billing will ever happen after the trial period without you changing your )
 
 installation:
+
 * link1: https://microsoft.github.io/AzureTipsAndTricks/blog/tip246.html
 * link2: https://www.techrepublic.com/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/
 
@@ -83,6 +84,7 @@ Then connect to your cloud machine using RDP for mac:
 https://www.techrepublic.com/article/pro-tip-remote-desktop-on-mac-what-you-need-to-know/
 
 Then:
+
     * Install CMDR as explained here: [CMDR installation instructions](https://github.com/cmdr-editor/cmdr#download-and-installation)
     * Copy your TSI into the virtual machine (simplest is to use eg google drive on the browser)
  
@@ -98,6 +100,7 @@ Step by step instructions are on:
     * Step 4: Get your OS up and running
 
 Then:
+
     * Install CMDR as explained here: [CMDR installation instructions](https://github.com/cmdr-editor/cmdr#download-and-installation)
     * Copy your TSI into the virtual machine (simplest is to use eg google drive on the browser)
 
@@ -106,7 +109,7 @@ Then:
   
 ## How to run macOS on windows and linux
 
-I've sucessfully ran MacOS in a windows machine usig virtualBox:
+I've successfully ran MacOS in a windows machine usig virtualBox:
 
 * <https://www.soupbowl.io/2020/04/macos-in-virtualbox/>
 
@@ -390,7 +393,7 @@ Candidates:
 * [readthedocs template](https://www.mkdocs.org/user-guide/styling-your-docs/#readthedocs) for jekyll 
 * [mkdocs](https://www.mkdocs.org/user-guide/styling-your-docs/#mkdocs), [runthedocs](https://rundocs.io/installing/gem-based.html), [justthedocs](https://pmarsceill.github.io/just-the-docs/docs/ui-components/buttons/)
 * github wiki
-* guthub pages (default template)
+* github pages (default template)
 * minimal mistakes jekyll template
 * mediawiki
 
