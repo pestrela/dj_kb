@@ -130,3 +130,24 @@ MacOS:
     
 Second, there are freeware programs that are better, by only inverting the brightness and keepng the hues as they are 
 (ie, green, yellow, red colors are unchanged). See [NegativeScreen for Windows](https://zerowidthjoiner.net/negativescreen)
+
+## How to map the color FX (CFX) parameter knob
+
+to map the color FX parameter in the DDJ-1000 in Rekordbox:
+
+a) using the mouse: see 12:09 of this video  
+<https://youtu.be/PyHq4kSupHw>
+
+b) using midi mapping for Mic EQ Low:  
+1. Go to the MIDI screen and export your current mapping
+2. Open this mapping in a text editor
+3. Add new a line at the end of the file:
+  CFXSubParameter,CFXSubParameter,KnobSliderHiRes,B60F,,,,,,,,,,Fast;,CFX sub parameter  
+4. Save your new mapping and import it back in to the MIDI screen
+
+If you want to use the SAMPLE VOLR button use this instead: 
+CFXSubParameter,CFXSubParameter,KnobSliderHiRes,B603,,,,,,,,,,Fast;,CFX sub parameter
+
+NOTE: This control still won't appear in the MIDI list screen but it will work  
+source: Paul Sayer
+

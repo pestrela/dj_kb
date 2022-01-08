@@ -200,3 +200,11 @@ See also the interview with the [lead Traktor Programmer](https://github.com/pes
 
 TBD: add original reviews of every major traktor version to show the evolution
 
+
+## List of traktor resources and software
+
+See the this "awesome" list in github:
+<https://github.com/mktg/AwesomeTraktor>
+
+
+
