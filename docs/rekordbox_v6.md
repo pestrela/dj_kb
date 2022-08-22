@@ -14,6 +14,7 @@ update 2021-05: v6.3 added the XML export feature again. Well done.
 <https://rekordbox.com/en/support/releasenote/>
 
 1) **Vendor Lock-in:**
+
 * V6 encrypts the database and removed the XML export option.
   * Discussion: https://www.reddit.com/r/DJs/comments/g11s3l
   * Workaround: https://www.reddit.com/r/DJs/comments/g2c9l9
@@ -24,6 +25,7 @@ update 2021-05: v6.3 added the XML export feature again. Well done.
   * source: https://www.gtlaw-amsterdamlawblog.com/2018/11/another-privacy-regulation-but-this-time-on-non-personal-data/
 
 2) **Perpetual bought licenses** do not transfer to subscription model:
+
 * I've bought a rekordbox performance (149 USD), rekordbox video (99USD)and RMX pack (9.9USD) to use in my DDJ-1000.\
   * Total cost: 260USD w/o Tax.
   * V5 licenses: https://web.archive.org/web/20200217154645/https://rekordbox.com/en/plan/pluspacks/
@@ -55,6 +57,7 @@ The dead V5 license is quite annoying (there will be no V5 improvements and I do
   * "We would recommend that users who wish to move their Rekordbox collections to other DJ Software avoid updating to Rekordbox 6"
 
 My own comment is the following:
+
 * Pedro Estrela:  https://djworx.com/traktor-s4-mk3-screen-hack-hits-version-2-0/
   * "MIXXX is fully open. After the RB6 database encryption story last week, and all this years of Traktor workarounds, it looks the best way forward."
   
@@ -79,10 +82,12 @@ The other functions I either do not use (streaming, ableton link) or have my own
 ## What is NOT unlocked in the Rekordbox V6 hardware options
 
 With v6 there are combinations of equipement that unlock *some* functionality.
+
 * Plans: https://rekordbox.com/en/plan/
 * Hardware: https://rekordbox.com/en/support/link
 
 Combining both lists, this is what is **NOT unlocked**:
+
 * DVS (except DJM-750Mk2, 450, 250MK2, interface2, DDJ-RZ, XP1, XP2)
 * Video (except RXZ)
 * Sampler sequence saving
@@ -121,10 +126,12 @@ Some softwares provide a really convenient skin for this situation.
 But this feature is already native to the OS: 
 
 Windows 10:
+
 * Press Win + Plus / settings / Invert Colors / Turn on magnifier
 * [guide](https://windowsreport.com/inverted-colors-windows-10/)
 
 MacOS:
+
 * “System Preferences” > “Keyboard” > “Shortcuts” > “Accessibility” > “Invert Colors"
 * [guide](https://devicebar.com/invert-display-colors-on-apple-mac-os-x/2642/)
     

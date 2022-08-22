@@ -9,6 +9,12 @@ I've been able to reduce this from 18 seconds to only 3 seconds.
 * [Naive solution](#Could-we-just-move-all-entries-to-a-single-page)
 * [Swapping configurations](#How-to-swap-Traktor-configurations-without-the-slow-preferences-window)
 
+## Update on version 3.6
+
+UPDATE: Latest 3.6 seems to have fixed this issue.
+
+See at 11 seconds of this video how quickly Stevan Djumic swaps between pages:  
+<https://www.youtube.com/watch?v=-Z1ogyvKWY8>
   
 ## Why MIDI mappings makes the preferences window slow
 
