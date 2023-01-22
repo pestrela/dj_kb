@@ -127,6 +127,20 @@ Future windows WSL2 will be able to run docker images as well. Requirement is wi
   
 ## How I build perfect tracklists using CUE files
 
+Update 2022:
+
+* source of truth: TL.TXT
+  * for the first time, create a file tl.tracklist with a header
+  * call cue_merge_cues BASE tl.tracklist -n -f
+  * hear in foobar
+  * check wrong names, fix in tl
+  * repeat
+* source of truth: CUE FILE
+  * call cue_merge BASE (without TL) 
+  * add ID3 header in winamp
+
+*******
+
 I use a set of tools to generate a CUE file with the timings of my sets.
 Once I have this file, I can generate tracklists with timestamps like in this example: <https://www.mixcloud.com/dj_estrela/mix-17-cd07-trance-jun-2019/>
 
@@ -218,13 +232,6 @@ See also my [windows shortcuts](#What-shortcuts-you-added-for-Youtube-Google-and
 
 Summary:
 
-* **Yapu:** Yet another python libary
-    * this is a python3 library for helper wrappers, classes, etc
-    * <https://github.com/pestrela/yapu>
-* **Yabu:** Yet another bash library
-    * this is a collection of hundreds of bash scripts that wrap common 
-    * also includes a full set of bash libraries of functions
-    * <https://github.com/pestrela/yabu>
 * **cdd_bash:**
     * aliases to transfer the current directory between terminal windows
     * <https://github.com/pestrela/cdd_bash>
