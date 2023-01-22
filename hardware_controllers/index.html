@@ -1,0 +1,1141 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../mapping_tutorials/">
+      
+      
+        <link rel="next" href="../dj_tutorials/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+    
+    
+      
+        <title>Hardware Controllers - DJ Knowledge Base</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.558e4712.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#hardware-controllers" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="DJ Knowledge Base" class="md-header__button md-logo" aria-label="DJ Knowledge Base" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DJ Knowledge Base
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Hardware Controllers
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="DJ Knowledge Base" class="md-nav__button md-logo" aria-label="DJ Knowledge Base" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    DJ Knowledge Base
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_1" type="checkbox" id="__nav_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_1" tabindex="0" aria-expanded="false">
+          About
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="About" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          About
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        About this KB
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_census/" class="md-nav__link">
+        DJ Census
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_hall_of_fame/" class="md-nav__link">
+        DJ Hall of Fame
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="false">
+          Traktor
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Traktor" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Traktor
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../os_folders/" class="md-nav__link">
+        OS-Folders organization
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../traktor/" class="md-nav__link">
+        Traktor Features
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../traktor_elastic_beatgrids/" class="md-nav__link">
+        Traktor Elastic Beatgrids
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../traktor_slow_prefs/" class="md-nav__link">
+        Traktor Slow preferences Window
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sound_quality/" class="md-nav__link">
+        Trakor Sound Quality
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="true">
+          Mappings & Controllers
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Mappings & Controllers" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Mappings & Controllers
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../free_mappings/" class="md-nav__link">
+        Free Mappings
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bome_mappings/" class="md-nav__link">
+        BOME mappings migration
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mapping_tutorials/" class="md-nav__link">
+        Mappings Tutorials
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Hardware Controllers
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Hardware Controllers
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-is-ddj-1000-my-hardware-of-choice" class="md-nav__link">
+    Why is DDJ-1000 my hardware of choice
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ddj-1000-comparison-to-ddj-sz-and-akai-amx" class="md-nav__link">
+    DDJ-1000 comparison to DDJ-SZ and AKAI AMX
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-i-like-big-jogwheels" class="md-nav__link">
+    Why I like BIG jogwheels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#but-can-i-still-scratch-using-midi-how-much-is-the-latency-of-your-maps" class="md-nav__link">
+    But can I still scratch using MIDI? How much is the latency of your maps?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mode-info-on-the-midi-jogwheels-latency" class="md-nav__link">
+    Mode info on the MIDI jogwheels latency
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-fix-ddj-1000-loose-jogs" class="md-nav__link">
+    How to fix DDJ-1000 loose jogs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-replace-the-ddj-1000-filter-knobs-with-silver-knobs" class="md-nav__link">
+    How to replace the DDJ-1000 filter knobs with Silver knobs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#about-dj-skinscom" class="md-nav__link">
+    About Dj-Skins.com
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          DJ Info
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="DJ Info" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          DJ Info
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_tutorials/" class="md-nav__link">
+        DJ Tutorials
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../effects/" class="md-nav__link">
+        Effects
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reviews/" class="md-nav__link">
+        DJ Reviews
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_info_sources/" class="md-nav__link">
+        DJ Information sources
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../music_style/" class="md-nav__link">
+        Music Styles
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="false">
+          Multiple DJ Softwares
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Multiple DJ Softwares" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Multiple DJ Softwares
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_collection_converters/" class="md-nav__link">
+        DJ collection converters
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rekordbox_v6/" class="md-nav__link">
+        Rekordbox v6 topics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mixxx/" class="md-nav__link">
+        MIXXX topics
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" tabindex="0" aria-expanded="false">
+          Tools & Optimization
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Tools & Optimization" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Tools & Optimization
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../free_dj_tools/" class="md-nav__link">
+        Free DJ Software Tools
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_optimization/" class="md-nav__link">
+        DJ Software optimization
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../windows/" class="md-nav__link">
+        Windows usage
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-is-ddj-1000-my-hardware-of-choice" class="md-nav__link">
+    Why is DDJ-1000 my hardware of choice
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ddj-1000-comparison-to-ddj-sz-and-akai-amx" class="md-nav__link">
+    DDJ-1000 comparison to DDJ-SZ and AKAI AMX
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-i-like-big-jogwheels" class="md-nav__link">
+    Why I like BIG jogwheels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#but-can-i-still-scratch-using-midi-how-much-is-the-latency-of-your-maps" class="md-nav__link">
+    But can I still scratch using MIDI? How much is the latency of your maps?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mode-info-on-the-midi-jogwheels-latency" class="md-nav__link">
+    Mode info on the MIDI jogwheels latency
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-fix-ddj-1000-loose-jogs" class="md-nav__link">
+    How to fix DDJ-1000 loose jogs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-replace-the-ddj-1000-filter-knobs-with-silver-knobs" class="md-nav__link">
+    How to replace the DDJ-1000 filter knobs with Silver knobs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#about-dj-skinscom" class="md-nav__link">
+    About Dj-Skins.com
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="hardware-controllers">Hardware Controllers<a class="headerlink" href="#hardware-controllers" title="Permanent link">&para;</a></h1>
+<h2 id="why-is-ddj-1000-my-hardware-of-choice">Why is DDJ-1000 my hardware of choice<a class="headerlink" href="#why-is-ddj-1000-my-hardware-of-choice" title="Permanent link">&para;</a></h2>
+<p>Previously I explained <a href="#why-is-traktor-my-software-of-choice">I why use Traktor</a>. So why do I use it with a controller made for Rekordbox, instead of the S4Mk3??</p>
+<p>Before we discuss this, please note that some years ago DJs could use any Software with any Hardware combination. 
+This was a fully supported (and encouraged!) model by the vendors, which used this model to make real money from real customers. </p>
+<p>Having said this, the DDJ-1000 has major features that I personally value significantly over the S4Mk3:</p>
+<ul>
+<li>
+<p><strong>A) BIG jogs wheels:</strong> This is so important that <a href="#why-i-like-big-jogwheels">it gets a dedicated blog post </a></p>
+</li>
+<li>
+<p><strong>B) More pad modes.</strong> All my most useful functions are a maximum of 2 clicks away - and without using any shifts. 
+  Main Pad modes are a) Hotcue, b) Roll/padFX, c) MacroFX, d) JogFX. 
+  Pressing twice the same pad mode cycles the top 2 sub-pages of that pad mode. This is way the Reloop Elite mixer works. 
+  I’ve got even more stuff on the secondary pad modes, accessible with a shift+mode. </p>
+</li>
+<li>
+<p><strong>C) Two USB ports.</strong> This is crucial for seamless hand-overs between DJs; and for safety of connecting a backup laptop ready at any time.</p>
+</li>
+<li>
+<p><strong>D) JogFX combos on the jogs.</strong> Please see them in my demo videos (eg 6:32 of https://www.youtube.com/watch?v=h9tQZEHr8hk&amp;t=392s ). 
+  This is turnkey in my mapping, i’m not familiar if they have it on the S4mk3 (it was present for sure on the S4MK1 DJTT mappings)</p>
+</li>
+<li>
+<p><strong>E) BeatFx</strong>. This is in the correct place of the mixer (lower right corner = right hand of the DJ), with a FX selector knob to select the effect by name</p>
+</li>
+<li>
+<p><strong>F) Connectivity</strong>. Thr DDJ-1000 has more inputs and outputs, microphones etc. In particular, the mixer has a full FX suite for any external inputs (colorFX + beatFX)</p>
+</li>
+</ul>
+<p>Note: the S4mk3 is a fantastic controller - I have recommended it to several people before. In particular the loop/beatjump encoders implementation is the gold standard for that.\
+The overall integration is better, of course, which is a plus if you prefer plug-and-play vs customization. </p>
+<p>But in the end its really the big jogwheels that is the crucial deal breaker; This was completely abandoned by NI in 2014 with the release of the S8, and was only picked-up in 2018 with the S4MK3 (although, in my opinion, still not the same as the DDJ-1000).</p>
+<h2 id="ddj-1000-comparison-to-ddj-sz-and-akai-amx">DDJ-1000 comparison to DDJ-SZ and AKAI AMX<a class="headerlink" href="#ddj-1000-comparison-to-ddj-sz-and-akai-amx" title="Permanent link">&para;</a></h2>
+<p>Besides <a href="#why-is-ddj-1000-my-hardware-of-choice">my DDJ-1000</a>, I have several other controllers fully <a href="#Free-mappings">mapped to Traktor</a>. </p>
+<p>Main differences are:</p>
+<p><strong>DDJ-1000:</strong></p>
+<ul>
+<li><strong>Jogs:</strong> CDJ big Jogwheels </li>
+<li><strong>Screens:</strong> Jog screens</li>
+<li><strong>Size</strong>: More portable than SZ, but more cramped as well</li>
+<li><strong>BeatFX:</strong> BeatFX in the lower right corner to the mixer</li>
+</ul>
+<p><strong>DDJ-SZ:</strong></p>
+<ul>
+<li><strong>Size:</strong> Very spacious. A joy to use!</li>
+<li><strong>Jogs:</strong> Extra-smooth big Jogwheels</li>
+<li><strong>Filter:</strong> Pioneer soundcolor FXs in hardware, including the Pioneer filter with a lot of Resonance</li>
+</ul>
+<p><strong>AKAI AMX:</strong></p>
+<ul>
+<li><strong>Ultra portable:</strong> The AMX replaces 4x devices: Z1 Mixer + X1 controller + Twister Fighter + Audio2. 
+Its so small I carry it everywhere I go. </li>
+<li><strong>DVS:</strong> The AMX is the cheapest and smallest way to unlock DVS </li>
+<li><strong>Mapping:</strong> My mapping unlocks all TP3 functions</li>
+</ul>
+<p>See also <a href="https://www.reddit.com/r/Beatmatch/comments/c6vquf/help_me_ddj_sz_vs_ddj_1000/">this DDJ-SZ comparison</a>
+See also this general <a href="https://djtechtools.com/2017/07/23/ddj-cdjs-practicing-cdjs-pioneer-dj-controller/">comparison to CDJs</a></p>
+<h2 id="why-i-like-big-jogwheels">Why I like BIG jogwheels<a class="headerlink" href="#why-i-like-big-jogwheels" title="Permanent link">&para;</a></h2>
+<p>Spoiler: its not scratching!</p>
+<p>I use jogs all the time in a controller - full list below. 
+As I have big hands, I love them to be as BIG as possible.</p>
+<p>There are the usages sorted by frequency:</p>
+<ul>
+<li><strong>#1: Tempo</strong>: Adjusting tempo drift for older tracks (because of no elastic beatgrid)</li>
+<li><strong>#2: Cueing</strong>: / fast preview to the exact spot where the track will start</li>
+<li><strong>#3: JogFX chains</strong>: I do effects on the jog - see 6:32 of https://www.youtube.com/watch?v=h9tQZEHr8hk&amp;t=392s</li>
+<li><strong>#4: Beagrids</strong>: by far the quickest way to adjust beatgrids on the fly</li>
+<li><strong>#5: Scratch</strong>: Very occasional live scratching / tricks  (see also <a href="#but-can-i-still-scratch-using-midi-how-much-is-the-latency-of-your-maps">this post</a>)</li>
+</ul>
+<p>What I dont use on jogs:</p>
+<ul>
+<li><strong>Moving jogs</strong>: these are cool, but not a deal-breaker for me</li>
+<li><strong>Haptic feedback</strong>: this is basically a gimmick for me</li>
+</ul>
+<h2 id="but-can-i-still-scratch-using-midi-how-much-is-the-latency-of-your-maps">But can I still scratch using MIDI? How much is the latency of your maps?<a class="headerlink" href="#but-can-i-still-scratch-using-midi-how-much-is-the-latency-of-your-maps" title="Permanent link">&para;</a></h2>
+<p><strong>TL;DR:</strong> YES you can scratch - as long you have a fast computer. Please see at 4:10 of <a href="https://www.youtube.com/watch?v=h9tQZEHr8hk&amp;t=249">this video</a> for a demo.\
+Even better, try it <a href="#can-i-test-your-mappings-for-free">completely for free</a>, and see for youself.</p>
+<p><strong>Long answer:</strong></p>
+<p>Of course that If you are a 100% scratch DJ, then you should look for a native HID solution.\
+But for the extreme vast majority of DJs I know, this solution is more than enough.</p>
+<p>Some relevant points:</p>
+<ul>
+<li>Scratching is <a href="#why-i-like-big-jogwheels">only the 5th criteria for my jogwheels</a></li>
+<li>The <a href="#What-are-the-features-of-your-DDJ-1000-Traktor-mapping">latest DDJ-1000 mapping</a> helps a lot. You can now can see the jog needle and your hand simultaneously.</li>
+<li>Pioneer has sold products with this solution for many years (<a href="https://www.pioneerdj.com/en/support/software-information/archive/ddj-sz/#traktor">example</a>)</li>
+</ul>
+<h2 id="mode-info-on-the-midi-jogwheels-latency">Mode info on the MIDI jogwheels latency<a class="headerlink" href="#mode-info-on-the-midi-jogwheels-latency" title="Permanent link">&para;</a></h2>
+<p><a href="https://www.native-instruments.com/forum/threads/n-i-any-update-on-the-progress-of-traktor-dj-2.426695/page-2#post-2052187">original post</a></p>
+<p>Did you made any latency measurements? preferable one-way-delay, or at least round-trip-times?
+Because that is what matters in the end:
+* a) DJ hand moves
+* b) MIDI: controller to traktor
+* c) CPU: traktor processing
+* d) AUDIO: traktor to controller audio card
+* e) DJ listens via speakers</p>
+<p>Background info:<br />
+Pioneer made money for many years selling DDJ-SZ/SX2/etc traktor-compatible that work with MIDI jogs.
+They are too slow for turntablists. They are bearable for other guys.</p>
+<p>Serato was of course HID. VirtualDJ followed immediately with HID. I stil have a VDJ license that came with my SZ.
+Later rekordbox performance followed, with HID of course.</p>
+<p>I'm maintaining the Pioneer map updated for all DDJs, and added BOME in the mix to improve the jogswheels (besides many other things).
+After years of efforts, in 2021 this is still not appropriate for turntablists.
+<a href="https://maps.djtechtools.com/mappings/9279">https://maps.djtechtools.com/mappings/9279</a>
+<a href="https://maps.djtechtools.com/mappings/9222">https://maps.djtechtools.com/mappings/9222</a></p>
+<h2 id="how-to-fix-ddj-1000-loose-jogs">How to fix DDJ-1000 loose jogs<a class="headerlink" href="#how-to-fix-ddj-1000-loose-jogs" title="Permanent link">&para;</a></h2>
+<p>this research was done by Jason Louis in the DDJ-1000 Users Facebook group.</p>
+<p>video: https://www.youtube.com/watch?v=LnvZR3Kiuxs</p>
+<p>LOOSE JOG WHEEL DISCOVERY 
+READ BELOW....</p>
+<p>It seems the part that is responsible for keeping the jog wheel in place is not the rollers at all. </p>
+<p>It’s a bracket that has two stationary barrels attached to it. The one in the back is for right to left movement and the one in the front is for front to back movement. </p>
+<p>If you have a jog wheel that is loose this is the part that has failed or has come defective from manufacturing. </p>
+<p>These barrels sit inside of a channel on the under side of the jog wheel top plate ( where your hand makes contact to scratch )</p>
+<p>The way the barrels are held onto the bracket is they are pressed into the bracket and center-punched to mushroom the metal to lock it in place on the bottom. </p>
+<ul>
+<li>
+<p>When a jog wheel develops front to back movement the front barrel will be found to be loose and exhibit a wobble on the bracket. </p>
+</li>
+<li>
+<p>When a jog wheel develops side to side movement the rear barrel will be found to be loose and exhibit a wobble on the bracket. </p>
+</li>
+</ul>
+<p>If you are able to carefully center punch the shaft from the bottom of the bracket it is possible to re-secure the barrel.
+Once the barrel is secured properly to the bracket your movement in your jog wheel will be eliminated. </p>
+<p>I’m trying to get a part number(s) in case anyone is tired of sending in their unit and it coming back not fixed. </p>
+<p>Honestly this is something that pioneer should have done a recall on as I’ve seen so many posts about it here and on forums and have spoke to SAM ASH and Guitar Center with both retailers aware and complaining about the issue. </p>
+<p>Pioneers stance is to keep quiet when all they had to do is replace this bracket that probably cost them 5.00 to have made. </p>
+<p>The labor for the repair is most likely why they are keeping quiet. It’s just unacceptable.</p>
+<hr />
+<p>This is the part that is causing all the problems.
+I think it’s expensive for what it is but at least we have all the information we need.
+Please share this entire post if this can help someone.</p>
+<p>https://www.instrumentalparts.com/stay-assy-jog/</p>
+<hr />
+<p>Once you remove the back cover you will see many ribbon cables going to a main PCB. Once you remove all of those cables you will start to unscrew the Main PCB and lift out. After that you will need to take out the track load PCB the pad assy pcb and the loop pcb. once you remove those you can access the jog wheel screws. Note you will have to remove the track select knob , the tension adjust knob and the pitch slider cap to remove above boards before getting to the jog assy. unscrew 5 or 6 screw and remove jog assy and then you will see 2 tabs that can be pulled back gently and the jog wheel lifts up and off the unit. that's the easy part. keeping all the screws in order and where they go is something you should draw out somewhere or take pictures for the first time. ALSO make sure all the plastic buttons are seated properly when you put all the PCBs back so you don't have to reopen the device after you fully assemble it. Hope that helps</p>
+<p>Understand how to remove the different ribbons cables, also there's a few wires that need to be placed back a certain way, if you keep good notes and have opened and worked around electronics before you can probably do it, but as I stated before... Unless you know what your doing and have some experience in working on electronics or computers I would have someone else do it.</p>
+<hr />
+<p>it’s not easy and I would only recommend you attempt if your good with working on electronics.
+You have to disassemble a lot of the controller just to get the jog wheel out.
+Lots of ribbon cables and removing main and Aux PCB boards</p>
+<p><img alt="loose 1" src="https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_1.jpg?raw=true" />!
+<img alt="loose 1" src="https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_2.jpg?raw=true" />!
+<img alt="loose 1" src="https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_3.jpg?raw=true" />!
+<img alt="loose 1" src="https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_4.jpg?raw=true" />!
+<img alt="loose 1" src="https://raw.githubusercontent.com/pestrela/music/master/pic_sets/ddj_1000_loose_jogs/ddj-1000_loose_5.jpg?raw=true" />!</p>
+<h2 id="how-to-replace-the-ddj-1000-filter-knobs-with-silver-knobs">How to replace the DDJ-1000 filter knobs with Silver knobs<a class="headerlink" href="#how-to-replace-the-ddj-1000-filter-knobs-with-silver-knobs" title="Permanent link">&para;</a></h2>
+<p>Both 1000 and 1000SRT have extremely <a href="https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DDJ-1000RB.jpg">dull filter knobs</a>. Which is a pity.\
+For now the best fit is <a href="https://www.pacparts.com/part.cfm?part_no=DAA1309&amp;mfg=Pioneer">DAA1309</a> from the DDJ-SZ or DJM-900. This is an almost perfect fit.</p>
+<p>Folder with pictures of the knobs: <a href="https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs">here</a></p>
+<ul>
+<li>
+<p><a href="https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DAA1309.png">DAA1309</a>:</p>
+<ul>
+<li>This has the best fit overall. The knob is slightly higher than desired.</li>
+<li><a href="https://www.pacparts.com/part.cfm?part_no=DAA1309&amp;mfg=Pioneer">Part list</a>: \
+  DJM-900NX2/2000NX1/750\
+  DDJ-SZ/ DDJ-RZ/ DDJ-RZX</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/pestrela/music/tree/master//pic_sets/silver_knobs/DAA1320.jpg">DAA1320/DAA1350</a>:</p>
+<ul>
+<li>this was confirmed NOT to work</li>
+<li><a href="(https://www.pacparts.com/part.cfm?part_no=DAA1320&amp;mfg=Pioneer)">parts list</a>: DJM-S9 / DJM-900SRT / XDJ-RX / XDJ-RX2</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/100-SX3-3009.jpg">100-SX3-3009</a>:</p>
+<ul>
+<li>not tested</li>
+<li><a href="https://www.pacparts.com/part.cfm?part_no=100-SX3-3009&amp;mfg=Pioneer">part list</a>: DDJ-RX</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DAA1373.jpg">DAA1373</a>:</p>
+<ul>
+<li>not tested</li>
+<li><a href="https://www.pacparts.com/part.cfm?part_no=DAA1373&amp;mfg=Pioneer">parts list</a>: DJM750 MK2 / 250MK2 / 450 / S3</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/rane%202015%20filters.jpg">Rane 2015</a>:</p>
+<ul>
+<li>this was confirmed to work <a href="https://www.facebook.com/photo.php?fbid=3050933838255437&amp;set=gm.672781936578130&amp;type=3&amp;theater&amp;ifg=1">by another user</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="about-dj-skinscom">About Dj-Skins.com<a class="headerlink" href="#about-dj-skinscom" title="Permanent link">&para;</a></h2>
+<p>I recommend you to change the look of your device and protect it against fingerprints by using a Skin from <a href="http://dj-skins.com">http://dj-skins.com</a>.</p>
+<p>It looks gorgeous!</p>
+<p>Please see the full gallery <a href="https://github.com/pestrela/music/blob/master/pic_sets/dj-skins.com">here</a>.</p>
+<p>Example:
+<img alt=" " src="https://github.com/pestrela/music/raw/master/pic_sets/dj-skins.com/1%20-%20dj-skins.com%20-%20ddj_1000%20and%20Akai%20AMX.jpg?raw=true" /></p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+    
+  </body>
+</html>

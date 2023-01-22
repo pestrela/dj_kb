@@ -1,0 +1,997 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../dj_hall_of_fame/">
+      
+      
+        <link rel="next" href="../traktor/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+    
+    
+      
+        <title>OS-Folders organization - DJ Knowledge Base</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.558e4712.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#os-folders" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="DJ Knowledge Base" class="md-header__button md-logo" aria-label="DJ Knowledge Base" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DJ Knowledge Base
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              OS-Folders organization
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="DJ Knowledge Base" class="md-nav__button md-logo" aria-label="DJ Knowledge Base" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    DJ Knowledge Base
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_1" type="checkbox" id="__nav_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_1" tabindex="0" aria-expanded="false">
+          About
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="About" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          About
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        About this KB
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_census/" class="md-nav__link">
+        DJ Census
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_hall_of_fame/" class="md-nav__link">
+        DJ Hall of Fame
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="true">
+          Traktor
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Traktor" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Traktor
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          OS-Folders organization
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        OS-Folders organization
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#how-large-is-your-collection-how-broad-is-your-collection" class="md-nav__link">
+    How large is your collection? How broad is your collection?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-i-manage-music-using-os-folders-only" class="md-nav__link">
+    Why I manage music using OS-folders only
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc" class="md-nav__link">
+    How to manage your collection using operating systems folders and without DJ playlists (ie, using only Finder, Windows Explorer, etc)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#do-you-use-mp3-file-metadata" class="md-nav__link">
+    Do you use mp3 file metadata?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#about-traktor_clone_cuespy" class="md-nav__link">
+    About traktor_clone_cues.py
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-do-you-achieve-independence-from-dj-software" class="md-nav__link">
+    How do you achieve independence from DJ software
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../traktor/" class="md-nav__link">
+        Traktor Features
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../traktor_elastic_beatgrids/" class="md-nav__link">
+        Traktor Elastic Beatgrids
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../traktor_slow_prefs/" class="md-nav__link">
+        Traktor Slow preferences Window
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sound_quality/" class="md-nav__link">
+        Trakor Sound Quality
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Mappings & Controllers
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Mappings & Controllers" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Mappings & Controllers
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../free_mappings/" class="md-nav__link">
+        Free Mappings
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bome_mappings/" class="md-nav__link">
+        BOME mappings migration
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mapping_tutorials/" class="md-nav__link">
+        Mappings Tutorials
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware_controllers/" class="md-nav__link">
+        Hardware Controllers
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          DJ Info
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="DJ Info" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          DJ Info
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_tutorials/" class="md-nav__link">
+        DJ Tutorials
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../effects/" class="md-nav__link">
+        Effects
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reviews/" class="md-nav__link">
+        DJ Reviews
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_info_sources/" class="md-nav__link">
+        DJ Information sources
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../music_style/" class="md-nav__link">
+        Music Styles
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="false">
+          Multiple DJ Softwares
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Multiple DJ Softwares" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Multiple DJ Softwares
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_collection_converters/" class="md-nav__link">
+        DJ collection converters
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rekordbox_v6/" class="md-nav__link">
+        Rekordbox v6 topics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mixxx/" class="md-nav__link">
+        MIXXX topics
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" tabindex="0" aria-expanded="false">
+          Tools & Optimization
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Tools & Optimization" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Tools & Optimization
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../free_dj_tools/" class="md-nav__link">
+        Free DJ Software Tools
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dj_optimization/" class="md-nav__link">
+        DJ Software optimization
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../windows/" class="md-nav__link">
+        Windows usage
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#how-large-is-your-collection-how-broad-is-your-collection" class="md-nav__link">
+    How large is your collection? How broad is your collection?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-i-manage-music-using-os-folders-only" class="md-nav__link">
+    Why I manage music using OS-folders only
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc" class="md-nav__link">
+    How to manage your collection using operating systems folders and without DJ playlists (ie, using only Finder, Windows Explorer, etc)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#do-you-use-mp3-file-metadata" class="md-nav__link">
+    Do you use mp3 file metadata?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#about-traktor_clone_cuespy" class="md-nav__link">
+    About traktor_clone_cues.py
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-do-you-achieve-independence-from-dj-software" class="md-nav__link">
+    How do you achieve independence from DJ software
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="os-folders">OS-Folders<a class="headerlink" href="#os-folders" title="Permanent link">&para;</a></h1>
+<h2 id="how-large-is-your-collection-how-broad-is-your-collection">How large is your collection? How broad is your collection?<a class="headerlink" href="#how-large-is-your-collection-how-broad-is-your-collection" title="Permanent link">&para;</a></h2>
+<p>I have a large collection with thousands of files. It is also quite broad, featuring hundreds of playlists, and dozens of genres / sub-genres / decades combinations.</p>
+<p>My numbers are:</p>
+<ul>
+<li><strong>Tracks</strong>: 8000</li>
+<li><strong>Playlists</strong>: 300</li>
+<li><strong>Sub-genres:</strong> 50 </li>
+<li><strong>Major-genres:</strong> 10</li>
+<li><strong>Decades:</strong> 5</li>
+<li><strong>DJs</strong>: 2</li>
+</ul>
+<p>To manage this complexity I've build my own set of personal tags that I fully trust.
+As such, the first action on new files is to tag them into my structure. This ignores any previous tags made by someone else.</p>
+<p>Below an example how my structure looks like; the full tree is far larger.
+<img alt="DJ Genres" src="../pics/folder_organization_dj_genres.png?raw=true" /></p>
+<p>See also <a href="#why-i-manage-music-using-os-folders-only">Why I manage music using OS-folders only</a>.</p>
+<h2 id="why-i-manage-music-using-os-folders-only">Why I manage music using OS-folders only<a class="headerlink" href="#why-i-manage-music-using-os-folders-only" title="Permanent link">&para;</a></h2>
+<p>Above, I've explained <a href="#How-large-is-your-collection-How-broad-is-your-collection">the size and complexity of my collection</a>.\
+This is nothing new; I know many DJs with <a href="https://code.google.com/archive/p/serato-itch-sync/">the same "problem"</a>. The difference is on the <em>how</em>; In my case I manage the collection only in OS-folders, instead of DJ-playlists.</p>
+<p>Main reasons are:</p>
+<ul>
+<li><strong>#1: Multiple Windows:</strong> File explorer opens instantaneously with Win+E, and allows any number of windows, monitors and <a href="http://qttabbar.wikidot.com/">tabs</a>. </li>
+<li><strong>#2: Tree Tagging:</strong> More crucially, all windows have the whole tree visible. This is essential to quickly tag my files by just moving them to the correct correct folder. Similarly, the structure grows just by creating new sub-folders as needed.</li>
+<li><strong>#3: Simpler Folders</strong>: OS-Folders contain either files, sub-folders, or both. <a href="https://en.wikipedia.org/wiki/Path_(computing)#History">This 2-step organization</a> is simpler is than the iTunes 3-step model of "folders -&gt; playlists -&gt; files" (later copied by almost all DJ softwares).</li>
+<li><strong>#4: Local Searches:</strong> By far my most common task is to check if I already have a particular track, and where is it tagged. File explorer allows local searches on a folder and its sub-folders only. This enables me to quickly find things by just typing a few letters of the filename. AFAIK only Serato has this feature (called <a href="https://support.serato.com/hc/en-us/articles/227626268-Subcrates">"include subcrates"</a>)</li>
+<li><strong>#5: Tags Cleanup:</strong> Before tagging the file, I rename the filenames to correct its artist / title. <a href="https://www.mp3tag.de/en/">MP3tag</a> helps a lot to clean up the formatting, using <a href="https://github.com/pestrela/music/blob/master/traktor/tools_traktor/Mp3tagSettings.zip">my own scripts</a> to automatically capitalize the names as “ARTIST1 ft. ARTIST2 - Capitalized Title - Remix”, and to update the internal mp3 tags. </li>
+<li><strong>#6: Software Independence:</strong> Using OS-folders you are independent of any possible DJ software and itunes. It also trivial to <a href="#how-i-synchronize-and-backup-my-whole-traktor-music-and-configuration-across-laptops-and-a-nas">sync between laptops</a> and make perfect backups <a href="https://www.synology.com/en-global/products/DS718+">to my NAS</a>. It is also trivial to load a whole genres to USB sticks to listen in cars.</li>
+</ul>
+<p>See also <a href="#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc">this blog post for more details on my workflow between DJ softwares </a>.</p>
+<p>See also <a href="https://www.reddit.com/r/DJs/comments/c3o2jk/my_ultimate_track_tagging_system_the_little_data/?utm_medium=android_app&amp;utm_source=share">this reddit post for a realy good organiztion using a databse</a></p>
+<h2 id="how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc">How to manage your collection using operating systems folders and without DJ playlists (ie, using only Finder, Windows Explorer, etc)<a class="headerlink" href="#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc" title="Permanent link">&para;</a></h2>
+<p>Above I've described <a href="#why-i-manage-music-using-os-folders-only">Why I manage music using OS-folders only</a>. In this post I will describe <em>how</em> I manged to <strong>fully automate</strong> my workflow between DJ softwares.</p>
+<ul>
+<li><strong>#0: File operations:</strong> <a href="#why-i-manage-music-using-os-folders-only">As explained above</a> I continuously search files, change the filenames and move the files around left and right.</li>
+<li><strong>#1: Traktor Repair:</strong> When I first open Traktor, it automatically <a href="#why-is-traktor-my-software-of-choice-a-database-repair-mass-relocate">repairs its own database</a>. For this I just run a mass-relocate on my whole music root folder, which refinds all moved and renames files in a single go.</li>
+<li><strong>#2: Update collection:</strong> The second step is just to import the whole music root folder into Traktor. As this skips previous files, in practice it only imports the New files. The last step is to delete the remaining missing files (that are really deleted - otherwise they would been found on step #1) </li>
+<li><strong>#3: Duplicate Cues</strong>: For the rare cases that a file is in multiple sub-genres, I just copy them physically in different folders. I have 10% of duplicated files. Then I run a <a href="#about-traktor_clone_cuespy">python script</a> to automatically duplicate the CUEs for these files. This tool is similar to <a href="http://www.flowrl.com/librarian">the traktor Librarian</a>.</li>
+<li><strong>#4: Dj Converter:</strong> I use the <a href="#which-dj-converters-avoid-the-26ms-shift-issue">DJ Data Converter</a> to generate the rekordbox.xml file without the <a href="#what-is-the-26ms-shift-issue-when-converting-cuesloops-between-softwares">26ms shift problem</a>.</li>
+<li><strong>#5: Rekordbox Import:</strong> On rekordox first I delete all missing files, then import the whole collection "as-is", and then update the collection with the XML file that came from the (repaired) Traktor collection. These steps are fully automatic and it ensures the Rekordbox collection matches the Traktor collection.</li>
+<li><strong>#6: Rekordbox Search:</strong> I only use rekordbox for video gigs. There I use the explorer node to see my files, and search for files in the whole collection. For the rare case I need to search inside a "playlist", I use a real File Explorer window in parallel when needed (because rekordbox <a href="#why-is-traktor-my-software-of-choice-b-os-search-no-playlists">still lacks a search box in OS-folders</a>)</li>
+<li><strong>#7: CDJ export:</strong> I only really need playlists for CDJs. There are scripts to mass-convert all folders to DJ playlists. Then I do the usual rekordbox step to prepare USBs pens.<ul>
+<li>Windows version is http://samsoft.org.uk/iTunes/ImportFolderStructure.vbs; </li>
+<li>Mac version is https://dougscripts.com/itunes/scripts/ss.php?sp=droptoaddnmake; </li>
+<li>A Serato-specific version is in https://code.google.com/archive/p/serato-itch-sync/</li>
+</ul>
+</li>
+</ul>
+<p>See also the <a href="https://www.youtube.com/watch?v=d4QO6xxGovQ">DJCU workflow from ATGR</a>.</p>
+<h2 id="do-you-use-mp3-file-metadata">Do you use mp3 file metadata?<a class="headerlink" href="#do-you-use-mp3-file-metadata" title="Permanent link">&para;</a></h2>
+<p>I do not use metadata, not even the "genre" field. This is because my collection is <a href="#How-large-is-your-collection-How-broad-is-your-collection">too broad</a> for me to depend on it.</p>
+<p>Instead, I generate the fields automatically from the filename + folder. That is my granularity - which is also independent of any DJ software. In this process I ensure that all filenames are normalized to a clean format (ARTIST - TITLE - REMIX), and store them in <a href="#why-i-manage-music-using-os-folders-only">hierarchical folders</a></p>
+<p>Then I run two automated tools:
+* <a href="https://github.com/pestrela/music/blob/master/traktor/tools_traktor/Mp3tagSettings.zip">mp3tag scripts</a> that clean-up the filename and generate metadata
+* <a href="https://github.com/pestrela/music/blob/master/traktor/tools_traktor/traktor_clone_cues.py">python script</a> that duplicate the cues of the duplicated files </p>
+<h2 id="about-traktor_clone_cuespy">About traktor_clone_cues.py<a class="headerlink" href="#about-traktor_clone_cuespy" title="Permanent link">&para;</a></h2>
+<p>This script automatically syncs the cues/loops between duplicated files. 
+This is the basis of my organization method that <a href="#os-folders">uses OS folders only</a>. No DJ playlists at all.</p>
+<p>Download: <a href="https://github.com/pestrela/music/blob/master/traktor/tools_traktor/traktor_clone_cues.py">traktor_clone_cues.py</a></p>
+<p>This tool was inspired by these two tools by <a href="https://www.native-instruments.com/forum/members/kalo.266077/">Kalo</a></p>
+<ul>
+<li><a href="https://www.native-instruments.com/forum/threads/tracomerger-combine-traktor-collections-transfer-metadata-between-tdj-and-traktor-pro.258738/">TraCoMerger</a> <ul>
+<li>Combine Traktor collections, Transfer metadata between TDJ and Traktor Pro</li>
+</ul>
+</li>
+<li><a href="https://www.native-instruments.com/forum/threads/tracoconverter-convert-traktor-metadata-cues-grid-into-txt-csv-xls-dj-player-pro.259384/">TraCoConverter</a><ul>
+<li>Convert Traktor metadata (cue's, grid..) into TXT, CSV, XLS, DJ Player Pro</li>
+</ul>
+</li>
+</ul>
+<h2 id="how-do-you-achieve-independence-from-dj-software">How do you achieve independence from DJ software<a class="headerlink" href="#how-do-you-achieve-independence-from-dj-software" title="Permanent link">&para;</a></h2>
+<p>Independence from DJ software is something that I value. This is in stark contrast with, say, the RB6 encrypted database.</p>
+<p>I achieve this as follows:
+* DJ Playlists: my OS folders are my playlists. This is trivial to backup and its the most durable method I ever seen.
+* CUEs/LOOPs: I have my cues stored in traktor, which writes this info to the files themselves. This is very durable and really convenient. 
+The database is also very open and very simple to process - its an XML text file.
+* Star rating: I do not use this feature</p>
+<p>See the above blog posts for more details on these organization methods.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+    
+  </body>
+</html>
