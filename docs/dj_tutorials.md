@@ -456,4 +456,38 @@ and this top 10 list of traktor tips:
 
 
 
- 
+# End of year Guides
+
+## Digital DJ Tips guides
+
+All pdfs are in this link:
+<https://github.com/pestrela/music/tree/master/pic_sets/digital_dj_tips_guides>
+
+
+
+## MOJAXX Tech recaps
+
+* 2023 
+  * <https://www.youtube.com/watch?v=6cZzXkBrZtw&t=188s>
+  * <https://www.youtube.com/watch?v=h4Rp2eEB4qU
+* 2022 
+  * <https://www.youtube.com/watch?v=hgQXxrlwQhM>
+* 2021 
+  * <https://www.youtube.com/watch?v=b-03pLu55so>
+* 2020 
+  * <https://www.youtube.com/watch?v=b-03pLu55so>
+  * <https://www.youtube.com/watch?v=G3IXmoH2_E0>
+* 2019 
+  * <https://www.youtube.com/watch?v=ZTE0PTdEQyY>
+* 2018 
+  * https://www.youtube.com/watch?v=3BCYGt2BZ4E>
+* 2017 
+  * <https://www.youtube.com/watch?v=-gQZyqHWut0>
+* 2016 
+  * <https://www.youtube.com/watch?v=I5ERNjO7Xw8>
+  * <https://www.youtube.com/watch?v=-wckEljtqyc>
+  * <https://www.youtube.com/watch?v=YYguQ3vGuys>
+* 2015 
+  * <https://www.youtube.com/watch?v=P4D9hsk2l4E>
+* 2012 
+  * <https://www.youtube.com/watch?v=azaeWW7ZuNs>

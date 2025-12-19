@@ -63,6 +63,30 @@ See also [this DDJ-SZ comparison](https://www.reddit.com/r/Beatmatch/comments/c6
 See also this general [comparison to CDJs](https://djtechtools.com/2017/07/23/ddj-cdjs-practicing-cdjs-pioneer-dj-controller/)
 
 
+## DDJ-1000 vs FLX10
+
+what changed in side by side comparison vs DDJ-1000, high res links in comments:
+
+connectivity:
+* 2x USB-C
+* XLR DMX plug
+
+major:
+* active part:  drums / vocal / inst / +shift: instant doubles
+* new FX part select icons on mixer
+* mix point select / link / silent / deck / exit 
+* new tempo reset button
+* beat sync long press = sync rate
+* shift + cue = part iso
+* new beat fx led per channel
+
+minor:
+* shift: double click = dig marker ON/OFF
+* search = 4x beat jump / log press= search / +shift = 16 beat jump
+* page: double click = pad info
+* call/cue loop (like in CDJs)
+
+
 
 ## Why I like BIG jogwheels
 
