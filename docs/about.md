@@ -3,7 +3,7 @@
 
 ## TL;DR version
 
-My biggest **Laptop** reasons are not having to manage USB sticks, and it has much more features than standalone.\
+My biggest **Laptop** reasons are not having to manage USB sticks, and it having much more features than standalone.\  
 My biggest **DDJ-1000** reason is big jogwheels.\
 My biggest **Traktor** reason is using my OS folders as "playlists", its effects and its advanced mapping possibilities.
 
@@ -63,7 +63,7 @@ and a [MindMap picture](#MindMap-Summary) to get you started.
       
 ## Some metrics of my free contributions
 
-These are my biggest crontibutions.\
+These are my biggest contributions.\
 What did you enjoyed the most? please tell me to pedro.estrela@gmail.com
 
 * Knowledge Base: 20K words 
@@ -87,7 +87,7 @@ Question #2:\
 How could happen that Traktor/NI dropped the jogwheel in 2014 with the S8/remix decks, but in 2021 is still the ONLY major sofwtare without flexible beatgrids?
 
 question #3:\  
-What is your opinion of realtime STEMS seperaation of VDJ 2021 and Djay AI?
+What is your opinion of realtime STEMS seperation of VDJ 2021 and Djay AI?
 
 
 
