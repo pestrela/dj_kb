@@ -20,7 +20,7 @@ sed_fix_urls:
   
 
 sed_fix_nls:
-  sed -i 's|\\ *$|  $|g' docs/about2.md
+  sed -i 's|\\ *$|  |g' docs/*.md   # docs/about2.md
 
   
 

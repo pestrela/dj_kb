@@ -22,14 +22,17 @@ markdown_extensions:
     - admonition
     - def_list
     - pymdownx.magiclink
+    #- nl2br   # this breaks stuff
   
     #- mdx_gh_links:
     #    user: mkdocs
     #    repo: mkdocs
         
     
-# cat index.md  | grep -- "^# "  | awk -F, '{print "-",$1,":",$1".md" }'    
-# for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
+# ensure all files mentioned in the index exist:
+#    # cat index.md  | grep -- "^# "  | awk -F, '{print "-",$1,":",$1".md" }'    
+# ensure all files mentioned HERE exist:
+#    for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
 nav:
   - About :
     - About this KB : about.md
