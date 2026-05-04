@@ -1,5 +1,6 @@
 site_name: DJ Knowledge Base
-#site_url: https://pestrela.github.io/dj_kb/
+
+#https://www.mkdocs.org/user-guide/configuration/#site_url
 site_url: https://pestrela.github.io/dj_kb/
 
 plugins:
@@ -36,7 +37,9 @@ markdown_extensions:
 # ensure all files mentioned HERE exist:
 #    for file in `grep_onoff.sh ../mkdocs.yml nav | grep md | columnx.sh -1` ; do  touch "$file" ; done
 nav:
-  - About :
+  - TOC: index.md
+  
+  - About:
     - About this KB : about.md
     - DJ Census : dj_census.md
     - DJ Hall of Fame : dj_hall_of_fame.md

@@ -103,4 +103,8 @@ The picture below summarizes the main ideas and dependencies explained in these 
    
 ## ProfBX answer
 
-This section was moved [here](../rekordbox_v6/#conversation-with-profbx-from-pioneer)
+This section is now [here](../rekordbox_v6/#conversation-with-profbx-from-pioneer)
+
+## Why I use Traktor
+
+This section is [here](../traktor/)

@@ -23,6 +23,9 @@ sed_fix_nls:
   sed -i 's|\\ *$|  |g' docs/*.md   # docs/about2.md
 
   
+### innter TOC stuff
 
+toc_inner:
+  cat docs/traktor.md | grep -- '##' | grep -i "why" | grep ')' | sed 's|^## Why I use Traktor: ||' | sed 's|^|* [|' | sed 's|$|](|'
 
 

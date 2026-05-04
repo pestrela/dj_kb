@@ -2,27 +2,98 @@
 # Traktor software
 
 
-## Why is Traktor my software of choice
+## Why I use Traktor:
 
 Traktor has unique features - big and small - that I depend on.  
 Other softwares have nice unique features too, but I built my workflows on these specific ones.
 
 Posts:
 
-* [a) Automatic database repair (mass relocate)](#why-is-traktor-my-software-of-choice-a-automatic-finds-moved--renamed-files-mass-relocate)
-* [b) OS Search (no playlists)](#why-is-traktor-my-software-of-choice-b-os-search-no-playlists)
-* [c) Advanced MIDI mapping](#why-is-traktor-my-software-of-choice-c-advanced-midi-mapping)
-* [d) Hotcues move the temporary cue as well](#why-is-traktor-my-software-of-choice-d-hotcues-move-the-temporary-cue-as-well)
-* [e) Stronger Sync than others](#Why-is-Traktor-my-software-of-choice-e-Stronger-Sync-than-others)
+* [a) Preview files on the Browse Encoder](#why-i-use-traktor-a-preview-files-on-the-browse-encoder)
+* [b) Avoid creating playlists (Folder filtering)](#why-i-use-traktor-b-avoid-creating-playlists-folder-filtering)
 
-more info: <https://github.com/pestrela/dj_kb#why-is-traktor-my-software-of-choice>
+* [c) Avolid creating playlists (Mass relocate)](#why-i-use-traktor-c-avolid-creating-playlists-mass-relocate)
+
+* [d) MIDI mapping variables (ie, Modifiers and Conditions)](#why-i-use-traktor-d-midi-mapping-variables-ie-modifiers-and-conditions)
+* [e) Hotcues move the temporary cue as well](#why-i-use-traktor-e-hotcues-move-the-temporary-cue-as-well)
+* [f) Strong Beat Sync](#why-i-use-traktor-f-strong-beatsync)
+
+
+more info: <https://github.com/pestrela/dj_kb#why-i-use-traktor>
 
 See also [which features I miss in Traktor](#Which-features-I-miss-in-Traktor), and [STEMS info](#How-to-create-your-own-karaoke-files-automatically-using-Stems-and-AI).
 
 
-## Why is Traktor my software of choice: a) Automatic finds Moved / Renamed files (mass relocate)
 
-Traktor is above to find RENAMED files fully automatically without losing CUE points, beat grid or re-analysis.
+
+
+
+## Why I use Traktor: a) Preview files on the Browse Encoder
+ 
+I have a massive collection [of many different styles](os_folders).  
+Traktor enables me to quickly **navigate and hear** this collection without moving my hand.  
+Other softwares lack "MIDI modifiers" - they are required to share the encoder with different actions.  
+
+
+**More details**: 
+
+[This video](https://www.youtube.com/watch/BYNpNWP25qY) shows the below workflow:
+
+* Turn the Browse encoder to select a track
+* Press it to start listening the preview player
+* **Without moving your hand**: turn the encoder to seek inside the preview player
+* Release the button to stop listening
+* Continue searching the next track
+
+This idea came from the S4 MK3 (see at 14:55 in [this video](https://youtu.be/q4vZZjH1wEI?t=898))
+
+**Software suport:**
+
+* **Traktor**: it has modifiers, so it is trivial to use the browser encoder to *either* seek or search
+* **DJay**: misses encoder seeking, modifiers to share encoder, and PP "hold" interaction ([forum request](https://community.algoriddim.com/t/preview-player-enable-seeking-with-the-browser-encoder/42175)))
+* **VirtualDJ**: it will probably be fully supported 
+* **Rekordbox**: preview player is only with the mouse
+* **Serato**: It doesnt have preview player at all
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## Why I use Traktor: b) Avoid creating playlists (Folder filtering)
+
+Traktor allows searching inside any OS folder.  
+This allows me use the OS folders without DJ playlists.  
+Other softwares just show the folders, but do not enable searching inside them.  
+
+**More details**: 
+
+I don't have DJ playlists inside Traktor; instead, my OS-folders are my "virtual playlists".  
+I have a very large collection with dozens of genres, sub-genres and decades. For that I've created a structure where each decade is a separate folder, inside a parent genre/sub-genre folders.
+
+When I'm playing a specific genre I can search only that decade (=OS folder). If I want something else I can always search the whole collection at any time.
+([See this blog post for more detail on these methods](#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc))
+
+**Software suport:**
+
+* **DJay**: TBD
+* **Rekordbox:** it  displays OS folders, but you can't search inside them. [Example of Pioneer forum request](https://forums.pioneerdj.com/hc/en-us/community/posts/115018095303-Reasons-to-think-i-leave-from-rekordbox-?page=1#community_comment_360000392646)
+* **Serato:** it has a nicer way to display OS folders, but you can't search inside them
+* **VDJ:** it has really good OS-searches, better than traktor, by having a "recurse" option to see all sub-folder files in a flat view
+
+
+
+
+
+## Why I use Traktor: c) Avolid creating playlists (Mass relocate)
+
+Traktor supports **mass relocate** to automatically repair the database ("consistency check").  
+This allows me to RENAME files at will - it repairs the database on startup.  
+Other softwares only support MOVING files around, not RENAMING them. Even there, the repair move operation is a manual process.  
+
+
+**More details**:
 
 I RENAME and MOVE files very regularly at the OS-folders level, using Windows Explorer/macOS finder.
 
@@ -36,41 +107,42 @@ Traktor is the only software that achives that because it fingerprints everythin
 When the mass-relocate process ends, everything is magically found again. Crucially all metadata is kept: CUE points, beat grid, analysed BPM, stripe, etc.  
 Together with the OS-search feature described below, this enables me to use folders as "virtual playlists".
 
-* **Comparison to Rekordbox v6:** V6 fixed this problem, well done! However it is not a solution because of the [missing XML export issue](#issues-of-the-V6-Rekordbox-migration---major)
-* **Comparison to Rekordbox v5:** Renamed files need to be relocated FILE by FILE.  
+**Software suport:**
+
+* **Rekordbox v6:** V6 fixed this problem, well done! However it is not a solution because of the [missing XML export issue](#issues-of-the-V6-Rekordbox-migration---major)
+* **Rekordbox v5:** Renamed files need to be relocated FILE by FILE.  
 Moved files can be done FOLDER by FOLDER.  
 If this manual process is skipped, the files are seen as brand new, losing all meta-data.  
 [An external tool](https://github.com/edkennard/rekordbox-repair) helps the moved files case. [Example of Pioneer forum request](https://forums.pioneerdj.com/hc/en-us/community/posts/115018095303-Reasons-to-think-i-leave-from-rekordbox-?page=1#community_comment_360000392646)
-* **Comparison to VDJ:** Everything need to be relocated FILE by FILE.
-* **Comparison to Serato:** To test.
+* **VDJ:** Everything needs to be relocated FILE by FILE.
+* **Serato:** To test
+* **DJay**: to test
 
 
-## Why is Traktor my software of choice: b) OS-search to use (no playlists)
+ 
+ 
+ 
+ 
+## Why I use Traktor: d) MIDI mapping variables (ie, Modifiers and Conditions)
 
-Traktor allows searching inside any OS folders. I don't have DJ playlists inside Traktor; instead, my OS-folders are my "virtual playlists".
-
-I have a very large collection with dozens of genres, sub-genres and decades. For that I've created a structure where each decade is a separate folder, inside a parent genre/sub-genre folders.
-
-When I'm playing a specific genre I can search only that decade (=OS folder). If I want something else I can always search the whole collection at any time.
-([See this blog post for more detail on these methods](#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc))
-
-* **Comparison to Rekordbox:** Rekordbox displays OS folders, but you can't search inside them. [Example of Pioneer forum request](https://forums.pioneerdj.com/hc/en-us/community/posts/115018095303-Reasons-to-think-i-leave-from-rekordbox-?page=1#community_comment_360000392646)
-* **Comparison to Serato:** Serato has a nicer way to display OS folders, but you can't search inside them
-* **Comparison to VDJ:** VDJ has really good OS-searches, better than traktor, by having a "recurse" option to see all sub-folder files in a flat view
+Traktor supports complex MIDI mapping with 8x variables, 3x bits states, 2x conditionals, and infinite actions per MIDI input.  
+This allows me to add functions to exiting buttons, eg having the preview player on the browse encoder.  
+Other softwares do not support variables at all.  
 
 
-
-## Why is Traktor my software of choice: c) Advanced MIDI mapping
-  
-Traktor supports complex MIDI mapping with 8x variables, 2x conditionals and any number of actions per MIDI input
+**More details**:
 
 My [DDJ-1000 mapping has FX chains of the Jogwheel](https://github.com/pestrela/dj_maps/tree/main/ddj_1000/). For a demo, see at 6:30 of this video: https://www.youtube.com/watch?v=h9tQZEHr8hk&t=392s   
 My [AKAI AMX mapping has 10 layers built using shifts and states](https://github.com/pestrela/dj_maps/tree/main/akai_amx) to cram A LOT more functionality than the existing buttons.  
-This is only possible if midi mapping has variables and multiple actions per physical input.
+This is only possible if midi mapping has variables and multiple actions per physical input.  
 
-* **Comparison to Rekordbox:** No variables at all, no multiple actions. They only allow you to assign a single command to a single button. 
-* **Comparison to Serato:** No variables at all, no multiple actions. They only allow you to assign a single command to a single button. 
-* **Comparison to VDJ:** VDJ is even better than traktor, has it has a full scripting language built-in ([VDJscript](https://www.virtualdj.com/wiki/VDJscript.html)). 
+
+**Software suport:**
+
+* **DJay**: It only has 1x modifier, with one bit state [forum request](https://community.algoriddim.com/t/traktor-style-modifiers-and-conditions/11849). This enables one shifted layer. It has internal variables [for the pad modes](https://community.algoriddim.com/t/how-to-work-with-modifiers-in-the-midi-mapping-xml/32183/12), but these are not geberal. It supports multiple actions per input, but it is [not deterministic](https://community.algoriddim.com/t/hotcues-should-move-the-start-cue-as-well/42180/).
+* **Rekordbox:** No variables at all, no multiple actions. They only allow you to assign a single command to a single button. 
+* **Serato:** No variables at all, no multiple actions. They only allow you to assign a single command to a single button. 
+* **VDJ:** VDJ is even better than traktor, has it has a full scripting language built-in ([VDJscript](https://www.virtualdj.com/wiki/VDJscript.html)). 
 
 It features infinite variables, conditions and states; Traktor only has 8 variables, 2 conditions and 8 states.
 VDJ also features extremely nice [mapping editor](https://www.youtube.com/watch?v=4SU2OyDB9PQ&t=200),
@@ -80,27 +152,46 @@ VDJ also features extremely nice [mapping editor](https://www.youtube.com/watch?
 See also ["Why I moved to BOME midi mapping"](#BOME-mappings-migration).
 
 
-## Why is Traktor my software of choice: d) Hotcues move the temporary cue as well
 
-**Update:** I've now made a video to show this  request: https://www.youtube.com/watch?v=tINljMwc4Co
 
-I use the hotcues as internal "bookmarks". In Traktor, pressing a hotcue moves the temporary cue as well.  
-This is very useful for  previewing an old song that you dont remember anymore. When you are done, you just move it to the last point using the big round button.
+## Why I use Traktor: e) Hotcues move the temporary cue as well
 
-* **Comparison to Rekordbox:** No option to move the temporary cue when pressing a hotcue. This causes massive confusion to me every single time. This would be trivial to fix using advanced MIDI mapping. [This was requested in their forum](https://forums.pioneerdj.com/hc/en-us/community/posts/360021313752-Is-there-any-way-at-all-to-reassign-the-cue-button-to-cue-to-the-most-recently-selected-hot-cue-rather-than-only-being-used-to-make-cue-points-)
-* **Comparison to Serato:** untested
+Traktor allows me to use the hotcues as "bookmarks". Ie, after selecting the mix-in hotcue, I want the big round button to be there already. Same story for loops.  
+Other softwares treat the hotcues as independent of the floating cue (AKA "start cue").
+
+Demo video: https://www.youtube.com/watch?v=tINljMwc4Co
+
+
+**Software suport:**
+
+* **DJay**: This can be added in midi mapping, but it is broken - it moves the cue [to random places](
+https://community.algoriddim.com/t/hotcues-should-move-the-start-cue-as-well/42180/)
+* **Serato:** No option to move the temporary cue when pressing a hotcue. This causes massive confusion to me every single time. This would be trivial to fix using advanced MIDI mapping.
+* **Rekordbox:**: this was an issue [for years](https://forums.pioneerdj.com/hc/en-us/community/posts/360021313752-Is-there-any-way-at-all-to-reassign-the-cue-button-to-cue-to-the-most-recently-selected-hot-cue-rather-than-only-being-used-to-make-cue-points-). I *think* it is now fixed with a new option.
 * **Comparison to VDJ:** untested, but not a problem for sure (trivial to change using advanced MIDI mapping)
 
-## Why is Traktor my software of choice: e) Stronger Sync than others
+
+
+
+
+## Why I use Traktor: f) Strong BeatSync
 
 Traktor features a very strong master clock that was built for the remix decks. As such its sync is in general stronger than the other softwares I tested. 
 Using Beatsync the phrasing is always kept for any action I might do to the track: Beatjump, Hot cues, Temporary Cue, Pitch bend, Tempo change, Scratch, etc.
 
-* **Comparison to Serato:** see [this comparison video](https://www.youtube.com/watch?v=pyAj4IyFNCs). Even there I still found myself having the "gold" sync instead of the desired "blue" sync
-* **Comparison to Rekordbox:** It has the best sync outside Traktor 
-* **Comparison to VDJ:** untested
+
+**Software suport:**
+
+* **Serato:** see [this comparison video](https://www.youtube.com/watch?v=pyAj4IyFNCs). Even there I still found myself having the "gold" sync instead of the desired "blue" sync
+* **Rekordbox:** It has the best sync outside Traktor 
+* **VDJ:** untested
+* **DJay:** tbd
 
 See also: <https://djtechtools.com/2011/10/23/looking-into-sync-power-functions-in-traktor-2/>
+    
+    
+    
+    
     
 ## Which features I miss in Traktor
 
