@@ -26,8 +26,10 @@ See also [Why I manage music using OS-folders only](#why-i-manage-music-using-os
 
 ## Why I manage music using OS-folders only
 
-**Update:** also see this [blog post from Ray Arkaei](https://roguedjs.com/why-djing-is-a-hard-sell-pt2/#:~:text=I%20have%20my,on%20Traktor.)
- from <http://roguedjs.com>, and the same idea from [Dan Morse](https://roguedjs.com/its-not-me-its-you-what-does-it-take-to-switch-dj-ecosystem/)
+**Update:** See also this [blog post from Ray Arkaei](https://roguedjs.com/why-djing-is-a-hard-sell-pt2/#:~:text=I%20have%20my,on%20Traktor.)
+ in <http://roguedjs.com> about OS folders;  
+**Update:** See also this [blog post from Dan Morse](https://roguedjs.com/its-not-me-its-you-what-does-it-take-to-switch-dj-ecosystem/))
+ about moving your DJ ecosystem;  
  
 
 Above, I've explained [the size and complexity of my collection](#How-large-is-your-collection-How-broad-is-your-collection).  
@@ -35,12 +37,12 @@ This is nothing new; I know many DJs with [the same "problem"](https://code.goog
 
 Main reasons are:
 
+* **#0: Software Independence:** Using OS-folders you are independent of any possible DJ software and itunes. It also trivial to [sync between laptops](../music_files/#how-i-synchronize-and-backup-my-whole-traktor-music-and-configuration-across-laptops-and-a-nas) and make perfect backups [to my NAS](https://www.synology.com/en-global/products/DS718+). It is also trivial to load a whole genres to USB sticks to listen in cars.
 * **#1: Multiple Windows:** File explorer opens instantaneously with Win+E, and allows any number of windows, monitors and [tabs](http://qttabbar.wikidot.com/). 
 * **#2: Tree Tagging:** More crucially, all windows have the whole tree visible. This is essential to quickly tag my files by just moving them to the correct correct folder. Similarly, the structure grows just by creating new sub-folders as needed.
 * **#3: Simpler Folders**: OS-Folders contain either files, sub-folders, or both. [This 2-step organization](https://en.wikipedia.org/wiki/Path_(computing)#History) is simpler is than the iTunes 3-step model of "folders -> playlists -> files" (later copied by almost all DJ softwares).
 * **#4: Local Searches:** By far my most common task is to check if I already have a particular track, and where is it tagged. File explorer allows local searches on a folder and its sub-folders only. This enables me to quickly find things by just typing a few letters of the filename. AFAIK only Serato has this feature (called ["include subcrates"](https://support.serato.com/hc/en-us/articles/227626268-Subcrates))
 * **#5: Tags Cleanup:** Before tagging the file, I rename the filenames to correct its artist / title. [MP3tag](https://www.mp3tag.de/en/) helps a lot to clean up the formatting, using [my own scripts](https://github.com/pestrela/music/blob/master/traktor/tools_traktor/Mp3tagSettings.zip) to automatically capitalize the names as “ARTIST1 ft. ARTIST2 - Capitalized Title - Remix”, and to update the internal mp3 tags. 
-* **#6: Software Independence:** Using OS-folders you are independent of any possible DJ software and itunes. It also trivial to [sync between laptops](#how-i-synchronize-and-backup-my-whole-traktor-music-and-configuration-across-laptops-and-a-nas) and make perfect backups [to my NAS](https://www.synology.com/en-global/products/DS718+). It is also trivial to load a whole genres to USB sticks to listen in cars.
 
 See also [this blog post for more details on my workflow between DJ softwares ](#how-to-manage-your-collection-using-operating-systems-folders-and-without-dj-playlists-ie-using-only-finder-windows-explorer-etc).
 
