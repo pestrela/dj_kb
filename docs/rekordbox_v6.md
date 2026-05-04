@@ -26,13 +26,13 @@ update 2021-05: v6.3 added the XML export feature again. Well done.
 
 2) **Perpetual bought licenses** do not transfer to subscription model:
 
-* I've bought a rekordbox performance (149 USD), rekordbox video (99USD)and RMX pack (9.9USD) to use in my DDJ-1000.\
+* I've bought a rekordbox performance (149 USD), rekordbox video (99USD)and RMX pack (9.9USD) to use in my DDJ-1000.  
   * Total cost: 260USD w/o Tax.
   * V5 licenses: https://web.archive.org/web/20200217154645/https://rekordbox.com/en/plan/pluspacks/
 * This V5 license doesn't carry over to the new subscription model
   * Note: "check" in this table means that it is suported. It doesn't mean it is free! (https://rekordbox.com/en/support/link )
   
-The XML vendor lock is a **deal breaker** for me.\
+The XML vendor lock is a **deal breaker** for me.  
 The dead V5 license is quite annoying (there will be no V5 improvements and I don't expect any support moving forward).
   
 ## How did the industry commenters reacted to the v6 XML export issue?
@@ -97,17 +97,17 @@ Combining both lists, this is what is **NOT unlocked**:
 
 All these need either the 10eur/mo or the 15eur/mo subscription (August 2020 new prices)
 
-For example, this is how video looks like with my DDJ-1000 connected:\
-"You cannot use this function in your current plan."\
+For example, this is how video looks like with my DDJ-1000 connected:  
+"You cannot use this function in your current plan."  
 ![v6_video_watermark](pics/v6_video_watermark.jpg?raw=true)
 
-Same story for DVS:\
+Same story for DVS:  
 ![v6_dvs_with_ddj_1000](pics/v6_dvs_with_ddj_1000.jpg?raw=true)
 
 
 ## How to ignore Rekordbox upgrades completely
 
-The last usable Rekordbox is version v5.6.0.\
+The last usable Rekordbox is version v5.6.0.  
 Later versions either have a bug on [XML import](https://www.youtube.com/watch?v=JV89dj1hDWM), 
 or they [lack XML export](#issues-of-the-V6-Rekordbox-migration---major) at all.
 

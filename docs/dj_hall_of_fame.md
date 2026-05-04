@@ -7,14 +7,14 @@
 
 This is a list of people from which I've learned a lot from the Global DJ community.
 
-When I started DJing in 2000 I've learned a lot from local DJs in Lisbon that I've meet regularly.\
+When I started DJing in 2000 I've learned a lot from local DJs in Lisbon that I've meet regularly.  
 The ones I worked the most were Rui Remix, Bruno Espadinha, Joao Vaz, Jaylion, Miguel Assumpcao and DJ Ice.
 
 20 years later the Internet changed this locality a lot.
 
 You can now learn anything from youtube tutorials, reading articles and have insightful conversations with people that you may never meet.
 
-Below some of the people that I've learned the most. Apologies if I forget anyone.\
+Below some of the people that I've learned the most. Apologies if I forget anyone.  
 All of them made significant contributions either in articles, software or video tutorials. 
 In the vast majority this is applicable to any DJ software.
 
@@ -53,7 +53,7 @@ Most of them I've either meet them in person, or I had numerous conversations wi
   
 ## Honorable mentions
 
-These individuals also made contributions that benefit a lot of users.\
+These individuals also made contributions that benefit a lot of users.  
 Biggest difference to the group above is that I had much less interactions with them.
 
 * [Damien Sirkis](https://forums.next.audio/c/rekord-buddy/faq) (RekordBuddy), 

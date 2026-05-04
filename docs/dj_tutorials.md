@@ -255,11 +255,11 @@ These are meant to be used on boats or in RVs, where you’re expected to run ap
 
 ## List of Online DJ Courses
   
-Below a list of DJ courses, all from well-known Tutors.\
-This is appropriate and recommended when you want a structured syllabus that covers all bases.\
+Below a list of DJ courses, all from well-known Tutors.  
+This is appropriate and recommended when you want a structured syllabus that covers all bases.  
 In particular DJTechtools is offering [interactive-only advanced sessions](https://us02web.zoom.us/webinar/register/WN_XyLog-v7QXm4LoBMxLfdCg).
 
-Other than paid courses, these fine people contributed A LOT of FREE tutorials in youtube, their websites and forums.\
+Other than paid courses, these fine people contributed A LOT of FREE tutorials in youtube, their websites and forums.  
 If you are dedicated enough, experimenting and trying these materials for yourself can get you as far as you want.
 
 * **Phil Morse and team:**
@@ -310,7 +310,7 @@ b) everything that happens while the fader is **UP** is extremely relevant to th
 The biggest exception to the above is that beatmatching takes a lot of time of the DJ. It is hard work. 
 This time comes on top of track-searching and cueing tasks.
 
-For some audiences like live-streaming, specialized non-commercial music styles, vinyl-only nights, etc they definitely appreciate the DJ to **look** and to **actually be** very busy.\  
+For some audiences like live-streaming, specialized non-commercial music styles, vinyl-only nights, etc they definitely appreciate the DJ to **look** and to **actually be** very busy.  
 To other audiences, this is not relevant at all.
 
 Taking the above rule into account, I then believe the following:
@@ -326,8 +326,8 @@ Taking the above rule into account, I then believe the following:
 
 Typically the DJ has a different point of view than that of the audience. 
 
-Beatmatching can range from being very enjoyable to being a burden. It definitely is a huge barrier to beginners that pursue this path.\  
-DJs themselves tend to enjoy being busy, so beatmatching is one way to satisfy that need.\  
+Beatmatching can range from being very enjoyable to being a burden. It definitely is a huge barrier to beginners that pursue this path.  
+DJs themselves tend to enjoy being busy, so beatmatching is one way to satisfy that need.  
 This also happens a lot with other topics like excessive use of EQ tuning, Effects, Scratching, sampling, etc.
 
 In the end I recommend that you learn Beatmatching as a useful backup tool for the cases of 80s, live drummers, unanalysed tracks, older equipment, vinyl, acapellas, etc.
@@ -417,7 +417,7 @@ Baz Curtis made detailed comparison of the AI separation of the same tracks [in 
 Baz Curtis extended the classic [key detection](https://www.reddit.com/r/DJs/comments/hwlzyt/key_detection_comparison_2020/fz0f52c/?utm_source=reddit&utm_medium=web2x&context=3) 
 work and extend it into 2020 with more softwares.
 
-These are his results:\  
+These are his results:  
 <https://www.reddit.com/r/DJs/comments/hwlzyt/key_detection_comparison_2020/>
 
 ![ ](https://i.redd.it/zs186m2cpnc51.png)

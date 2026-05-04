@@ -1,7 +1,7 @@
 
 # Free Mappings
 
-This section covers my free mappings on the DJTT site.\
+This section covers my free mappings on the DJTT site.  
 Below the direct links, and after this the description of each mapping.
 
 * **Main Traktor mappings**
@@ -23,15 +23,15 @@ Below the direct links, and after this the description of each mapping.
 
 ## How to DOWNLOAD my Traktor mappings:
 
-TO DOWNLOAD: you can ONLY download my mappings from the DJ tech tools site (http://maps.djtechtools.com).\
+TO DOWNLOAD: you can ONLY download my mappings from the DJ tech tools site (http://maps.djtechtools.com).  
 To do this you MUST register and then verify your email there.
 
 Note: sometimes that site is under maintenance. Please try later in this case.
 
 ## How to INSTALL my Traktor mappings:
 
-TO INSTALL: Please see this video where I show how to install the mappings: https://youtu.be/MbGP_ECnWiQ\
-See also this PDF file for step-by-step instructions: [installation guide](https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000/3%20Documentation)\
+TO INSTALL: Please see this video where I show how to install the mappings: https://youtu.be/MbGP_ECnWiQ  
+See also this PDF file for step-by-step instructions: [installation guide](https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000/3%20Documentation)  
 See also the common questions: [FAQ](https://github.com/pestrela/dj_maps/blob/master/mapping_ddj_1000/3%20Documentation)
 
 Some notes:
@@ -250,7 +250,7 @@ Summary:
 
 ## What documentation comes with your mappings?
 
-My zip files have **a lot** of documentation besides the TSI file.\
+My zip files have **a lot** of documentation besides the TSI file.  
 IMO it has no comparison to the typical mappings available on https://maps.djtechtools.com/ or https://www.traktorbible.com/freaks 
 
 Included is:
@@ -320,7 +320,7 @@ See also the next post for more details.
 
 ## List of DDJ-1000 firmware bugs open tickets
 
-Below is a list of open support tickets of firmware bugs.\  
+Below is a list of open support tickets of firmware bugs.  
 These issues were already reported years ago and will not get fixed unless more people report them.
 
 To do this, create a ticket **yourself** and mention "ticket 147606".
@@ -378,10 +378,10 @@ Please ask Serato directly for this: <https://serato.com/forum/discussion/173639
 The XP2 is now really popular because its the cheapest way 
 to unlock [Rekordbox V6 performance](#What-is-NOT-unlocked-in-the-Rekordbox-V6-hardware-options).
  
-My [DDJ-1000 mapping](https://maps.djtechtools.com/mappings/9279) is compatible with the XP1/XP2.\
+My [DDJ-1000 mapping](https://maps.djtechtools.com/mappings/9279) is compatible with the XP1/XP2.  
 So it will work. But it was not made specific to it, so some features might be missing.
 
-Strong recommendation is to use v6.3.3 of my DDJ-1000 mapping.\
+Strong recommendation is to use v6.3.3 of my DDJ-1000 mapping.  
 This is because later versions require [BOME](https://www.bome.com/products/miditranslator), 
 are more complex [to install](mapping_ddj_1000/Installation%20Help/DDJ%20Mappings%20-%20Installation%20Guide.pdf), 
 and focus on non-XP2-relevant features like the jog screens.
@@ -394,13 +394,13 @@ I have a **dedicated** DDJ-800 version, featuring minor adaptations.
 
 Video Demo: [here](ttps://www.youtube.com/watch?v=OLUQkm-2KX0&list=PLIlvTGzSxI0XHlFyINdT6P42noqvkPISD&index=9)
 
-**Important:** The screens are NOT supported because of a **Pioneer bug.**\  
+**Important:** The screens are NOT supported because of a **Pioneer bug.**  
 Please ask Pioneer directly for this: [instructions](#Missing-jog-screens-on-DDJ-800-and-DDJ-1000SRT)
 
 
 ## Can I use your mapping with the DDJ-SX2, SX3, RX, etc?
 
-YES. All these controllers are compatible.\  
+YES. All these controllers are compatible.  
 Download the [free zip file](https://maps.djtechtools.com/mappings/9222) and choose the main SZ/SX2 mapping.
 
 
@@ -416,10 +416,10 @@ I own 3x of them, so ONLY there the mappings are 100% tight:
 * DDJ-SZ
 * DDJ-SX2
 
-The other controllers [are compatible](https://github.com/pestrela/ddj/tree/main/1%20MIDI%20codes) - but there are always differences.\
+The other controllers [are compatible](https://github.com/pestrela/ddj/tree/main/1%20MIDI%20codes) - but there are always differences.  
 **So for these [please try the mapping FOR FREE](#can-i-test-your-mappings-for-free) in a shop/friend.**
 
-Once in a while I test controllers in a shop myself; ONLY in this case I describe the results in the first page of the mapping manual.\
+Once in a while I test controllers in a shop myself; ONLY in this case I describe the results in the first page of the mapping manual.  
 The DDJ-1000SRT is a special case, [which I cover in detail here](#is-the-ddj-1000srt-also-mappable-to-traktor)
 
 

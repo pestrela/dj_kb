@@ -1,4 +1,6 @@
 site_name: DJ Knowledge Base
+#site_url: https://pestrela.github.io/dj_kb/
+site_url: https://pestrela.github.io/dj_kb/
 
 plugins:
     #- search

@@ -20,8 +20,8 @@ This section covers DJ software optimization.
 
 ## How to optimize a laptop for DJ Software - Summary
   
-Every year laptops have more and more Power saving tricks.\
-These tricks are *VERY* damaging for DJ software.\
+Every year laptops have more and more Power saving tricks.  
+These tricks are *VERY* damaging for DJ software.  
 
 For a demo of theses issues please see at 1:20 of https://www.youtube.com/watch?time_continue=85&v=ijFJZf_KSM8
 
@@ -159,7 +159,7 @@ TODO: document the windows performance analyser
    
 ## Read this if you have erratic USB cable problems
 
-USB cables may be too thin and not deliver enough power to your controller.\
+USB cables may be too thin and not deliver enough power to your controller.  
 Confirm your cable does NOT have these labels:
 
 * 28/2C
@@ -198,7 +198,7 @@ MacOS:
 ## Buying a laptop for Audio
 
 **Update Oct 2020:** I highly recommend you buy the XMG windows laptop 
-[specially tuned and guaranteed by Ray Arkaei](https://djworx.com/the-xmg-dj-15-one-laptop-to-rule-them-all/).\  
+[specially tuned and guaranteed by Ray Arkaei](https://djworx.com/the-xmg-dj-15-one-laptop-to-rule-them-all/).  
 <https://djworx.com/the-xmg-dj-15-one-laptop-to-rule-them-all/>
 
 

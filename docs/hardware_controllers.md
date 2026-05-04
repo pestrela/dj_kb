@@ -27,7 +27,7 @@ Having said this, the DDJ-1000 has major features that I personally value signif
 
 * **F) Connectivity**. Thr DDJ-1000 has more inputs and outputs, microphones etc. In particular, the mixer has a full FX suite for any external inputs (colorFX + beatFX)
 
-Note: the S4mk3 is a fantastic controller - I have recommended it to several people before. In particular the loop/beatjump encoders implementation is the gold standard for that.\
+Note: the S4mk3 is a fantastic controller - I have recommended it to several people before. In particular the loop/beatjump encoders implementation is the gold standard for that.  
 The overall integration is better, of course, which is a plus if you prefer plug-and-play vs customization. 
 
 But in the end its really the big jogwheels that is the crucial deal breaker; This was completely abandoned by NI in 2014 with the release of the S8, and was only picked-up in 2018 with the S4MK3 (although, in my opinion, still not the same as the DDJ-1000).
@@ -110,12 +110,12 @@ What I dont use on jogs:
 
 ## But can I still scratch using MIDI? How much is the latency of your maps?
 
-**TL;DR:** YES you can scratch - as long you have a fast computer. Please see at 4:10 of [this video](https://www.youtube.com/watch?v=h9tQZEHr8hk&t=249) for a demo.\
+**TL;DR:** YES you can scratch - as long you have a fast computer. Please see at 4:10 of [this video](https://www.youtube.com/watch?v=h9tQZEHr8hk&t=249) for a demo.  
 Even better, try it [completely for free](#can-i-test-your-mappings-for-free), and see for youself.
 
 **Long answer:**
 
-Of course that If you are a 100% scratch DJ, then you should look for a native HID solution.\
+Of course that If you are a 100% scratch DJ, then you should look for a native HID solution.  
 But for the extreme vast majority of DJs I know, this solution is more than enough.
 
 Some relevant points:
@@ -218,15 +218,15 @@ Lots of ribbon cables and removing main and Aux PCB boards
   
 ## How to replace the DDJ-1000 filter knobs with Silver knobs
 
-Both 1000 and 1000SRT have extremely [dull filter knobs](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DDJ-1000RB.jpg). Which is a pity.\
+Both 1000 and 1000SRT have extremely [dull filter knobs](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DDJ-1000RB.jpg). Which is a pity.  
 For now the best fit is [DAA1309](https://www.pacparts.com/part.cfm?part_no=DAA1309&mfg=Pioneer) from the DDJ-SZ or DJM-900. This is an almost perfect fit.
 
 Folder with pictures of the knobs: [here](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs)
 
 * [DAA1309](https://github.com/pestrela/music/tree/master/pic_sets/silver_knobs/DAA1309.png):
     * This has the best fit overall. The knob is slightly higher than desired.
-    * [Part list](https://www.pacparts.com/part.cfm?part_no=DAA1309&mfg=Pioneer): \
-      DJM-900NX2/2000NX1/750\
+    * [Part list](https://www.pacparts.com/part.cfm?part_no=DAA1309&mfg=Pioneer):   
+      DJM-900NX2/2000NX1/750  
       DDJ-SZ/ DDJ-RZ/ DDJ-RZX
   
 * [DAA1320/DAA1350](https://github.com/pestrela/music/tree/master//pic_sets/silver_knobs/DAA1320.jpg):

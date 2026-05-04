@@ -61,9 +61,9 @@ Traktor misses elastic beatgrids. This was the #1 request from the [Digital DJ T
 | **Denon Prime** | no | no (see note2) | https://www.youtube.com/watch?v=bqhDRX6ghfM&t=598 |
 
 
-**Note1:** Manually beatgriding tracks in rekordbox is tricky because its a strictly left-to-right operation.\
+**Note1:** Manually beatgriding tracks in rekordbox is tricky because its a strictly left-to-right operation.  
 In other words: there is no way to put beatmarkers in front of the track without deleting them at the middle/end as well. 
-[more info](https://forums.pioneerdj.com/hc/en-us/community/posts/115010528306)\
+[more info](https://forums.pioneerdj.com/hc/en-us/community/posts/115010528306)  
 **Note2:** Denon Prime [wraps tracks](https://www.youtube.com/watch?v=bqhDRX6ghfM&t=598) and has problems with ID3tag [whole BPM numbers](https://www.reddit.com/r/DenonPrime/comments/cfxqr2/prime_4s_trusted_bpm_aka_why_using_the_bpm_tag_is/). 
 
 
@@ -71,7 +71,7 @@ In other words: there is no way to put beatmarkers in front of the track without
 ## How to emulate Elastic Beatgrids in Traktor
 
 
-Below a recipe to **approximate** Elastic beatgrids in Traktor, automatically using Rekordbox conversion.\
+Below a recipe to **approximate** Elastic beatgrids in Traktor, automatically using Rekordbox conversion.  
 The simplest method is presented first, then a more accurate/faster method is presented second.
 
 **Important:** this is only applicable for unsteady tracks 

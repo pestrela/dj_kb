@@ -11,16 +11,16 @@
 
 ### Retro Remixes
 I'm a big fan of Retro remixes ([wikipedia page](https://en.wikipedia.org/wiki/80%27s_remix)). 
-These are remixes of modern tracks with typical 80s sounds, but with the original vocal.\  
+These are remixes of modern tracks with typical 80s sounds, but with the original vocal.  
 
 Good artists to check are
 [Exile](https://www.youtube.com/user/dima839/videos?view=0&sort=dd&flow=grid),
 [Initial Talk]( https://www.youtube.com/channel/UC-zc27zh_-_x0UI7wiqAg7w/videos?view=0&sort=dd&flow=grid),
 [Tronicbox](https://www.youtube.com/channel/UCB3W9gT-mFMN1j12pydSNOw/videos?view=0&sort=dd&flow=grid )
-and [SX Ade Synthwave](http://youtube.com/channel/UCcG7Yj2yVP_11oy9D7nLbkQ/videos?view=0&sort=dd&flow=grid ).\  
+and [SX Ade Synthwave](http://youtube.com/channel/UCcG7Yj2yVP_11oy9D7nLbkQ/videos?view=0&sort=dd&flow=grid ).  
 [Loki](https://www.youtube.com/user/patryk1997100/videos?view=0&sort=dd&flow=grid)
 and [Sagkra]( https://www.youtube.com/user/sakgramixesII/videos?view=0&sort=dd&flow=grid) have 
-only a few retro remixes, but there they are **rely really good**.\  
+only a few retro remixes, but there they are **rely really good**.  
 
 Full playlists: 
 
@@ -32,23 +32,23 @@ Full playlists:
 
 
 Similar is Metal remixes. In that style, people transform modern tracks in to Hard Rock/Metal style.
-There it ranges from playing the guitars/drums on top of the track, all the way to remaking the whole track.\
+There it ranges from playing the guitars/drums on top of the track, all the way to remaking the whole track.  
 Good authors to check are [Sindre Myskja](https://www.youtube.com/user/sindremyskja/videos?view=0&sort=dd&flow=grid) (this is the best one by far),
 [Danny Killian](https://www.youtube.com/user/danyTWIG/videos)) (note: a lot of videos were deleted), 
 [Bliix]( https://www.youtube.com/user/bliix/videos?view=0&sort=dd&flow=grid)
 [Jotun studio]( https://www.youtube.com/user/Jotun6662/videos?view=0&sort=dd&flow=grid),
-[Nanock](https://www.youtube.com/channel/UCxSoglV-neBcp_6aVTPFSlg/videos).\
+[Nanock](https://www.youtube.com/channel/UCxSoglV-neBcp_6aVTPFSlg/videos).  
 Full Playlists: [Playlist 1](https://www.youtube.com/watch?v=XLipQ7AgcsE&list=RDXLipQ7AgcsE )
 
 ### Reggae Remixes
 
 Same idea is reggae remixes.
-Again, modern tracks are remixed with the typical reggae sounds, but with the original vocal.\
+Again, modern tracks are remixed with the typical reggae sounds, but with the original vocal.  
 Good authors to check are [Theemotion]( https://www.youtube.com/channel/UCXxbs26yQ9BUwVLIUpOVf3w/videos?view=0&sort=dd&flow=grid ),
 [Jr Blender]( https://www.youtube.com/user/thatshitissowild/videos?view=0&sort=dd&flow=grid),
 [Chala](  https://www.youtube.com/channel/UCpXSNWccH_2ONpP3zTig2_g/videos?view=0&sort=dd&flow=grid),
 [Ganja music](https://www.youtube.com/channel/UCdsLQbyCDWjYluA3N0khGIQ)
- and [BillyBoy](https://soundcloud.com/billyboyfiji679 ) \
+ and [BillyBoy](https://soundcloud.com/billyboyfiji679 )   
 Full Playlist: [Playlist 1](https://www.youtube.com/watch?v=A_j7AhQRzKg ), 
 
   

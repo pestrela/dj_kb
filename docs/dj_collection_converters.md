@@ -56,7 +56,7 @@ if mp3 does NOT have a Xing/INFO tag:
 
 ## Which DJ converters avoid the 26ms shift issue?
 
-Historically, there was no way to convert your collection on Windows. The only converters available were for MacOS. This has now changed recently.\
+Historically, there was no way to convert your collection on Windows. The only converters available were for MacOS. This has now changed recently.  
 All softwares take different approaches to solve the [26ms shift problem](#what-is-the-26ms-shift-issue-when-converting-cuesloops-between-softwares).
 
 This is the current situation as far as I tested it myself:

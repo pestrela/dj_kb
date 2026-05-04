@@ -1,7 +1,7 @@
 
 # Traktor Slow preferences Window
   
-This section is all about the slow preferences window.\
+This section is all about the slow preferences window.  
 I've been able to reduce this from 18 seconds to only 3 seconds.
  
 * [Issue explanation](#Why-MIDI-mappings-makes-the-preferences-window-slow)
@@ -19,7 +19,7 @@ See at 11 seconds of this video how quickly Stevan Djumic swaps between pages:
 ## Why MIDI mappings makes the preferences window slow
 
 Traktor has thousands of useless ["MidiDefinition structures"](https://github.com/ivanz/TraktorMappingFileFormat/blob/df5f544d10e3293b72b829841e654da0db71c4b0/Tools/TSI%20Mapping%20Template.bt#L130) 
-for every possible midi combination that **COULD** be used.\
+for every possible midi combination that **COULD** be used.  
 This set is much much larger than the entries that are **actually used**.
 
 Worse, these entries are replicated in every single "empty page".
@@ -29,7 +29,7 @@ For example [Pioneer DDJ-SZ mapping take 18 seconds to load](#How-slow-does-the-
 A second sign is that it makes the TSI file much larger.
 
 The [CMDR editor](https://github.com/cmdr-editor/cmdr#2020-improvements) removes this overhead 
-(see [line 337 of this file](https://github.com/cmdr-editor/cmdr/blob/master/cmdr/cmdr.TsiLib/Device.cs#L337)).\
+(see [line 337 of this file](https://github.com/cmdr-editor/cmdr/blob/master/cmdr/cmdr.TsiLib/Device.cs#L337)).  
 However Traktor still recreates these entries **per page** anyway.
 
 

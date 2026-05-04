@@ -264,7 +264,7 @@ it is far quicker to use this, than to developing your own technology.
 The MIT license choose by Spleeter its very permissive and has very few conditions:
 <https://choosealicense.com/licenses/>
 
-This is a general example where you just need to attribute things:\
+This is a general example where you just need to attribute things:  
 "Third Party Software Acknowledgements"
 <https://www.denondj.com/product-legal-sc5000-prime>
 
@@ -288,7 +288,7 @@ This is a small program to check relative links inside the same MD document: [md
 [This folder](https://github.com/pestrela/music/tree/master/wsl_tools) contains Windows tweaks and other generic tools.
 
 My [autohotkey file (AHK)](https://github.com/pestrela/music/tree/master/wsl_tools/AutoHotkey.ahk) has all kinds of 
-useful *global* shortcuts that *work for any text of any program*.\  
+useful *global* shortcuts that *work for any text of any program*.  
 
 All these shortcuts operate in a single line, or a list of lines:
 
@@ -322,7 +322,7 @@ The main factor of this is simplification and lower quality / minimum viable pro
 
 To reduce cost, both [backwards and forward compatibility](https://www.rainforestqa.com/blog/2017-05-11-common-pitfalls-of-continuous-delivery-deployment-raciness) 
 are dropped. Its far far simpler to the developer to just force the user to upgrade **all** components if just **one** them gets upgraded. 
-Instead of checking what actually changed, and if the old/unchanged functions would just work fine with the previous version.\  
+Instead of checking what actually changed, and if the old/unchanged functions would just work fine with the previous version.  
 Typically the server gets updated first, then the client App needs to follow.
 
 Some years ago changes and all protocols had compatibility in mind, so that the user could continue 
@@ -338,7 +338,7 @@ However, the **complex tasks** are being dumbed down by force, and worse, they a
 The existing documentation all moved online and is searchable. That is reasonable, but typically there is no longer structured manuals that would explain the features of eg your new mobile phone, 
 and every single configuration option.
 
-Other examples are the dumbing down of laptops to approach tablets by force (Windows 8 comes to mind). A Tablet is great for content **consuming**, but a laptop is irreplaceable for content **producing**.\  
+Other examples are the dumbing down of laptops to approach tablets by force (Windows 8 comes to mind). A Tablet is great for content **consuming**, but a laptop is irreplaceable for content **producing**.  
 Specific examples are Function and insert keys being secondary, the loss of physical buttons like ESC in mac, short keyboards without insert/delete section like it was present on the [standard 102 keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard)
 
 

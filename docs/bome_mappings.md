@@ -17,7 +17,7 @@ and the HC-4500 mapping to get track details.
 * [c) BOME limits](#Some-Limitations-of-BOME-mappings)
 * [d) Future of Traktor mappings](#How-I-see-the-future-of-Traktor-mappings)
 
-Because of this all my latest mappings require [BOME](https://www.bome.com/products/miditranslator).\
+Because of this all my latest mappings require [BOME](https://www.bome.com/products/miditranslator).  
 (The older versions do not require BOME and are simpler to install).
 
 
@@ -64,14 +64,14 @@ See also this list of **advanced** posts and tools:
 
 ## How I see the future of Traktor mappings
 
-A major Traktor strength is the MIDI mappings system. They are over and over praised to be very flexible and powerful.\
-Traktor maps are by far the most popular in https://maps.djtechtools.com \
+A major Traktor strength is the MIDI mappings system. They are over and over praised to be very flexible and powerful.  
+Traktor maps are by far the most popular in https://maps.djtechtools.com   
 Large mappings are really complex to build - but once this is done other users immediately benefit by just installing them.
 
-However the Traktor mappings system didn't get improvements for years, and [is is now quite old](#Why-I-moved-to-BOME-midi-mapping-Traktor-limits).\
+However the Traktor mappings system didn't get improvements for years, and [is is now quite old](#Why-I-moved-to-BOME-midi-mapping-Traktor-limits).  
 It now is also impossible to use it alone [to map the latest controllers](#Why-I-moved-to-BOME-midi-mapping-Impossible-features).
 
-For example in my DDJ-1000 mapping I had to use BOME midi translator as a middle man:\
+For example in my DDJ-1000 mapping I had to use BOME midi translator as a middle man:  
 https://maps.djtechtools.com/mappings/9279
 
 A second issue is that the most popular Traktor-ready controllers from NI did not got MIDI mapping capabilities at launch, and took quite a while to do so. 

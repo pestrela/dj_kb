@@ -129,7 +129,7 @@ Customized openshot shortcuts:
 I have **all** my Traktor files synchronized between laptops. This includes [100Gb of music](#why-i-manage-music-using-os-folders-only)
  and all Traktor files.
  
-I can use any laptop at any time, one at the time, and my whole collection is there fully analyzed. As my NAS is just another client, I get automatic RAID-0 backups as well.\
+I can use any laptop at any time, one at the time, and my whole collection is there fully analyzed. As my NAS is just another client, I get automatic RAID-0 backups as well.  
 In a nutshell this is like having everything inside your own private google drive, without size limits.
 
 My folder structure is:

@@ -30,7 +30,7 @@ In particular there is the extremely annoying decision of having to use 2 hands 
  [forward delete key](https://forums.macrumors.com/threads/why-no-delete-key.1360799/). 
 Same story for the Maximize feature. Same story for lack of USB-A ports, SD cards and dongles. 
 Ditto for no headphone jack in recent iphones.
-In all cases the answer is  "get used to it". Well, I didn't.\
+In all cases the answer is  "get used to it". Well, I didn't.  
 See also [my Windows tweaks](#Generic-Windows-tweaks-and-programs-I-use)
 * **c) Software library:** Very limited choice on software and freeware, as compared to Windows
 * **d) Expensive:** Underpowered machines, when compared to their direct windows counterparts [in the same price range](https://musiccritic.com/equipment/disk-jockey/best-laptops-for-djing/)
@@ -75,7 +75,7 @@ Plus some specific programs:
 ## How to use QQTabBar with multiple tabs, folder bookmarks and program launchers
 
 QQTabbar ([link to a review](https://www.techsupportalert.com/content/qttabbar.htm)) is 
-an amazing file explorer add-on. It supports multiple tabs, folder bookmarks and program launchers.\
+an amazing file explorer add-on. It supports multiple tabs, folder bookmarks and program launchers.  
 I use this every day to open WSL linux terminals in the current folder, and to open audio files programs directly.
 
 Usage:

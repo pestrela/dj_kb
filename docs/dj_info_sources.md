@@ -47,7 +47,7 @@ Versions:
   * some cues are gradual IN/OUT fades, some are already open faders.
   * https://www.dropbox.com/sh/bg4ey3z8uieis0e/AABlZeCqyskOgKWyjlXdsphVa?dl=0
 
-**IMPORTANT:** ALL TRACKS ARE COPYRIGHT 1995 [KAOS RECORDS](http://bit.ly/KaosRecords).\
+**IMPORTANT:** ALL TRACKS ARE COPYRIGHT 1995 [KAOS RECORDS](http://bit.ly/KaosRecords).  
 Tracks were recorded from vinyl for **EDUCATIONAL PURPOSES ONLY.** ([Fair use disclaimer](https://www.termsfeed.com/blog/fair-use-disclaimer/)).
 
 

@@ -200,7 +200,7 @@ This is the original article where Ean Golden applied these FX chains to the jog
   
 ## Which basic effects constitute Traktor mixerFX and macroFX?
   
-MixerFX / MacroFX are essentially FX chains with specific defaults and behavior.\
+MixerFX / MacroFX are essentially FX chains with specific defaults and behavior.  
 This post describes the basic elements of MixerFX using simpler base effects (delay, echo, filter, reverb, flanger, beatmasher, bitcrush, white noise).
 
 

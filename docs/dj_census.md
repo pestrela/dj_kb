@@ -7,7 +7,7 @@
 Digital DJ Tips and DJ Tech Tools collect yearly data on the most popular software and controllers. 
 Every year I update this page with the new data points over time. Source files are [here](https://github.com/pestrela/music/tree/master/census_graphs)
 
-See also the [most popular DJ softwares census](https://github.com/pestrela/music/tree/master/census_graphs).\
+See also the [most popular DJ softwares census](https://github.com/pestrela/music/tree/master/census_graphs).  
 See also the graph showing the [most popular DJ softwares over time](https://github.com/pestrela/music/tree/master/census_graphs).
 
 ![dj software over time](
