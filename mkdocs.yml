@@ -21,6 +21,8 @@ markdown_extensions:
         permalink: yes
     - admonition
     - def_list
+    - pymdownx.magiclink
+  
     #- mdx_gh_links:
     #    user: mkdocs
     #    repo: mkdocs
