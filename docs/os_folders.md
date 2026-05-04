@@ -26,6 +26,10 @@ See also [Why I manage music using OS-folders only](#why-i-manage-music-using-os
 
 ## Why I manage music using OS-folders only
 
+**Update:** also see this [blog post from Ray Arkaei](https://roguedjs.com/why-djing-is-a-hard-sell-pt2/#:~:text=I%20have%20my,on%20Traktor.)
+ from <http://roguedjs.com>, and the same idea from [Dan Morse](https://roguedjs.com/its-not-me-its-you-what-does-it-take-to-switch-dj-ecosystem/)
+ 
+
 Above, I've explained [the size and complexity of my collection](#How-large-is-your-collection-How-broad-is-your-collection).  
 This is nothing new; I know many DJs with [the same "problem"](https://code.google.com/archive/p/serato-itch-sync/). The difference is on the *how*; In my case I manage the collection only in OS-folders, instead of DJ-playlists.
 
