@@ -182,7 +182,7 @@ Of which I recommend these files:
 
 **Update:**
 
-Spleter claims VirtualDJ uses it:  
+Spleeter claims VirtualDJ uses it:  
 <https://github.com/deezer/spleeter#projects-and-softwares-using-spleeter>
 
 VirtualDJ claims otherwise:  
